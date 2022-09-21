@@ -916,35 +916,3 @@
 0	costumes novelty clothing women  bras enell high impact sports  bra
 1	clothing shoes jewelry men big  tall	clothing shoes jewelry   big tall  fruit loom men 7 pack boxer  brief
 0	 clothing shoes jewelry   big tall  fruit  men 7 pack boxer  brief
-1	clothing shoes jewelry n nine  west	n  clothing jewelry shoes   sandals  nine west women archavia platform  sandal
-0	n  clothing jewelry shoes   sandals   west women archavia platform  sandal
-1	clothing shoes jewelry women accessories wraps fashion  scarves	women accessories wraps bundle monster 8pc womens fancy shawl scarf fashion solid scarves mixed  lot
-0	women accessories wraps bundle monster 8pc womens fancy shawl scarf fashion solid scarves   lot
-1	clothing shoes jewelry women plus  size	petite intimates bras  clothing shoes jewelry   plus size  panache women underwired sports  bra
-0	petite intimates bras  clothing shoes jewelry    size  panache women underwired sports  bra
-1	shoes jewelry costumes novelty clothing women underwear  bras	costumes novelty clothing women underwear bras enell high impact sports  bra
-0	costumes novelty clothing women underwear s enell high impact sports
-1	clothing jewelry comfort  shoes	comfort  clothing jewelry shoes   sandals  dr scholl women original exercise sandal white  9
-0	comfort   jewelry shoes   sandals  dr scholl women original exercise sandal white  9
-1	clothing shoes jewelry women plus size intimates bras  minimizers	petite everyday  clothing shoes jewelry plus size intimates bras   minimizers  glamorise women soft shoulders minimizer bra  1135
-0	petite   clothing shoes jewelry plus size intimates bras   minimizers  glamorise women soft shoulders minimizer bra  1135
-1	shoes jewelry women clothing lingerie sleep lounge intimates sports  bras	clothing lingerie sleep lounge intimates bras shock absorber women extreme support classic sports bra  109
-0	clothing lingerie sleep lounge intimates s shock absorber women extreme support classic sports   109
-1	shoes jewelry women clothing lingerie sleep lounge intimates panties  bikinis	women clothing lingerie sleep lounge intimates panties bikinis angelina 12 pair striped cotton string bikini  1058
-0	women clothing  sleep lounge intimates panties bikinis angelina 12 pair striped cotton string bikini  1058
-1	shoes jewelry costumes novelty clothing women underwear  bras	costumes novelty clothing women underwear bras enell high impact sports  bra
-0	costumes novelty clothing women underwear bras enell high impact   bra
-1	shoes jewelry costumes novelty clothing women underwear  bras	costumes novelty clothing women underwear bras enell high impact sports  bra
-0	costumes novelty clothing women underwear s enell high impact sports
-1	shoes jewelry costumes novelty clothing women underwear  bras	costumes novelty clothing women underwear bras enell high impact sports  bra
-0	costumes novelty clothing women underwear bras enell  impact sports  bra
-1	clothing shoes jewelry women maternity tops tees tanks  camis	clothing shoes jewelry women maternity tops tees   tanks camis  bravado designs essential nursing bra tank curvalicious  sizing
-0	 clothing shoes jewelry women maternity tops tees   tanks camis  bravado designs essential nursing bra tank curvalicious  sizing
-1	shoes jewelry men clothing pants  casual	clothing pants casual 5 11 74273 men taclite pro  pant
-0	clothing pants casual 5  74273 men taclite pro  pant
-1	clothing jewelry shoes accessories international shipping  available	n shop fashion riding  clothing jewelry shoes   boots  nine west women counter w  boot
-0	n shop fashion riding  clothing jewelry shoes   boots  nine  women counter w  boot
-1	clothing shoes jewelry women plus size intimates sports  bras	petite everyday  clothing shoes jewelry plus size intimates   bras  glamorise women full figure sports bra  1006
-0	petite everyday  clothing shoes jewelry  size intimates   bras  glamorise women full figure sports bra  1006
-1	shoes jewelry costumes novelty clothing women underwear  bras	costumes novelty clothing women underwear bras enell high impact sports  bra
-0	costumes novelty clothing women underwear bras enell high impact sports  bra
