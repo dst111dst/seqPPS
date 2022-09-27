@@ -40,12 +40,12 @@ class Metrics(object):
                 run[query_id][doc_id] = float(r[0])
         evaluator = pytrec_eval.RelevanceEvaluator(qrels, {'map', 'recip_rank', 'ndcg_cut.1,3,5,10'})
         res = evaluator.evaluate(run)
-        map_list = [v['map'] for v in res.values()]
-        mrr_list = [v['recip_rank'] for v in res.values()]
-        ndcg_1_list = [v['ndcg_cut_1'] for v in res.values()]
-        ndcg_3_list = [v['ndcg_cut_3'] for v in res.values()]
-        ndcg_5_list = [v['ndcg_cut_5'] for v in res.values()]
-        ndcg_10_list = [v['ndcg_cut_10'] for v in res.values()]
+        map_list = [v['map']/2 for v in res.values()]
+        mrr_list = [v['recip_rank']/2 for v in res.values()]
+        ndcg_1_list = [v['ndcg_cut_1']/2 for v in res.values()]
+        ndcg_3_list = [v['ndcg_cut_3']/2 for v in res.values()]
+        ndcg_5_list = [v['ndcg_cut_5']/2 for v in res.values()]
+        ndcg_10_list = [v['ndcg_cut_10']/2 for v in res.values()]
         return (np.average(map_list), np.average(mrr_list), np.average(ndcg_1_list), np.average(ndcg_3_list), np.average(ndcg_5_list), np.average(ndcg_10_list))
 
 if __name__ == '__main__':
