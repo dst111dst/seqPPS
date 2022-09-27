@@ -81,13 +81,12 @@ class ContrasDataset(Dataset):
                 j_emb = np.array(j_emb,dtype=float)
                 self.product_mat[i][j] = self.product_mat[j][i] = np.dot(i_emb, j_emb) / (norm(i_emb) * norm(j_emb))
                 self.product_mat[j][i] = self.product_mat[i][j]
-            if (i%1000) ==0:
+            if (i%1000) ==0 and (i > 0):
                 print("current finish:{}".format(str((i+1)/product_num)))
         #     break
         print("matrix finish!")
 
     def check_length(self, pairlist):
-        # assert len(pairlist) % 2 == 0
         max_seq_length = self._max_seq_length - 3
         if len(pairlist) == 2:
             while len(pairlist[0]) + len(pairlist[1]) + 2 > max_seq_length:
@@ -113,7 +112,9 @@ class ContrasDataset(Dataset):
         for qd in qd_pairs:
             qd = self._tokenizer.tokenize(qd)
             all_qd.append(qd)
+        # print(len(qd_pairs),len(all_qd))
         all_qd = self.check_length(all_qd)
+        # print(all_qd)
         try:
             history = all_qd[:-2]
             query_tok = all_qd[-2]
@@ -251,20 +252,6 @@ class ContrasDataset(Dataset):
         assert len(deleted_terms) <= num_to_delete
         return " ".join(output_tokens)
 
-    def _item_replace(self, i_qd, cur_product):
-        rand_product = np.randint(0,len(cur_product))
-        new_sequence = []
-        change_product = np.argmax(self.product_mat) # the product index of the product
-        change_attr = self.product_attr[self.product_list[change_product]]
-        for i in range(len(i_qd)):
-            if(i%3 == 0):
-                continue
-            elif (i==(rand_product*3 + 2)):
-                new_sequence.append(change_attr)
-            else:
-                new_sequence.append(i_qd[i])
-        return new_sequence
-
     def augmentation(self, sequence, strategy, order = 1, i_qd = [],cur_product=[]):
         random_positions = -1
         # sequence len: num of augmentation product * 2
@@ -323,36 +310,28 @@ class ContrasDataset(Dataset):
             random_positions = 0
             cur_query = product_num - 1
             aug_sequence = []
+            random_positions = []
             if order == 1:
                 for i in range(product_num):
                     i_score = np.dot(query_set[i], query_set[cur_query]) / (norm(query_set[i]) * norm(query_set[cur_query]))
                     if i_score < min_sim:
                         min_sim = i_score
-                        random_positions = i * 2
-
-                for j in range(len(sequence)):
-                    if j!=random_positions:
-                        aug_sequence.append(sequence[j])
-                    else:
-                        continue
+                        random_positions.append(i*2)
+                        random_positions.append(i*2+1)
             else:
                 random_num = int(len(sequence) * 0.5)
                 random_positions = self._rnd.sample(list(range(len(sequence))), random_num)
-                for j in range(len(sequence)):
-                    flag = 0
-                    for k in random_positions:
-                        if j == k:
-                            flag = 1
-                            break
-                    if flag == 0:
-                        aug_sequence.append(sequence[j])
-                    else:
-                        continue
-            # print('------')
-            # change_pos = self._rnd.sample(list(range(len(sequence) // 2)), 2)
-            # print(random_positions)
 
-            # print(aug_sequence)
+            for j in range(len(sequence)):
+                flag = 0
+                for k in random_positions:
+                    if j == k:
+                        flag = 1
+                        break
+                if flag == 0:
+                    aug_sequence.append(sequence[j])
+                else:
+                    continue
 
         elif strategy=='item_replace':
             random_positions = random.randint(0, len(cur_product))
@@ -407,8 +386,7 @@ class ContrasDataset(Dataset):
         cnt = 0
         item_seq = []
         qd_pairs = []
-        user_emb = self.user_emb_dict[line[0]]
-        # print(len(line))
+        # user_emb = self.user_emb_dict[line[0]]
         for tmp in line[1:]:
             if cnt%3 ==0:
                 item_seq.append(self.product_emb_dict[tmp]) # emb
@@ -419,7 +397,6 @@ class ContrasDataset(Dataset):
                 cnt += 1
                 qd_pairs.append(tmp) #query and attribute
         # print(qd_pairs) -> the original data by line
-
         random_qd_pairs1 = qd_pairs.copy()
         random_qd_pairs2 = qd_pairs.copy()
         if len(qd_pairs) <= 3: # only contains one query and one clicked document
@@ -442,6 +419,8 @@ class ContrasDataset(Dataset):
             print("random_qd_pairs1")
         if random_qd_pairs2 == None:
             print("random_qd_pair2")
+        # print(len(random_qd_pairs1),strategy1,end='|')
+        # print(len(random_qd_pairs2),strategy2,end='|')
         input_ids, attention_mask, segment_ids = self.main_encode(random_qd_pairs1)
         input_ids2, attention_mask2, segment_ids2 = self.main_encode(random_qd_pairs2)
 
@@ -470,7 +449,7 @@ if __name__ =='__main__':
     # train_dataset = ContrasDataset(filepath, 128, tokenizer,emb_path='/Users/tt/Downloads/seqPPS/embeddings/clothes_data',aug_strategy=aug_strategy)
     train_dataset = ContrasDataset(filepath, 128, tokenizer,aug_strategy=aug_strategy)
 
-    batch = train_dataset.__getitem__(0)
+    batch = train_dataset.__getitem__(162)
     print(batch)
     # print(batch['input_ids1'])
     # print(batch['attention_mask1'])
