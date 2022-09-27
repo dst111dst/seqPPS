@@ -1,1 +1,500 @@
-2
+1	cell phones accessories basic cases	AKV87H8H5TYQD_6956
+0	cell phones accessories basic cases	A3VRLPNRXFB1OY_3633
+0	cell phones accessories replacement parts	ARZX1CBWP7M2W_5546
+1	cell phones accessories stylus pens	ADC1YN9VW382Z_711
+0	cell phones accessories stylus pens	AG2WLXDREGE41_9604
+0	cell phones accessories data cables	AZMY6E8B52L2T_2591
+0	cell phones accessories wired headsets	A3K14PAV2AXJAV_1120
+0	cell phones accessories batteries battery charger cases	A3OFWBLNJV4QNY_152
+0	cell phones accessories wallet cases	A1PC2SSGC163H7_2175
+0	cell phones accessories basic cases	AZ26JNIF8SQ6I_5946
+0	cell phones accessories basic cases	A2BSJAGWK9TE44_749
+1	cell phones accessories internal batteries	A32Y6SQXZHCRUY_1211
+0	cell phones accessories batteries external battery packs	A3BACUOZV1M0WM_128
+0	cell phones accessories basic cases	A37QUQPYFMR9Y9_3578
+0	cell phones accessories basic cases	A4WEZJOIZIV4U_2038
+0	cell phones accessories bluetooth headsets	A1E75OE7SN6QEJ_6692
+0	cell phones accessories basic cases	A3GISRNT7BJEO8_2009
+0	cell phones accessories basic cases	A2N8WQLYKJ56P_3812
+0	cell phones accessories data cables	A2QIHQ4HE4G9HE_1544
+0	cell phones accessories basic cases	A2YHTFEMTPWV27_5294
+0	cell phones accessories wallet cases	A1DBFG6H30UAZK_6594
+0	cell phones accessories batteries external battery packs	A3CZWVO53MLZI9_4399
+0	cell phones accessories screen protectors	A273MVZONCQXQE_2307
+1	phones accessories chargers cell phone docks	A36AAQUZ3XUGTH_3979
+0	cell phones accessories car chargers	A3HYYO8PBJZ0J0_2925
+0	cell phones accessories basic cases	A32FA795E74CEN_3482
+0	cell phones accessories	A3PP8GIB3JJ03U_3130
+0	cell phones accessories basic cases	A22PJG27JHKWPA_380
+1	cell phones accessories screen protectors	AK84MA4ILLJN8_670
+0	phones accessories chargers cell phone docks	AR7CESR484YEP_460
+0	accessories unlocked cell phones	A2IBLII74AMSGT_8109
+0	cell phones accessories travel chargers	A248LSBZT4P38V_1285
+0	phones accessories chargers cell phone docks	A2J591OLWPBEMQ_2263
+0	cell phones accessories bluetooth headsets	A23T5Z8KQDA3X_4197
+0	cell phones accessories car chargers	A11FWFZNI2VQT_2774
+0	cell phones accessories basic cases	A20OBCQWBKCGZT_74
+0	cell phones accessories bluetooth headsets	A1G8HS9QB0LH6L_4705
+0	cell phones accessories basic cases	AIC77P1TNFED0_768
+1	cell phones accessories car chargers	AOMMPGDITA5H6_87
+0	cell phones accessories data cables	A3PCQ5E35Y85RY_2113
+1	cell phones accessories basic cases	A2GBZW1OZ0EPBD_7789
+0	cell phones accessories car chargers	A301Z8IOK3T238_1004
+1	cell phones accessories basic cases	A3TAAT01UITNRB_367
+0	cell phones accessories screen protectors	A14X244VGHWPSX_1364
+0	cell phones accessories car chargers	A1AG67AA07PUNB_207
+0	cell phones accessories basic cases	A11INHOF3V7U22_5252
+1	cell phones accessories replacement parts	A11Y935X5S2MPW_8373
+0	cell phones accessories basic cases	A3K3XW72N8P8RA_6019
+0	cell phones accessories basic cases	A2Y29IRSI08F0I_25
+0	cell phones accessories	ABEJ73URFFICN_3615
+0	cell phones accessories travel chargers	A2O8LMXTUV715H_7229
+0	cell phones accessories travel chargers	AV9PIER7NE448_291
+0	accessories unlocked cell phones	A2WLNSZ9U0T1S3_633
+0	cell phones accessories basic cases	A3O3NQSQQOWEA7_3542
+0	cell phones accessories cases armbands	A1DGJXHASIY2IN_22
+0	cell phones accessories data cables	A84FLVDK2R5JF_2637
+0	cell phones accessories basic cases	A18EA7MNLXP9H5_5343
+0	cell phones accessories basic cases	A3VDLLK6EP4DJ0_749
+1	cell phones accessories car chargers	A4NCJATGZ3X8_4658
+0	cell phones accessories basic cases	A71Z9883YHWOH_879
+0	cell phones accessories screen protectors	A2C5UIAUFFEITV_5293
+0	cell phones accessories travel chargers	AZZYW4YOE1B6E_1411
+0	cell phones accessories screen protectors	A32QA6K6ORMFDP_1713
+0	cell phones accessories basic cases	A3IFWP7W6DYJBH_3448
+0	electronics computers accessories interconnects usb cables	AT045I2O5NJZC_3484
+0	cell phones accessories screen protectors	A3M6L13YZ8IUYJ_4086
+0	cell phones accessories car chargers	A1M3Q85TCKGWEO_8819
+1	electronics computers accessories	APCNT89GU2UH5_6801
+0	cell phones accessories basic cases	A24ZMNWTW8AQUR_1908
+0	cell phones accessories screen protectors	A2UATTW1F1O6XK_8569
+1	cell phones accessories basic cases	ADQVZKAIZ1EJO_4578
+0	cell phones accessories screen protectors	A3VONQL7YW8UPM_9270
+0	cell phones accessories basic cases	A1GK0VRWY7I3D1_2046
+0	electronics computers accessories	A215Z2JH5DRTWR_757
+1	cell phones accessories data cables	ACJ7QZW9RAFSY_3613
+0	cell phones accessories screen protectors	AMYZ7UL1UPEWF_1799
+0	cell phones accessories cases holsters clips	ASEIEO28ABJLS_3066
+0	cell phones accessories basic cases	A1CPYI1MCGXKLU_100
+0	cell phones accessories wallet cases	A26FRGMW71X12N_8772
+1	cell phones accessories basic cases	AUTDY38RJE7HW_460
+0	cell phones accessories car chargers	A1922IUGPVA8DG_1584
+0	cell phones accessories basic cases	A1GWG5CWLKJ7ET_2363
+0	cell phones accessories replacement parts	A3T4A7LHTTFB72_3536
+0	cell phones accessories basic cases	A39GC4GTGEVBQB_2256
+0	cell phones accessories travel chargers	ADFQS81MLFSIJ_3352
+0	cell phones accessories basic cases	A2CTVWA6OHITVT_8663
+1	cell phones accessories basic cases	ALWIPFLEEH17M_3129
+1	cell phones accessories wallet cases	A3OFL2KBLJ8H4O_4561
+0	cell phones accessories	A2YBML2AISHB6F_8690
+1	cell phones accessories basic cases	A1AJ9PDCZ85I5H_4916
+0	cell phones accessories basic cases	A313H6238N589_2715
+0	cell phones accessories data cables	A16O5HIXTZYUZL_2
+0	cell phones accessories wired headsets	A1957RB0QFJIH4_590
+0	cell phones accessories batteries battery charger cases	AYVC5K3JOW7YF_1100
+0	cell phones accessories screen protectors	AFNDP5MO8WI74_6810
+0	cell phones accessories basic cases	A24NN1DJGINMRG_764
+0	cell phones accessories basic cases	A1FKCHW4JB99W9_2046
+0	cell phones accessories data cables	A91TB0WX94MHP_112
+0	cell phones accessories screen protectors	A12B7ZMXFI6IXY_485
+0	cell phones accessories basic cases	A3TIHGG1OUC1M3_2267
+0	cell phones accessories cases holsters clips	A1901NTE8LFJF6_1943
+0	cell phones accessories internal batteries	A1WXRL57KZ2KRU_152
+0	cell phones accessories screen protectors	A3MCR65197EOEN_7931
+1	cell phones accessories basic cases	A3SBLJ82GOBYGA_8198
+0	cell phones accessories bluetooth headsets	AUQNPF7U6VW1B_1350
+0	cell phones accessories screen protectors	A1W72N07S3IUXU_2693
+0	cell phones accessories basic cases	A2Q3J6PZGYFKNH_3852
+0	cell phones accessories accessory kits	A1ZLV83UZACV8Z_4343
+0	cell phones accessories basic cases	ADC1YN9VW382Z_7669
+0	cell phones accessories screen protectors	A2CXEM5X6WGDF1_147
+0	cell phones accessories basic cases	A2TPXOZSU1DACQ_5812
+0	cell phones accessories basic cases	A2Z5CJRQA1IZHJ_4416
+0	cell phones accessories basic cases	ABGR2KY9RGVIT_447
+0	cell phones accessories basic cases	A1UVDMF8339BEO_9245
+0	cell phones accessories data cables	A1JVEONH6FOKVU_5256
+0	phones accessories chargers cell phone docks	A2L9EQ25AE074B_446
+0	accessories unlocked cell phones	AT53SEYDV85ZU_4009
+0	cell phones accessories screen protectors	A39G79LLPG83HZ_4363
+0	cell phones accessories basic cases	A1Z7U1MUR8HZCS_8448
+0	cell phones accessories bluetooth headsets	A227X86T8FUR12_7975
+0	cell phones accessories	A2U6EHRFSBYMMU_6582
+0	cell phones accessories basic cases	A2RWF5P890GQE9_7080
+0	cell phones accessories car chargers	A3J9VS5JLN3Y06_8451
+0	cell phones accessories basic cases	A2LF16F0KX9L7P_2848
+0	cell phones accessories batteries	A3TXA107MAOKW7_1108
+0	cell phones accessories bluetooth headsets	A190302PAJH16Y_674
+1	cell phones accessories screen protectors	AIWRDE16PH3K1_4733
+0	cell phones accessories bluetooth headsets	A3NHUQ33CFH3VM_2016
+0	cell phones accessories basic cases	A2M0PPYAAS9X7V_8210
+0	electronics accessories supplies	A195NQ6TM56Y5T_511
+0	cell phones accessories basic cases	A1Z4KUF2P5U0EU_5578
+0	cell phones accessories cradles car mounts	A1YEZLIEUORSBO_1502
+0	cell phones accessories solar chargers	A4A4KWGJMQHM9_3209
+0	cell phones accessories screen protectors	A22XSSJYHSQK6J_6457
+0	cell phones accessories travel chargers	A1TCHYIWIRZ4Y8_3565
+1	cell phones accessories basic cases	A14MJWI09JEK1A_3797
+0	cell phones accessories car chargers	A3JXGDNJV1EBAY_4181
+0	cell phones accessories basic cases	A3C6A40RHKRZBV_253
+0	cell phones accessories basic cases	A1VY6ZOASYH9T2_1032
+0	cell phones accessories accessory kits	A1FI7JYOXSWCCA_6851
+0	electronics computers touch screen tablet accessories chargers adapters	AETYJCHHHB0FP_1909
+0	cell phones accessories car speakerphones	A1D640PNQMHML9_4340
+0	cell phones accessories internal batteries	AK7M5Y7E9O3L7_263
+0	cell phones accessories replacement parts	AZMC7DYMPWYUH_440
+0	cell phones accessories batteries external battery packs	A2QGHBUHC5BKHX_712
+0	cell phones accessories basic cases	A1G29MRK4U08F1_3862
+0	cell phones accessories screen protectors	A16N5Y4S4W1AKL_7937
+0	cell phones accessories car chargers	A1PLYXT88ARNF2_478
+0	cell phones accessories basic cases	A5LRZ5LW7DCSN_5056
+0	cell phones accessories basic cases	A36T8SY4Z79BRZ_6874
+0	cell phones accessories bluetooth headsets	A9Y5O2R4D6EH5_1573
+0	cell phones accessories basic cases	AH4ISMBOA6GN7_2088
+1	accessories unlocked cell phones	A185M78GQUYF08_7073
+0	cell phones accessories waterproof cases	A18BJA7Y02ZH03_3449
+0	cell phones accessories cases armbands	A2EOGVQORC52VS_1506
+0	cell phones accessories basic cases	A2QDOJFFLFGF18_952
+0	cell phones accessories basic cases	A2BPVPHCDERJP1_2888
+0	cell phones accessories basic cases	A1LG1DKUZXGJ6J_356
+0	cell phones accessories screen protectors	A38RMU1Y5TDP9_2829
+0	cell phones accessories data cables	A3KJY0OK1YHIYZ_8501
+0	cell phones accessories screen protectors	A1GAW4PYKWRNF0_2867
+1	accessories contract cell phones	A234V74W5JW277_7419
+1	cell phones accessories basic cases	ANR3DM88BR3A6_8315
+0	cell phones accessories screen protectors	AKU6UCK068L9H_1924
+0	cell phones accessories car chargers	A8S0SJEUG29BX_1063
+0	cell phones accessories basic cases	A2ZN03NB5R1I10_885
+1	cell phones accessories screen protectors	A2V90HXB52MG37_9113
+0	cell phones accessories basic cases	A91FZ9QLZOG00_8601
+1	cell phones accessories basic cases	A3CP6WLW4R7LBK_2729
+0	cell phones accessories internal batteries	A21WOESZQ6QEU4_2388
+0	cell phones accessories stylus pens	A3CJ7MHAS9IMAM_6761
+0	cell phones accessories basic cases	A136JSP1HR4RP6_3920
+0	cell phones accessories batteries external battery packs	A185PNGCA4LM40_2389
+0	cell phones accessories basic cases	A260SSASBXC090_2483
+0	electronics supplies batteries chargers accessories	A17OPAODXLRU7K_1219
+0	cell phones accessories basic cases	A3EKG4L8CR8M5N_1346
+0	accessories contract cell phones	AFR9GYKAHM37U_2261
+0	cell phones accessories basic cases	A1744LW1BJD2HP_411
+0	cell phones accessories car chargers	A2QK06G5K0FVQH_232
+0	cell phones accessories screen protectors	A274KXWC5PGKMX_2551
+0	cell phones accessories basic cases	A1W6C4B6CYNV9D_4567
+1	cell phones accessories basic cases	A56AUIA2KJ3KQ_2804
+0	cell phones accessories basic cases	A3CW0ZLUO5X2B1_2650
+0	cell phones accessories car chargers	A1ZZR25X0CNOJX_2708
+1	cell phones accessories internal batteries	A1D678H20KE69R_185
+0	cell phones accessories car chargers	A1XATMMB4NI726_7635
+0	cell phones accessories screen protectors	AXKT39QI66CY7_1453
+0	cell phones accessories basic cases	AN81JUYW2SL24_1815
+0	cell phones accessories batteries external battery packs	A1RTIPSBPL6L0D_3099
+1	cell phones accessories basic cases	A3IK4GZYKM9GTO_5078
+0	cell phones accessories cradles car mounts	A20RPF0I215N6O_4289
+1	cell phones accessories basic cases	A2S558HYF68Q_4341
+1	accessories contract cell phones	A2Z9S2RQD542CP_1336
+0	cell phones accessories screen protectors	AVHN134ADVP4R_2358
+0	cell phones accessories batteries	A2X5THJS0N2Z2M_445
+0	cell phones accessories screen protectors	A2J8T58Z4X15IO_2182
+1	cell phones accessories basic cases	A5KHCAWLF7MX_477
+1	cell phones accessories car chargers	A2M45YY6JO8U1B_2989
+0	cell phones accessories basic cases	A2DCD6LIUIJ0SV_98
+0	cell phones accessories basic cases	A1TW4S7D7G5521_5794
+0	cell phones accessories basic cases	A3A5799CMPM0WV_1795
+0	cell phones accessories cases armbands	A2NKT46P4JUJ9A_1283
+0	cell phones accessories bluetooth headsets	AVDBPWES117H1_9941
+0	cell phones accessories basic cases	A3LH77PBDFEO3F_2349
+0	electronics computers accessories	AHJ3Y5H9NAPAO_9577
+0	cell phones accessories basic cases	A1L46I7NHELWQQ_460
+0	cell phones accessories cradles car mounts	AMC08VENZPGHT_3421
+0	cell phones accessories basic cases	A2XOV3ZKGDK55G_4671
+0	cell phones accessories car chargers	A2XA8CW5DF4MNZ_1832
+1	cell phones accessories screen protectors	A1EYMQD9QKX2A2_4116
+0	cell phones accessories basic cases	A13WQMUIQ7NO4T_2782
+0	cell phones accessories cradles car mounts	ARQPQ8LF5NTEZ_2964
+0	cell phones accessories headsets	AVASR8B2Z33SR_1587
+0	cell phones accessories basic cases	A3VHEASFGNI03M_1178
+0	cell phones accessories screen protectors	A22043U35ZKDPU_2670
+0	cell phones accessories travel chargers	A39T0O20U2VZ60_1049
+0	cell phones accessories basic cases	A3GHYUGPT4AFOE_1384
+1	cell phones accessories bluetooth headsets	A1V7X7CSMTHCE5_4213
+0	cell phones accessories car chargers	A2F43Z0K1GZGNR_121
+0	cell phones accessories data cables	A1M6LEG4SE0LHS_152
+0	cell phones accessories basic cases	A1M3RZIDYT250P_496
+0	cell phones accessories audio adapters	A1TBTJ8PU087LJ_6049
+0	phones accessories chargers cell phone docks	A1DF97REDDN606_1101
+0	electronics computers accessories interconnects lightning cables	A2EEB8BED78FCT_4524
+0	cell phones accessories basic cases	A1XJB24AHH7UVI_7705
+0	cell phones accessories data cables	AVSRLB4QXACSV_1787
+0	cell phones accessories batteries external battery packs	A4C3LNR245KD8_798
+0	cell phones accessories basic cases	A1R6OY9RVL2FO6_897
+0	cell phones accessories basic cases	A1TF8PPKYADW21_9939
+0	phones accessories chargers cell phone docks	AV448IUU08G2L_7397
+0	cell phones accessories basic cases	A2NUHWMHA9XNKV_1841
+1	cell phones accessories basic cases	A37D2BPGCF1N89_655
+0	cell phones accessories basic cases	A2X7D35NAZZSFP_478
+0	cell phones accessories screen protectors	AGKHTI75894KW_4295
+0	cell phones accessories basic cases	A2EQ0QDOSGH6AC_4557
+1	cell phones accessories internal batteries	A21V0B910YDY65_542
+0	cell phones accessories	ABFW2X0CMQM24_1249
+1	phones accessories chargers cell phone docks	A2NUU6ZEEQ9CZ4_86
+0	cell phones accessories wallet cases	A3MN9E1I5RH5V0_7662
+0	cell phones accessories basic cases	A2HJT8HRVMU6BZ_4236
+0	cell phones accessories wired headsets	A7NKKP0FUGFHU_564
+0	cell phones accessories stylus pens	AX05DBU8IRUWY_4328
+0	cell phones accessories basic cases	A35LLDKF3TITV4_699
+0	cell phones accessories cradles car mounts	A23UZA419K52A9_9692
+0	phones accessories chargers cell phone docks	AJBHO7NUZ5KWM_8101
+0	cell phones accessories basic cases	A392ZR68AKLDCK_1305
+0	cell phones accessories basic cases	AY28L9U9QA9RJ_102
+0	cell phones accessories stylus pens	A2CMBCA43X3YW7_396
+0	cell phones accessories basic cases	AD1J33MP88ZKF_6057
+0	cell phones accessories basic cases	A14VEWYCAUVSJ1_8862
+0	accessories contract cell phones	A29EHWBPM28C92_8450
+0	accessories unlocked cell phones	A34MAO138NIMQ4_3425
+0	cell phones accessories replacement parts	A3QZZVH7CZEIHA_6140
+0	cell phones accessories bluetooth headsets	A185O1MX1RP964_4360
+0	cell phones accessories basic cases	A2U6X0GHPCODVV_1942
+0	cell phones accessories basic cases	AQMHSTP8UFAQJ_4371
+0	cell phones accessories bluetooth headsets	ADRH9RBV9NQS_1265
+0	cell phones accessories basic cases	A11E09GIR0QHH0_236
+0	accessories contract cell phones	A3KLX5ZZRVT31H_2220
+0	cell phones accessories basic cases	A1K5C9DQG15RD4_5087
+1	cell phones accessories basic cases	A2A5EARKQ1MSG5_5399
+0	cell phones accessories basic cases	AEL6CQNQXONBX_3492
+0	cell phones accessories batteries external battery packs	A22MANL4US4RMY_484
+0	cell phones accessories basic cases	A2HMP5LYU0BF6B_4918
+0	cell phones accessories cradles car mounts	A2YWD033BDBWL4_2551
+0	cell phones accessories screen protectors	AEVGV7Y6YFXS4_393
+0	cell phones accessories basic cases	A1RKUHHWHC9TPB_1051
+0	cell phones accessories travel chargers	A1M9671AL0KID8_22
+0	cell phones accessories stylus pens	A2U5PD6M8R0EAH_1130
+0	cell phones accessories basic cases	A37UYRKMKIQYFB_4238
+0	cell phones accessories cradles car mounts	A3N4VTNFPMTHEF_1833
+0	cell phones accessories basic cases	A5EDQSCX7B83B_3630
+0	electronics portable audio video players mp3 player accessories chargers	A225JFDQ3E56H1_5825
+0	cell phones accessories bluetooth headsets	AT6701B61F2X1_4688
+0	cell phones accessories accessory kits	A1MFVAHTT2BHM0_6743
+0	accessories unlocked cell phones	A7ZDVB9JMXEI3_3180
+0	cell phones accessories basic cases	A233YKPKBMQXKX_7760
+0	cell phones accessories screen protectors	A222W9OFZ65R5U_7165
+0	cell phones accessories data cables	A6MDB3KFRFRQA_4736
+1	cell phones accessories car speakerphones	A1L0MEXMESE4C4_6452
+0	cell phones accessories wired headsets	A4CNDB0JOL9X5_1239
+0	cell phones accessories screen protectors	A3FO0TABT949JZ_2670
+0	cell phones accessories cradles car mounts	AS8C336DDLSO4_2893
+1	cell phones accessories car chargers	AOXPRY7BBHU9Q_4552
+0	cell phones accessories cases armbands	A2F68MDASTU560_6934
+0	cell phones accessories basic cases	A29ZTEO6EKSRDV_797
+0	cell phones accessories basic cases	A1I0TVSMVZIMG1_86
+0	cell phones accessories basic cases	A3B6AGL013FSAY_1875
+0	electronics computers cables accessories input devices digital pens	A3AYSYSLHU26U9_1368
+0	cell phones accessories internal batteries	A1CS80TCEPH0W7_3200
+0	cell phones accessories cases armbands	AEI2BNOW2BMP9_54
+0	cell phones accessories travel chargers	A1CPRP3VFJRS1R_2922
+0	cell phones accessories basic cases	AHMG7GNVPAFBY_137
+0	cell phones accessories cases armbands	A1D678H20KE69R_1723
+0	cell phones accessories screen protectors	A2FIR437M35PMV_2170
+0	cell phones accessories screen protectors	A1KNACS5BP4GII_8549
+0	cell phones accessories bluetooth headsets	A2ELZFDD2HW10_1731
+0	cell phones accessories basic cases	A3B4TRVL7JYHHD_1826
+0	cell phones accessories basic cases	A3N2FHIKO690CQ_88
+0	cell phones accessories cases holsters clips	A1IILFFC2EUXFC_6612
+0	cell phones accessories screen protectors	A2Z4H7PQHDPUWF_1173
+1	cell phones accessories basic cases	A2MRRZHXROT9DQ_5762
+0	cell phones accessories basic cases	A3NEWOBWG4LL9X_8605
+0	cell phones accessories basic cases	ARG43LC7V2H8J_270
+0	cell phones accessories replacement parts	A2A73LV7E0EVAW_2241
+0	cell phones accessories basic cases	ATAIWJS7UAV4R_6305
+0	cell phones accessories data cables	A1WAA32LZ1488K_4928
+1	cell phones accessories basic cases	A510GFZQONEXJ_7474
+0	cell phones accessories basic cases	A2929XPR4KF3ZU_7365
+0	cell phones accessories car chargers	A3ANYPMRHCR7Q7_808
+0	cell phones accessories basic cases	A34DFU94SUMRKW_796
+1	cell phones accessories basic cases	A1EM2ZGVKNOOGY_6872
+0	cell phones accessories basic cases	A17M1CS6VCG3YZ_769
+0	cell phones accessories basic cases	A1ILWPH1GHUXE2_1567
+1	cell phones accessories basic cases	A2LUF1P4O4HR6I_5922
+0	cell phones accessories basic cases	A3X0BNOI86F0Z_4527
+1	accessories unlocked cell phones	AEDCR7TTWGT0K_894
+0	accessories unlocked cell phones	A1AP7GZOMZ7GQM_3536
+0	cell phones accessories basic cases	A31EXXZNKX5H9J_3573
+1	cell phones accessories data cables	A3QAQ1SKCQ84PQ_6485
+0	cell phones accessories stylus pens	A2IZIFNWPTMUWN_9367
+0	cell phones accessories data cables	A39Q9G7J70A056_2707
+0	cell phones accessories basic cases	A3CW0ZLUO5X2B1_1803
+0	cell phones accessories basic cases	AJO2V8O9EU056_1268
+0	cell phones accessories travel chargers	A3SBL75CSO5PUK_4230
+0	cell phones accessories basic cases	AZH7OAGP3RKFQ_3285
+0	cell phones accessories chargers	ARWVO245AMUUE_354
+0	cell phones accessories travel chargers	A36K2N527TXXJN_6122
+1	cell phones accessories basic cases	A1Y3RIWIZN4BIK_807
+1	electronics accessories supplies	A1YLL71R2M75LC_4810
+0	cell phones accessories basic cases	A3EOVXI1VZIHUQ_2516
+0	cell phones accessories internal batteries	A2NUBL2UYWPBWR_2600
+0	cell phones accessories basic cases	A32N8K9NMZI9WK_2575
+1	cell phones accessories bluetooth speakers	A2IQF161DYA68V_1727
+0	cell phones accessories basic cases	A11H8WQPK54XAM_1496
+1	cell phones accessories basic cases	AXW3VZG5QF35D_4568
+1	cell phones accessories basic cases	A2F1JWVIYD1EA2_475
+0	cell phones accessories basic cases	A1UQBFCERIP7VJ_1976
+0	cell phones accessories internal batteries	A222HHCJP4YLSQ_756
+0	cell phones accessories basic cases	AAGRFJKI8HASF_2352
+0	cell phones accessories travel chargers	A17C8P11ASUOTK_7556
+0	cell phones accessories accessory kits	A380V1S0HW0X3L_1262
+0	cell phones accessories car chargers	A2OCJ6SL0NZ1XF_3174
+0	cell phones accessories data cables	A10U865N53IXNR_3069
+0	cell phones accessories internal batteries	A15VC3WTO38FDI_319
+1	cell phones accessories basic cases	A2RTC5QS81N7W0_8114
+0	electronics computers touch screen tablet accessories chargers adapters	A29YEV5ERZ6YEG_1198
+0	cell phones accessories basic cases	A2M67NF929W1HE_440
+0	cell phones accessories batteries external battery packs	A2C9UZGAE2SWNF_1614
+1	cell phones accessories screen protectors	A2DGWFSL3AB2H8_6526
+0	cell phones accessories bluetooth headsets	A1OF9YSSE64NJW_1453
+0	cell phones accessories bluetooth speakers	AG3HN7SZKMFFX_1980
+0	cell phones accessories basic cases	A29GGAZQRIZH4S_332
+1	cell phones accessories basic cases	A2PZ6W3HHMN7X4_4568
+0	cell phones accessories basic cases	ARBKYIVNYWK3C_2955
+1	cell phones accessories screen protectors	A3KLHBYCVQ6RRA_748
+1	cell phones accessories basic cases	A1KZRWWO3DVS6W_1392
+0	cell phones accessories screen protectors	A6C6N8DA1ROQI_8835
+1	cell phones accessories car chargers	A3V692W121FLM5_1828
+0	cell phones accessories accessory kits	A2DG63DN704LOI_2020
+0	cell phones accessories basic cases	A20RSO8H7Z772Y_2310
+0	cell phones accessories bluetooth headsets	A3OCTM94ICG1NA_1733
+0	cell phones accessories basic cases	A2WJOOZA5T2KQ5_2206
+0	cell phones accessories car chargers	A34HXG314KME7S_6636
+0	cell phones accessories car speakerphones	A3820A9N1T0ZDJ_4042
+0	cell phones accessories internal batteries	ANGEL9I9F2NHW_5888
+0	cell phones accessories basic cases	A34DFU94SUMRKW_796
+0	cell phones accessories car chargers	A3LXJ58XVSDYJH_843
+0	cell phones accessories internal batteries	A2PAFKGAUSBMIE_1587
+0	cell phones accessories basic cases	A300MO2VJZ5CZV_684
+0	cell phones accessories accessory kits	A1Q8QWVMOMI9G3_409
+0	cell phones accessories cases armbands	A13R4XBM0O2IR5_4713
+1	cell phones accessories wallet cases	A3907KN2L0M7A4_7694
+0	cell phones accessories basic cases	AL4TEL2IAXRUQ_3465
+0	cell phones accessories basic cases	AILWN0QU28S1Y_5807
+0	cell phones accessories phone charms	A2RNQ2QAK39I2N_436
+0	cell phones accessories screen protectors	AGA9831VH03YG_807
+1	cell phones accessories accessory kits	A1EEFMMUG56MA3_1055
+0	cell phones accessories replacement parts	A240FRPD4MEXND_2749
+0	cell phones accessories basic cases	A3DIJAXX4S4C49_3007
+0	cell phones accessories screen protectors	A2B7F0M9VO1V9L_2777
+1	cell phones accessories basic cases	A1J97HE8DYCTL0_1783
+0	cell phones accessories basic cases	A1EVV74UQYVKRY_2821
+0	phones accessories chargers cell phone docks	APMYPD97EHUUZ_4218
+1	cell phones accessories bluetooth speakers	A2BYV7S1QP2YIG_2142
+0	cell phones accessories basic cases	A1I07FQA01ZQUK_758
+0	accessories unlocked cell phones	A3K8A8SCFFKB4Q_1197
+1	cell phones accessories basic cases	A2BNY5IL20WUK7_3815
+1	phones accessories chargers cell phone docks	A9BWUH9XKZ2DQ_4944
+0	cell phones accessories basic cases	A1X1H930PBCKWZ_3629
+0	cell phones accessories cases holsters clips	A1ILRBL4I9L1KH_1041
+0	cell phones accessories accessory kits	A3TXA107MAOKW7_6987
+0	electronics portable audio video	A1JCERDEGZESX1_1028
+1	cell phones accessories screen protectors	A3K40ZCJ5ARE5X_7820
+0	cell phones accessories batteries battery charger cases	A2IKMRNKQ12ZPT_4710
+0	cell phones accessories data cables	AI8EMB0HUC6Z5_2846
+0	cell phones accessories basic cases	ATAWUE679QMMS_2721
+0	cell phones accessories car chargers	A3HJOVHNXF6GYF_2248
+0	cell phones accessories basic cases	A2AVMEB8PQOTTE_1393
+0	cell phones accessories	AMNF67A88EWSQ_193
+0	cell phones accessories internal batteries	A2H76G14NTTIX9_78
+0	cell phones accessories basic cases	A3NCDITT0XVFZV_411
+1	cell phones accessories basic cases	A1GEOREBPPTH56_4786
+0	cell phones accessories basic cases	A2BOTKZGB9ST1R_1890
+0	cell phones accessories travel chargers	A3IYUDIMNC85RT_3532
+0	cell phones accessories basic cases	A1BIPJK03QKFQA_1283
+0	cell phones accessories basic cases	A380P8LHEL3DZ9_2119
+0	cell phones accessories basic cases	A37XJZF145XH5B_1758
+0	cell phones accessories basic cases	A20SSIPVWC2IDU_1691
+0	cell phones accessories basic cases	AHSOOQWJHLAZM_748
+0	cell phones accessories basic cases	A1RWHDWP5Z3O6R_4027
+0	cell phones accessories travel chargers	ACD5E7BXLBH21_545
+0	cell phones accessories screen protectors	A36VP7N8G3GEW2_8937
+1	electronics computers accessories	A5WJBM6QBR8VM_1213
+0	cell phones accessories basic cases	A2Z587CAIYZBZ1_619
+0	cell phones accessories basic cases	A38RMU1Y5TDP9_1971
+0	accessories unlocked cell phones	A1LIDJWAOXVEQ9_1800
+0	cell phones accessories batteries	A4XOFR8JCO02X_1213
+0	cell phones accessories basic cases	A1GPGBHBI6T2HJ_4263
+1	cell phones accessories bluetooth headsets	A22CW0ZHY3NJH8_2611
+1	electronics computers accessories interconnects usb cables	A2MIXL23447QDH_101
+0	cell phones accessories basic cases	AUVQMO3U6RZZ4_4763
+1	cell phones accessories basic cases	A2EO5SC3HLFT93_7692
+0	cell phones accessories cases holsters clips	APHU2AMWS9QQT_7269
+1	cell phones accessories screen protectors	A1GQJBJNCBDMKZ_0
+1	cell phones accessories basic cases	A3HAG27BCV2UTT_665
+0	cell phones accessories basic cases	A1S9H35OS4J1JU_3320
+1	cell phones accessories cradles car mounts	A1I7UNCR9QQRTY_705
+0	accessories unlocked cell phones	AIVU1J51MJ9O2_886
+1	cell phones accessories batteries battery charger cases	A2YO4SCWAWNYBI_53
+0	cell phones accessories batteries external battery packs	A2HNDNUJJBPO4Z_1664
+0	cell phones accessories basic cases	ALVJLH5WAYHYC_3265
+0	cell phones accessories screen protectors	A2XGFPVV6P815H_1600
+0	cell phones accessories travel chargers	A2UER8D0F677XM_6296
+0	cell phones accessories basic cases	A1GPGBHBI6T2HJ_2404
+1	electronics supplies audio video accessories	A2CF0P2FMKL8UK_54
+0	cell phones accessories basic cases	A2QK06G5K0FVQH_2060
+0	cell phones accessories basic cases	A2J4XMWKR8PPD0_1643
+1	cell phones accessories basic cases	A25MGZ4QCULLN9_10153
+1	cell phones accessories basic cases	A5VBN2FBG0IE_6926
+0	cell phones accessories travel chargers	AKJOL2Y2XJT00_1528
+0	cell phones accessories basic cases	AIXTKOGCVXQUH_4238
+1	cell phones accessories basic cases	A18JF0T0GOCORW_2408
+0	cell phones accessories replacement parts	A2DNQQPZVEAICD_3974
+0	cell phones accessories bluetooth headsets	A16KF5QQUOCH9P_6839
+0	cell phones accessories basic cases	A2D1IIML0N04VS_1818
+0	cell phones accessories bluetooth headsets	A2S4TCAMM0538A_1496
+0	cell phones accessories basic cases	A2L9OTRTHTUYH3_686
+1	cell phones accessories basic cases	A1D7ZR0NYWI9FU_427
+0	cell phones accessories screen protectors	A3RXLB5G39EJY0_3255
+0	cell phones accessories phone charms	A38WXCTKMBM4CA_3996
+0	cell phones accessories basic cases	A2V7QXV0H1ZVDE_1492
+0	cell phones accessories car kits	A3QD59N3M7O7KB_485
+0	cell phones accessories wired headsets	A3DE9UMSPGJ307_308
+1	cell phones accessories wired headsets	AKPYS9VSM3LNX_5270
+0	cell phones accessories bluetooth headsets	A3BZUQXA2QHDI2_3489
+0	cell phones accessories basic cases	A1VPXGOU9VQZ8M_9280
+1	cell phones accessories travel chargers	AE097AM7851QN_614
+0	cell phones accessories stylus pens	A70703R62DT8W_705
+0	cell phones accessories basic cases	A2I1VBZS7XH1MB_7725
+0	cell phones accessories basic cases	A3N9XYDXHU8J2W_4163
+0	cell phones accessories stylus pens	A1V1SRT6SBIPLU_6216
+0	cell phones accessories basic cases	A14Y5DJD1MI5NF_4279
+1	cell phones accessories bluetooth speakers	AWPODHOB4GFWL_2027
+0	cell phones accessories bluetooth headsets	A3FKYLUBXEW9QE_2949
+0	cell phones accessories basic cases	A2VRCPSDDON2K7_5064
+0	cell phones accessories car chargers	A2BDYH9JPMPHIV_22
+0	cell phones accessories data cables	A1GEOREBPPTH56_8506
+0	cell phones accessories basic cases	A3EEHTPACAZM1A_1483
+0	cell phones accessories bluetooth headsets	A3DQ2I6QIFY4HX_1425
+0	cell phones accessories car chargers	A30KDXERP5QTA_2113
+0	cell phones accessories stylus pens	AL4YOB7KRVQ9W_1002
+0	cell phones accessories basic cases	ATWQ558HLWV8K_2052
+0	cell phones accessories data cables	A3O8VN89206D6B_176
+1	cell phones accessories basic cases	A2F5KEJAVRXH3V_7908
+0	cell phones accessories basic cases	A3KY5RJPX71812_565
+0	cell phones accessories data cables	A1QNYLBG73QRNF_1285
+0	cell phones accessories data cables	A3VVMIMMTYQV5F_2768
+0	cell phones accessories basic cases	A373G0TM0PVROY_8731
+0	cell phones accessories bluetooth headsets	A2JWC1I0MAPIU6_3112
+0	cell phones accessories basic cases	A3EXWV8FNSSFL6_2599
+0	cell phones accessories car speakerphones	AFFVUZEGP1FDQ_2810
+0	cell phones accessories signal boosters	A1P2OBC87CTSRL_1380
+1	cell phones accessories wallet cases	A231AT7VA4WEYV_9667
+0	cell phones accessories replacement parts	A2NUBL2UYWPBWR_2359
+0	cell phones accessories basic cases	A1GR5BWCME810G_485
+0	cell phones accessories basic cases	AQNQHPRR3WQU1_770
+0	cell phones accessories basic cases	A1J1PYZU5YJZSP_700
+0	cell phones accessories screen protectors	A2Y8FNMWA9A1R_2404
+0	cell phones accessories basic cases	A35V03MTGF34QE_8999
+1	cell phones accessories car chargers	A1YDWO4LJCFU2Y_5280
+0	cell phones accessories travel chargers	A91TB0WX94MHP_6369
+0	cell phones accessories stylus pens	AIRG9FRTO7PHJ_2903
+0	cell phones accessories screen protectors	A3QGL7LZXPDQE3_8648
+0	cell phones accessories basic cases	A2S14VSL1V6K76_460
+1	cell phones accessories basic cases	A2X8424UF3ZEH6_3865
+1	cell phones accessories screen protectors	ABKOZWHMCLP46_3313
+0	electronics supplies batteries chargers accessories	ARIAOTUOVT8RV_6435
+0	cell phones accessories cradles car mounts	A10AAULK3SQEK1_2749
+1	cell phones accessories accessory kits	A30EB8FTIOGGKK_7929
