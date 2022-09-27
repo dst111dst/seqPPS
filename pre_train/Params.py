@@ -21,7 +21,7 @@ def ParserParams(parser):
                         type=float,
                         help="The temperature for CL.")
     parser.add_argument("--dataset",
-                        default="Musical_Instruments",
+                        default="Cell_Phones_and_Accessories",
                         type=str,
                         help="The dataset.")
     parser.add_argument("--epochs",
@@ -45,7 +45,7 @@ def ParserParams(parser):
                         type=str,
                         help="The path to BERT model.")
     parser.add_argument("--aug_strategy",
-                        default="sent_deletion,term_deletion,term_replace",
+                        default="sent_deletion,term_deletion,qd_reorder,query_del,item_replace",
                         type=str,
                         help="Augmentation strategy.")
 
