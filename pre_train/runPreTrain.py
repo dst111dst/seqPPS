@@ -30,21 +30,21 @@ def train_model():
     bert_model = BertModel.from_pretrained(args.bert_model_path)
     bert_model.resize_token_embeddings(bert_model.config.vocab_size + additional_tokens)
     model = BertContrastive(bert_model, temperature=args.temperature)
-    # fixed_modules = [model.bert_model.encoder.layer[6:]]
-    # for module in fixed_modules:
-    #     for param in module.parameters():
-    #         param.requires_grad = False
+    fixed_modules = [model.bert_model.encoder.layer[6:]]
+    for module in fixed_modules:
+        for param in module.parameters():
+            param.requires_grad = False
     n_params = sum([p.numel() for p in model.parameters() if p.requires_grad])
     print('* number of parameters: %d' % n_params)
-    # model = model.to(device)
+    model = model.to(device)
     model = torch.nn.DataParallel(model)
     fit(model, train_data, test_data)
 
 
 def train_step(model, train_data, loss_func):
-    # with torch.no_grad():
-    #     for key in train_data.keys():
-    #         train_data[key] = train_data[key].to(device)
+    with torch.no_grad():
+        for key in train_data.keys():
+            train_data[key] = train_data[key].to(device)
     contras_loss, acc = model.forward(train_data)
     return contras_loss, acc
 
@@ -94,9 +94,9 @@ def fit(model, X_train, X_test):
                     loss_logger.flush()
 
                 if i > 0 and i % (one_epoch_step // 5) == 0:
-                    # if i > 0 and i % 10 == 0:
-                    best_result = evaluate(model, X_test, best_result)
-                    model.train()
+                    if i > 0 and i % 10 == 0:
+                        best_result = evaluate(model, X_test, best_result)
+                        model.train()
 
                 avg_loss += loss.item()
             else:
@@ -134,14 +134,15 @@ def predict(model, X_test):
     with torch.no_grad():
         epoch_iterator = tqdm(test_dataloader, ncols=120, leave=False)
         for i, test_data in enumerate(epoch_iterator):
-            # with torch.no_grad():
-            #     for key in test_data.keys():
-            #         test_data[key] = test_data[key].to(device)
-            test_loss, test_acc = model.forward(test_data)
-            test_loss = test_loss.mean()
-            test_acc = test_acc.mean()
-            y_test_loss.append(test_loss.item())
-            y_test_acc.append(test_acc.item())
+            if test_data is not None:
+                with torch.no_grad():
+                    for key in test_data.keys():
+                        test_data[key] = test_data[key].to(device)
+                test_loss, test_acc = model.forward(test_data)
+                test_loss = test_loss.mean()
+                test_acc = test_acc.mean()
+                y_test_loss.append(test_loss.item())
+                y_test_acc.append(test_acc.item())
     y_test_loss = np.asarray(y_test_loss)
     y_test_acc = np.asarray(y_test_acc)
     return y_test_loss, y_test_acc
@@ -151,10 +152,10 @@ if __name__ == '__main__':
     parser = ArgumentParser()
     ParserParams(parser)
     args = parser.parse_args()
-    # args.batch_size = args.per_gpu_batch_size * torch.cuda.device_count()
-    args.batch_size = 128  # temporal testing size
-    # args.test_batch_size = args.per_gpu_test_batch_size * torch.cuda.device_count()
-    args.test_batch_size = args.batch_size
+    args.datast = 'Cell_Phones_and_Accessories'
+    args.batch_size = args.per_gpu_batch_size * torch.cuda.device_count()
+    args.test_batch_size = args.per_gpu_test_batch_size * torch.cuda.device_count()
+    # with item-replace:
     aug_strategy = args.aug_strategy.split(",")
     result_path = "./output/" + args.dataset + "/"
     args.save_path += BertContrastive.__name__ + "." + args.dataset + "." + str(args.epochs) + "." + str(
@@ -166,19 +167,20 @@ if __name__ == '__main__':
 
     logger = open(args.log_path, "a")
     loss_logger = open(args.loss_path, "a")
-    # device = torch.device("cuda:0")
-    # print(args)
+    device = torch.device("cuda:0")
+    print(args)
     logger.write("\n")
 
     args.bert_model_path = 'bert-base-uncased'
-    train_data = "/Users/tt/Downloads/seqPPS/pre_train/data/Musical_Instruments/data.txt"
-    test_data = train_data
+    train_data = 'data/Cell_Phones_and_Accessories/train_data.txt'
+    test_data  = 'data/Cell_Phones_and_Accessories/test_data.txt'
     tokenizer = BertTokenizer.from_pretrained(args.bert_model_path)
     additional_tokens = 4
     tokenizer.add_tokens("[eos]")
+    tokenizer.add_tokens("[empty_d]")
     tokenizer.add_tokens("[term_del]")
     tokenizer.add_tokens("[sent_del]")
-    tokenizer.add_tokens("[term_rep]")
+
 
     set_seed()
     if args.is_training:
