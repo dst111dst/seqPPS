@@ -37,8 +37,7 @@ class BertContrastive(nn.Module):
         batch_self_11 = batch_self_11 / self.temperature
         batch_cross_12 = batch_cross_12 / self.temperature
         batch_first = torch.cat([batch_self_11, batch_cross_12], dim=-1)  # [batch, batch * 2]
-        # batch_arange = torch.arange(batch_size).to(torch.cuda.current_device())
-        batch_arange = torch.arange(batch_size)
+        batch_arange = torch.arange(batch_size).to(torch.cuda.current_device())
         mask = F.one_hot(batch_arange, num_classes=batch_size * 2) * -1e10
         batch_first += mask
         batch_label1 = batch_arange + batch_size  # [batch]
