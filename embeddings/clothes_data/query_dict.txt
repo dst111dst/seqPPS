@@ -1,0 +1,1605 @@
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'active'+ 'skirts'	18492 4161 7242 928 1598 8017 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'women'+ 'fashion'+ 'shearling'	928 18492 4161 669 20771 11706 19166 20796 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'	18492 4161 11706 928 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'boots'	928 4161 11706 18492 2839 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'wraps'+ 'fashion'+ 'scarves'	928 18492 4161 11706 3642 14357 19166 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'underwear'+ 'panties'	18492 4161 7242 928 13154 12107 
+'clothing'+ 'shoes'+ 'jewelry'+ 'r'+ 'reef'	928 18492 4161 14952 13551 
+'clothing'+ 'jewelry'+ 'shoes'+ 'accessories'+ 'international'+ 'shipping'+ 'available'	928 4161 18492 3642 10933 11403 3847 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'active'+ 'shirts'+ 'tees'	18492 4161 7242 928 1598 2648 4705 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'women'+ 'fashion'+ 'combat'	928 18492 4161 669 20771 11706 19166 17845 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'slippers'	928 4161 11706 18492 17975 
+'clothing'+ 'shoes'+ 'jewelry'+ 'international'+ 'shipping'+ 'available'	928 18492 4161 10933 11403 3847 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'dresses'+ 'special'+ 'occasion'	18492 4161 7242 928 8825 13078 4510 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'tops'+ 'knits'+ 'tees'	18492 4161 11706 928 19865 7061 4705 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'tops'+ 'tees'+ 'blouses'+ 'button'+ 'shirts'	928 18492 4161 11706 4538 7965 19865 4705 12293 9603 2648 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'jeans'	18492 4161 4992 928 3181 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'handbags'+ 'wallets'+ 'top'+ 'handle'+ 'bags'	928 18492 4161 11706 292 2460 16951 5123 7514 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'sets'	18492 4161 11706 928 17648 4482 6340 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'	928 18492 4161 4992 19396 20935 
+'clothing'+ 'shoes'+ 'novelty'+ 'costumes'+ 'accessories'+ 'organizers'+ 'jewelry'+ 'boxes'	928 18492 6277 2441 3642 4161 13977 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'jeans'	18492 4161 13417 928 3181 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'pants'+ 'capris'	928 18492 4161 11706 4538 7965 1407 8548 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'accessories'+ 'costumes'+ 'kids'+ 'baby'+ 'girls'	928 18492 4161 6277 3642 2441 14204 21 7242 
+'clothing'+ 'jewelry'+ 'girls'+ 'shoes'+ 'athletic'+ 'dance'	928 4161 7242 18492 10779 1904 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'	18492 4161 2441 6277 928 
+'clothing'+ 'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'accessories'+ 'hats'+ 'caps'	928 18492 4161 21 7242 3642 6280 20393 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'intimates'+ 'everyday'+ 'bras'	928 18492 4161 11706 4538 7965 7147 2906 20648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'accessories'+ 'costumes'+ 'kids'+ 'infants'+ 'toddlers'+ 'baby'+ 'girls'	928 18492 4161 6277 3642 2441 14204 9909 14645 21 7242 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'swimsuits'+ 'cover'+ 'ups'+ 'rash'+ 'guards'	18492 4161 11706 928 14605 6041 8031 15881 20346 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'eyewear'+ 'accessories'+ 'sunglasses'	928 18492 4161 11706 1457 3642 12096 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'handbags'+ 'wallets'+ 'shoulder'+ 'bags'	928 18492 4161 11706 292 2460 20135 7514 
+'clothing'+ 'shoes'+ 'novelty'+ 'costumes'+ 'body'+ 'piercing'+ 'jewelry'+ 'barbells'	928 18492 6277 2441 7335 10436 4161 10422 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'jumpsuits'+ 'rompers'+ 'overalls'	18492 4161 11706 928 9049 7338 15151 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'dresses'+ 'night'+ 'cocktail'	18492 4161 11706 928 8825 17818 7322 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'	928 18492 4161 11706 
+'clothing'+ 'shoes'+ 'jewelry'+ 'baby'+ 'boys'	928 18492 4161 21 13417 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'sandals'	928 4161 11706 18492 18952 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'mules'+ 'clogs'	928 4161 11706 18492 18980 11887 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'shapewear'+ 'waist'+ 'cinchers'	18492 4161 11706 928 17648 4482 6340 7147 2912 18629 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'everyday'+ 'bras'	18492 4161 11706 928 17648 4482 6340 7147 2906 20648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'accessories'+ 'costumes'+ 'kids'+ 'baby'+ 'boys'	928 18492 4161 6277 3642 2441 14204 21 13417 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'accessories'+ 'costumes'	928 18492 4161 6277 3642 2441 
+'clothing'+ 'shoes'+ 'jewelry'+ 'c'+ 'capezio'	928 18492 4161 750 1826 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'socks'+ 'tights'	18492 4161 7242 928 1229 20865 
+'clothing'+ 'shoes'+ 'jewelry'+ 'michael'+ 'antonio'	928 18492 4161 7976 10847 
+'clothing'+ 'shoes'+ 'jewelry'+ 'dickies'	928 18492 4161 16906 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'sports'+ 'bras'	928 18492 4161 11706 8562 7147 3862 20648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'c'+ 'crocs'	928 18492 4161 750 2350 
+'sports'+ 'outdoors'+ 'clothing'	3862 12705 928 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'kids'+ 'baby'	928 18492 4161 6277 2441 3642 14204 21 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'masks'	928 18492 4161 6277 2441 3642 6514 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'handbag'+ 'organizers'	928 18492 4161 11706 3642 292 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'	928 4161 11706 18492 
+'clothing'+ 'shoes'+ 'jewelry'+ 'travel'+ 'gear'+ 'luggage'	928 18492 4161 5550 5450 7101 
+'clothing'+ 'shoes'+ 'jewelry'+ 'teva'	928 18492 4161 3539 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'panties'+ 'boy'+ 'shorts'	18492 4161 11706 928 17648 4482 6340 7147 12107 18314 6609 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'watches'+ 'watch'+ 'bands'	928 18492 4161 4992 5766 10359 21119 
+'clothing'+ 'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'accessories'+ 'socks'	928 18492 4161 21 13417 3642 1229 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'tops'+ 'tees'+ 'tanks'+ 'camis'	18492 4161 11706 928 19865 4705 11785 2751 
+'clothing'+ 'shoes'+ 'jewelry'+ 'e'+ 'eastland'	928 18492 4161 8386 1481 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'tights'+ 'leggings'	3862 12705 928 11706 20865 14292 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'athletic'+ 'sport'+ 'sandals'	928 4161 11706 18492 10779 14933 18952 
+'clothing'+ 'shoes'+ 'jewelry'+ 'minnetonka'	928 18492 4161 16881 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'flats'	928 4161 11706 18492 19398 
+'clothing'+ 'jewelry'+ 'comfort'+ 'shoes'	928 4161 3483 18492 
+'clothing'+ 'shoes'+ 'jewelry'+ 'dansko'	928 18492 4161 19899 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'everyday'+ 'bras'	928 18492 4161 11706 8562 7147 2906 20648 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'religious'	928 18492 11706 4161 3785 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'	928 18492 4161 4992 
+'clothing'+ 'shoes'+ 'men'+ 'jewelry'+ 'religious'+ 'bracelets'	928 18492 4992 4161 3785 13666 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'panties'+ 'briefs'	18492 4161 11706 928 17648 4482 6340 7147 12107 15993 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'loafers'+ 'slip'+ 'ons'	928 4161 11706 18492 18396 11571 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'sports'+ 'bras'	18492 4161 11706 928 17648 4482 6340 7147 3862 20648 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'shirts'	18492 4161 4992 928 2648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'r'+ 'ryka'	928 18492 4161 14952 21313 
+'clothing'+ 'shoes'+ 'jewelry'+ 'c'+ 'clarks'	928 18492 4161 750 19684 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'tops'+ 'tees'+ 'blouses'+ 'button'+ 'shirts'	928 18492 4161 11706 8562 19865 4705 12293 9603 2648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'dearfoams'	928 18492 4161 12657 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'active'+ 'shirts'+ 'tees'	18492 4161 4992 928 1598 2648 4705 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'shirts'	18492 4161 2441 6277 928 4992 2648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'intimates'+ 'sports'+ 'bras'	928 18492 4161 11706 4538 7965 7147 3862 20648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'luggage'+ 'travel'+ 'gear'	928 18492 4161 7101 5550 5450 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'handbags'+ 'wallets'+ 'cross'+ 'body'+ 'bags'	928 18492 4161 11706 292 2460 18134 7335 7514 
+'sports'+ 'outdoors'+ 'cycling'+ 'clothing'+ 'women'+ 'socks'	3862 12705 2142 928 11706 1229 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'hosiery'+ 'casual'+ 'socks'	18492 4161 11706 928 2444 1406 1229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'luggage'+ 'travel'+ 'gear'+ 'kids'+ 'backpacks'	928 18492 4161 7101 5550 5450 14204 4149 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'scarves'+ 'wraps'+ 'pashminas'	928 18492 4161 11706 3642 14357 8926 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'track'+ 'active'+ 'jackets'	18492 4161 4992 928 7199 1598 6399 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'dresses'	18492 4161 11706 928 8825 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'accessories'+ 'costumes'+ 'kids'+ 'baby'+ 'infants'+ 'toddlers'	928 18492 4161 6277 3642 2441 14204 21 9909 14645 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'neckties'	928 18492 4161 4992 3642 404 
+'clothing'+ 'shoes'+ 'jewelry'+ 'c'+ 'cobian'	928 18492 4161 750 4457 
+'clothing'+ 'shoes'+ 'jewelry'+ 'luggage'+ 'travel'+ 'gear'+ 'backpacks'+ 'casual'+ 'daypacks'	928 18492 4161 7101 5550 5450 4149 1406 12173 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'hats'+ 'caps'	928 18492 4161 6277 2441 3642 6280 20393 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'	928 18492 4161 11706 8562 
+'clothing'+ 'shoes'+ 'costumes'+ 'novelty'+ 'jewelry'+ 'rings'	928 18492 2441 6277 4161 19923 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'skirts'	928 18492 4161 11706 8562 8017 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'	928 18492 4161 6277 2441 3642 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'dresses'+ 'special'+ 'occasion'	18492 4161 11706 928 8825 13078 4510 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'accessories'+ 'hats'+ 'caps'+ 'berets'	18492 4161 2441 6277 928 11706 3642 6280 20393 13451 
+'clothing'+ 'shoes'+ 'jewelry'+ 'kids'+ 'watches'+ 'boys'	928 18492 4161 14204 5766 13417 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'dress'+ 'socks'	18492 4161 13417 928 8825 1229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'band'+ 'music'+ 'fan'+ 'shirts'	928 18492 4161 6277 2441 21119 11386 20986 2648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'shop'+ 'designer'	928 18492 4161 20771 6762 
+'clothing'+ 'shoes'+ 'jewelry'+ 'luggage'+ 'gear'+ 'travel'+ 'accessories'+ 'packing'+ 'organizers'	928 18492 4161 7101 5450 5550 3642 7429 
+'clothing'+ 'shoes'+ 'jewelry'+ 'luggage'+ 'travel'+ 'gear'+ 'umbrellas'	928 18492 4161 7101 5550 5450 14407 
+'clothing'+ 'jewelry'+ 'boys'+ 'shoes'+ 'slippers'	928 4161 13417 18492 17975 
+'clothing'+ 'jewelry'+ 'baby'+ 'girls'+ 'shoes'+ 'athletic'+ 'outdoor'	928 4161 21 7242 18492 10779 13687 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'athletic'+ 'ballet'+ 'dance'	928 4161 11706 18492 10779 108 1904 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'sleep'+ 'lounge'+ 'sets'	928 18492 4161 11706 8562 4482 6340 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'test'+ 'women'+ 'aaq'	928 18492 4161 13137 11706 
+'clothing'+ 'shoes'+ 'jewelry'+ 'tommy'+ 'hilfiger'	928 18492 4161 15281 7812 
+'clothing'+ 'shoes'+ 'costumes'+ 'novelty'+ 'jewelry'+ 'necklaces'+ 'pendants'	928 18492 2441 6277 4161 13073 10301 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'hats'+ 'caps'+ 'visors'	928 18492 4161 11706 3642 6280 20393 15995 
+'clothing'+ 'shoes'+ 'costumes'+ 'novelty'+ 'jewelry'+ 'charms'	928 18492 2441 6277 4161 4025 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'socks'+ 'hosiery'+ 'tights'	928 18492 4161 11706 8562 1229 2444 20865 
+'clothing'+ 'shoes'+ 'jewelry'+ 'travel'+ 'gear'+ 'luggage'+ 'carry'+ 'ons'	928 18492 4161 5550 5450 7101 17934 11571 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'outdoor'+ 'rain'+ 'footwear'	928 4161 4992 18492 13687 19126 19942 
+'clothing'+ 'shoes'+ 'costumes'+ 'novelty'+ 'jewelry'+ 'earrings'	928 18492 2441 6277 4161 11532 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'active'	928 18492 4161 11706 8562 1598 
+'clothing'+ 'shoes'+ 'jewelry'+ 'aerosoles'	928 18492 4161 16490 
+'clothing'+ 'shoes'+ 'novelty'+ 'costumes'+ 'accessories'+ 'boxes'+ 'organizers'+ 'jewelry'+ 'trays'	928 18492 6277 2441 3642 13977 4161 5424 
+'clothing'+ 'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'	928 18492 4161 2441 6277 
+'outdoors'+ 'sports'+ 'dance'+ 'clothing'+ 'women'+ 'leotards'	12705 3862 1904 928 11706 16718 
+'clothing'+ 'shoes'+ 'novelty'+ 'costumes'+ 'jewelry'+ 'accessories'+ 'cleaning'+ 'care'	928 18492 6277 2441 4161 3642 20185 16717 
+'clothing'+ 'shoes'+ 'arrivals'+ 'new'+ 'jewelry'	928 18492 11660 10750 4161 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'fashion'+ 'sneakers'	928 4161 11706 18492 19166 4860 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'eyewear'+ 'accessories'+ 'sunglasses'	928 18492 4161 4992 1457 3642 12096 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'underwear'+ 'boxers'	18492 4161 13417 928 13154 13054 
+'clothing'+ 'shoes'+ 'jewelry'+ 'timex'	928 18492 4161 1226 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'shapewear'+ 'tops'	928 18492 4161 11706 8562 7147 2912 19865 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'coats'+ 'jackets'+ 'fleece'	18492 4161 11706 928 20295 6399 18267 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'accessories'+ 'sunglasses'+ 'eyewear'	18492 4161 2441 6277 928 11706 3642 12096 1457 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'mittens'+ 'cold'+ 'weather'+ 'gloves'	928 18492 4161 11706 3642 9481 9668 8381 18763 
+'clothing'+ 'shoes'+ 'jewelry'+ 'girls'	928 18492 4161 7242 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'hoodies'	3862 12705 928 11706 12136 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'hoodies'	18492 4161 2441 6277 928 4992 12136 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boys'	928 18492 4161 13417 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'necklaces'+ 'pendants'	928 18492 11706 4161 19166 13073 10301 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boys'+ 'accessories'+ 'belts'	928 18492 4161 13417 3642 3806 
+'outdoors'+ 'boating'+ 'water'+ 'sports'+ 'swimming'+ 'swimwear'+ 'women'+ 'one'+ 'piece'+ 'suits'	12705 18649 16888 3862 12783 2025 11706 2026 11718 905 
+'software'+ 'education'+ 'reference'+ 'languages'	13705 17449 6007 5034 
+'clothing'+ 'shoes'+ 'jewelry'+ 'k'+ 'keen'	928 18492 4161 19108 12397 
+'clothing'+ 'shoes'+ 'jewelry'+ 'gear'+ 'luggage'+ 'travel'+ 'duffels'	928 18492 4161 5450 7101 5550 14448 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'watch'+ 'accessories'+ 'repair'+ 'tools'+ 'kits'	928 18492 4161 6277 2441 10359 3642 8024 13830 11514 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'active'+ 'sweatshirts'	18492 4161 4992 928 1598 11502 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'active'+ 'hoodies'	18492 4161 4992 928 1598 12136 
+'clothing'+ 'shoes'+ 'jewelry'+ 'n'+ 'nautica'	928 18492 4161 10297 425 
+'clothing'+ 'shoes'+ 'jewelry'+ 'asics'	928 18492 4161 20251 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boys'+ 'accessories'+ 'neckties'	928 18492 4161 13417 3642 404 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'jeans'	18492 4161 11706 928 3181 
+'clothing'+ 'shoes'+ 'women'+ 'fine'+ 'jewelry'+ 'sets'	928 18492 11706 15419 4161 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'f'+ 'frye'	928 18492 4161 282 12242 
+'clothing'+ 'shoes'+ 'jewelry'+ 'skechers'	928 18492 4161 6809 
+'clothing'+ 'shoes'+ 'jewelry'+ 'outlet'	928 18492 4161 6474 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'active'+ 'athletic'+ 'socks'	928 18492 4161 4992 19396 20935 1598 10779 1229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'	928 18492 4161 6277 2441 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'earrings'+ 'stud'	928 18492 11706 4161 19166 11532 5822 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'necklaces'+ 'pendants'	928 18492 11706 4161 15419 13073 10301 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'bodysuits'	18492 4161 21 7242 928 3595 
+'clothing'+ 'shoes'+ 'jewelry'+ 'new'+ 'arrivals'	928 18492 4161 10750 11660 
+'clothing'+ 'shoes'+ 'jewelry'+ 'luggage'+ 'travel'+ 'gear'+ 'gym'+ 'bags'+ 'sports'+ 'duffels'	928 18492 4161 7101 5550 5450 17905 7514 3862 14448 
+'clothing'+ 'shoes'+ 'jewelry'+ 'available'+ 'international'+ 'shipping'	928 18492 4161 3847 10933 11403 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'slippers'	928 4161 4992 18492 17975 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'belts'	928 18492 4161 11706 3642 3806 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'leggings'	18492 4161 11706 928 14292 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'active'+ 'top'+ 'bottom'+ 'sets'	18492 4161 11706 928 1598 16951 1868 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'jeans'	928 18492 4161 11706 8562 3181 
+'clothing'+ 'shoes'+ 'jewelry'+ 'gemstones'	928 18492 4161 15539 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'swim'+ 'racing'	928 18492 4161 11706 8562 1433 2265 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'underwear'	3862 12705 928 4992 13154 
+'clothing'+ 'shoes'+ 'jewelry'+ 'stacy'+ 'adams'	928 18492 4161 11203 9233 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'hosiery'+ 'casual'+ 'socks'	928 18492 4161 11706 8562 2444 1406 1229 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'thermal'+ 'underwear'	18492 4161 11706 928 17648 4482 6340 16795 13154 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'sleep'+ 'lounge'+ 'thermal'+ 'underwear'	928 18492 4161 11706 8562 4482 6340 16795 13154 
+'outdoors'+ 'snow'+ 'sports'+ 'skiing'+ 'clothing'+ 'women'+ 'hats'	12705 5164 3862 1664 928 11706 6280 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'active'+ 'pants'	18492 4161 11706 928 1598 1407 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'bella'	928 18492 4161 14097 20149 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'shoe'+ 'care'+ 'accessories'+ 'shoelaces'	928 18492 4161 6277 2441 18492 16717 3642 3429 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'dresses'+ 'casual'	928 18492 4161 11706 8562 8825 1406 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'panties'+ 'hipsters'	18492 4161 11706 928 17648 4482 6340 7147 12107 10788 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'active'+ 'shorts'	18492 4161 11706 928 1598 6609 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'women'	928 18492 4161 6277 2441 3642 11706 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'socks'	3862 12705 928 4992 1229 
+'clothing'+ 'shoes'+ 'costumes'+ 'novelty'+ 'jewelry'+ 'bracelets'	928 18492 2441 6277 4161 13666 
+'clothing'+ 'shoes'+ 'jewelry'+ 'l'+ 'leg'+ 'avenue'	928 18492 4161 5973 16977 12552 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'exotic'+ 'apparel'+ 'women'+ 'costumes'	928 18492 4161 6277 5976 3444 11706 2441 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'pumps'	928 4161 11706 18492 2053 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'coats'+ 'lightweight'+ 'denim'+ 'jackets'	18492 4161 11706 928 20295 9094 14437 6399 
+'clothing'+ 'shoes'+ 'jewelry'+ 'street'+ 'surf'+ 'skate'	928 18492 4161 4508 15424 2781 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'sweaters'+ 'shrugs'	18492 4161 11706 928 21202 17948 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'fashion'+ 'sneakers'	928 4161 4992 18492 19166 4860 
+'clothing'+ 'shoes'+ 'jewelry'+ 'luggage'+ 'travel'+ 'gear'+ 'briefcases'	928 18492 4161 7101 5550 5450 5131 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'shoe'+ 'care'+ 'accessories'+ 'polishes'+ 'dyes'	928 18492 4161 6277 2441 18492 16717 3642 7654 7576 
+'clothing'+ 'shoes'+ 'jewelry'+ 'speedo'	928 18492 4161 11761 
+'clothing'+ 'shoes'+ 'jewelry'+ 'winter'+ 'promo'	928 18492 4161 5359 20508 
+'clothing'+ 'shoes'+ 'jewelry'+ 'amazon'+ 'curated'+ 'collection'	928 18492 4161 6551 17472 19668 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'wrist'+ 'watches'	928 18492 4161 4992 19802 5766 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'sweaters'+ 'cardigans'	928 18492 4161 11706 8562 21202 18671 
+'clothing'+ 'shoes'+ 'plain'+ 'silver'+ 'jewelry'	928 18492 18440 8223 4161 
+'clothing'+ 'shoes'+ 'jewelry'+ 'baby'+ 'girls'	928 18492 4161 21 7242 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'suspenders'	928 18492 4161 4992 3642 11083 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'sandals'	928 4161 4992 18492 18952 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'	18492 4161 4992 928 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'sweatshirts'	3862 12705 928 4992 11502 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'shirts'	3862 12705 928 4992 2648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'card'+ 'cases'+ 'money'+ 'organizers'+ 'wallets'	928 18492 4161 4992 3642 17031 5363 8412 2460 
+'clothing'+ 'shoes'+ 'jewelry'+ 'luggage'+ 'travel'+ 'gear'+ 'messenger'+ 'bags'	928 18492 4161 7101 5550 5450 5379 7514 
+'electronics'+ 'ebook'+ 'readers'+ 'accessories'+ 'covers'	1892 8748 20729 3642 6041 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'underwear'+ 'boxer'+ 'briefs'	18492 4161 4992 928 13154 13054 15993 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'keyrings'+ 'keychains'	928 18492 4161 4992 3642 19235 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'hats'+ 'caps'+ 'balaclavas'	928 18492 4161 4992 3642 6280 20393 1689 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'active'+ 'athletic'+ 'socks'	18492 4161 11706 928 1598 10779 1229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'wrist'+ 'watches'	928 18492 4161 11706 19802 5766 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'athletic'+ 'running'	928 4161 4992 18492 10779 19153 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'boots'	928 4161 4992 18492 2839 
+'clothing'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'shoes'+ 'men'+ 'military'+ 'tactical'	928 4161 6277 2441 11605 12339 3383 18492 4992 15892 2052 
+'clothing'+ 'shoes'+ 'jewelry'+ 'p'+ 'puma'	928 18492 4161 3557 5682 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'dress'+ 'shirts'	18492 4161 4992 928 8825 2648 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'suits'+ 'sport'+ 'coats'+ 'suit'+ 'jackets'	18492 4161 4992 928 905 14933 20295 905 6399 
+'clothing'+ 'shoes'+ 'jewelry'+ 'shimano'	928 18492 4161 8620 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'dress'+ 'trouser'+ 'socks'	18492 4161 4992 928 8825 16521 1229 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'underwear'+ 'undershirts'	18492 4161 4992 928 13154 840 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'swim'+ 'trunks'	18492 4161 4992 928 1433 10157 
+'clothing'+ 'jewelry'+ 'men'+ 'athletic'+ 'water'+ 'shoes'	928 4161 4992 10779 16888 18492 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'pants'+ 'casual'	18492 4161 4992 928 1407 1406 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'athletic'+ 'watches'	928 18492 4161 4992 10779 5766 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'belts'	928 18492 4161 4992 3642 3806 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'active'+ 'shorts'	18492 4161 4992 928 1598 6609 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'watch'+ 'winders'	928 18492 4161 6277 2441 3642 10359 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'military'+ 'men'+ 'pants'	18492 4161 6277 2441 11605 12339 3383 928 15892 4992 1407 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'military'	18492 4161 6277 2441 11605 12339 3383 928 15892 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'military'+ 'men'+ 'accessories'	18492 4161 6277 2441 11605 12339 3383 928 15892 4992 3642 
+'clothing'+ 'shoes'+ 'jewelry'+ 'n'+ 'new'+ 'balance'	928 18492 4161 10297 10750 14996 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'accessories'+ 'costumes'+ 'men'	928 18492 4161 6277 3642 2441 4992 
+'sports'+ 'outdoors'+ 'outdoor'+ 'gear'+ 'camping'+ 'hiking'+ 'clothing'+ 'women'+ 'socks'	3862 12705 13687 5450 13275 20067 928 11706 1229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'dresses'+ 'night'+ 'cocktail'	928 18492 4161 11706 8562 8825 17818 7322 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'sweaters'+ 'pullovers'	18492 4161 4992 928 21202 19197 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'caps'+ 'sun'+ 'hats'	928 18492 4161 11706 3642 20393 20562 6280 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'sunglasses'+ 'eyewear'+ 'accessories'+ 'eyeglass'+ 'cases'	928 18492 4161 4992 12096 1457 3642 9470 5363 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'food'+ 'service'+ 'hats'	18492 4161 6277 2441 11605 12339 3383 928 1526 14385 6280 
+'baby'+ 'products'+ 'feeding'	21 3558 19792 
+'clothing'+ 'shoes'+ 'jewelry'+ 'armitron'	928 18492 4161 308 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'wigs'	928 18492 4161 6277 2441 3642 13623 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'accessories'+ 'costumes'+ 'women'	928 18492 4161 6277 3642 2441 11706 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'shirts'	3862 12705 928 11706 2648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'athletic'+ 'watches'	928 18492 4161 11706 10779 5766 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'medical'+ 'men'+ 'scrub'+ 'bottoms'	18492 4161 6277 2441 11605 12339 3383 928 8257 4992 21061 1868 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'dresses'+ 'special'+ 'occasion'	928 18492 4161 11706 8562 8825 13078 4510 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'underwear'+ 'briefs'	18492 4161 13417 928 13154 15993 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'tops'+ 'tees'+ 'polos'	18492 4161 13417 928 19865 4705 4481 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'dresses'+ 'casual'	18492 4161 11706 928 8825 1406 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'maternity'+ 'tops'+ 'tees'+ 'blouses'+ 'button'+ 'shirts'	928 18492 4161 11706 9797 19865 4705 12293 9603 2648 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'sleep'+ 'lounge'+ 'intimates'+ 'lingerie'+ 'bustiers'+ 'corsets'	18492 4161 11706 928 4482 6340 7147 17648 9017 3990 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'sunglasses'+ 'eyewear'+ 'accessories'+ 'eyeglass'+ 'cases'	928 18492 4161 11706 12096 1457 3642 9470 5363 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'	18492 4161 6277 2441 11605 12339 3383 928 
+'health'+ 'personal'+ 'care'+ 'stationery'+ 'party'+ 'supplies'	7415 1330 16717 13442 5377 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'underwear'+ 'undershirts'	18492 4161 13417 928 13154 840 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'outerwear'+ 'coats'+ 'fleece'	928 18492 4161 11706 8562 9081 20295 18267 
+'clothing'+ 'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'accessories'+ 'socks'	928 18492 4161 21 7242 3642 1229 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'+ 'rompers'+ 'footies'	18492 4161 21 13417 928 7338 1807 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'coats'+ 'jackets'	18492 4161 11706 928 20295 6399 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'tops'+ 'tees'+ 'button'+ 'shirts'+ 'blouses'	928 18492 4161 11706 8562 19865 4705 9603 2648 12293 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'tops'+ 'tees'+ 'blouses'+ 'button'+ 'shirts'	18492 4161 11706 928 19865 4705 12293 9603 2648 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'nightgowns'+ 'sleepshirts'	18492 4161 11706 928 17648 4482 6340 19194 19139 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'	928 18492 4161 11706 4538 7965 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'bottoms'	18492 4161 11706 928 17648 4482 6340 1868 
+'clothing'+ 'shoes'+ 'jewelry'+ 'gear'+ 'travel'+ 'accessories'+ 'luggage'+ 'scales'	928 18492 4161 5450 5550 3642 7101 18049 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'handbags'+ 'wallets'+ 'evening'+ 'bags'	928 18492 4161 11706 292 2460 12963 7514 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'intimates'+ 'bras'+ 'minimizers'	928 18492 4161 11706 4538 7965 7147 20648 
+'clothing'+ 'jewelry'+ 'girls'+ 'shoes'+ 'sneakers'	928 4161 7242 18492 4860 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'tops'+ 'tees'+ 'tunics'	18492 4161 11706 928 19865 4705 4346 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'hats'+ 'caps'+ 'skullies'+ 'beanies'	928 18492 4161 4992 3642 6280 20393 223 
+'sports'+ 'outdoors'+ 'golf'+ 'clothing'+ 'women'+ 'shirts'	3862 12705 7453 928 11706 2648 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'+ 'bodysuits'	18492 4161 21 13417 928 3595 
+'clothing'+ 'shoes'+ 'jewelry'+ 'luggage'+ 'gear'+ 'accessories'+ 'travel'+ 'wallets'	928 18492 4161 7101 5450 3642 5550 2460 
+'clothing'+ 'shoes'+ 'jewelry'+ 'f'+ 'fila'	928 18492 4161 282 16625 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'hats'+ 'baseball'+ 'caps'	928 18492 4161 4992 3642 6280 9605 20393 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'athletic'+ 'running'	928 4161 11706 18492 10779 19153 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'shorts'+ 'cargo'	18492 4161 4992 928 6609 20444 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'shorts'+ 'flat'+ 'front'	18492 4161 4992 928 6609 19398 5231 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'bass'	928 18492 4161 14097 18722 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'sleep'+ 'lounge'+ 'robes'	928 18492 4161 11706 8562 4482 6340 21106 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'lounge'+ 'sleep'+ 'bottoms'	18492 4161 4992 928 6340 4482 1868 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'underwear'+ 'briefs'	18492 4161 4992 928 13154 15993 
+'clothing'+ 'shoes'+ 'jewelry'+ 'gear'+ 'travel'+ 'accessories'+ 'luggage'+ 'locks'	928 18492 4161 5450 5550 3642 7101 19507 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'thermal'+ 'underwear'+ 'tops'	18492 4161 4992 928 16795 13154 19865 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'band'+ 'music'+ 'fan'+ 'accessories'	928 18492 4161 6277 2441 21119 11386 20986 3642 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'shoe'+ 'care'+ 'kits'+ 'sets'	928 18492 4161 6277 2441 3642 18492 16717 11514 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'seiko'+ 'watches'	928 18492 4161 1139 5766 
+'clothing'+ 'shoes'+ 'costumes'+ 'novelty'+ 'jewelry'	928 18492 2441 6277 4161 
+'clothing'+ 'shoes'+ 'jewelry'+ 'fashion'+ 'watches'	928 18492 4161 19166 5766 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'athletic'+ 'golf'	928 4161 4992 18492 10779 7453 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'jackets'+ 'coats'+ 'alternative'	18492 4161 4992 928 6399 20295 16155 
+'clothing'+ 'shoes'+ 'jewelry'+ 'dockers'	928 18492 4161 15146 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'jackets'+ 'coats'+ 'trench'+ 'rain'	18492 4161 4992 15424 2781 4508 928 6399 20295 12131 19126 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'care'+ 'accessories'+ 'shoe'+ 'bags'	928 18492 4161 6277 2441 16717 3642 18492 7514 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'mittens'+ 'cold'+ 'weather'+ 'gloves'	928 18492 4161 4992 3642 9481 9668 8381 18763 
+'clothing'+ 'shoes'+ 'novelty'+ 'costumes'+ 'body'+ 'piercing'+ 'jewelry'+ 'tapers'	928 18492 6277 2441 7335 10436 4161 6966 
+'clothing'+ 'shoes'+ 'jewelry'+ 'steve'+ 'madden'	928 18492 4161 18500 7570 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'military'+ 'men'+ 'tops'	18492 4161 6277 2441 11605 12339 3383 928 15892 4992 19865 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'coats'+ 'jackets'+ 'active'+ 'performance'+ 'insulated'	18492 4161 11706 928 20295 6399 1598 11092 3631 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'active'	18492 4161 11706 928 1598 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'active'+ 'base'+ 'layers'	18492 4161 11706 928 1598 11521 10145 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'jackets'+ 'coats'+ 'trench'+ 'rain'	18492 4161 4992 928 6399 20295 12131 19126 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'	928 18492 11706 4161 19166 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'athletic'+ 'fitness'+ 'cross'+ 'training'	928 4161 4992 18492 10779 16771 18134 19415 
+'clothing'+ 'shoes'+ 'jewelry'+ 'citizen'	928 18492 4161 17530 
+'clothing'+ 'shoes'+ 'jewelry'+ 'luggage'+ 'travel'+ 'gear'+ 'fashion'+ 'waist'+ 'packs'	928 18492 4161 7101 5550 5450 19166 18629 9573 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'care'+ 'accessories'+ 'shoe'+ 'dryers'	928 18492 4161 6277 2441 16717 3642 18492 11479 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'handbags'+ 'wallets'+ 'wristlets'	928 18492 4161 11706 292 2460 9413 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'socks'	3862 12705 928 11706 1229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'luggage'+ 'gear'+ 'travel'+ 'accessories'	928 18492 4161 7101 5450 5550 3642 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'active'+ 'underwear'	18492 4161 4992 928 1598 13154 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'skirts'	18492 4161 11706 928 8017 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'masks'+ 'women'	928 18492 4161 6277 2441 3642 6514 11706 
+'clothing'+ 'shoes'+ 'jewelry'+ 'c'+ 'columbia'	928 18492 4161 750 19564 
+'clothing'+ 'shoes'+ 'jewelry'+ 'travel'+ 'gear'+ 'luggage'+ 'sets'	928 18492 4161 5550 5450 7101 12658 
+'outdoors'+ 'equestrian'+ 'sports'+ 'riding'+ 'boots'	12705 14380 3862 16838 2839 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'sweaters'+ 'pullovers'	18492 4161 11706 928 21202 19197 
+'clothing'+ 'shoes'+ 'jewelry'+ 'sag'+ 'harbor'	928 18492 4161 19770 5160 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'women'+ 'bodystockings'	928 18492 4161 6277 2441 5976 3444 11706 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'women'	928 18492 4161 6277 2441 5976 3444 11706 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'dresses'	3862 12705 928 11706 8825 
+'clothing'+ 'shoes'+ 'jewelry'+ 'j'+ 'jambu'	928 18492 4161 1091 5690 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'accessories'+ 'bra'+ 'extenders'	18492 4161 11706 928 17648 4482 6340 7147 3642 20648 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'jackets'+ 'coats'	18492 4161 4992 928 6399 20295 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'casual'+ 'button'+ 'shirts'	18492 4161 4992 928 1406 9603 2648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'izod'	928 18492 4161 7133 
+'clothing'+ 'shoes'+ 'jewelry'+ 'r'+ 'rockport'	928 18492 4161 14952 3027 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'oxfords'	928 4161 4992 18492 19947 
+'clothing'+ 'shoes'+ 'men'+ 'jewelry'+ 'wedding'+ 'rings'	928 18492 4992 4161 2303 19923 
+'clothing'+ 'shoes'+ 'jewelry'+ 'gear'+ 'travel'+ 'accessories'+ 'luggage'+ 'tags'	928 18492 4161 5450 5550 3642 7101 11301 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'bearpaw'	928 18492 4161 14097 18000 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'accessories'+ 'caps'+ 'sun'+ 'hats'	3862 12705 928 4992 3642 20393 20562 6280 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'shorts'	18492 4161 11706 928 6609 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'	928 18492 11706 4161 15419 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'jeans'	928 18492 4161 11706 19916 3181 
+'clothing'+ 'shoes'+ 'jewelry'+ 'sport'+ 'watches'	928 18492 4161 14933 5766 
+'clothing'+ 'shoes'+ 'jewelry'+ 'k'+ 'kenneth'+ 'cole'+ 'reaction'	928 18492 4161 19108 6921 5913 14328 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'active'+ 'athletic'+ 'socks'	928 18492 4161 11706 8562 1598 10779 1229 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'accessories'+ 'sunglasses'+ 'eyewear'	18492 4161 2441 6277 928 4992 3642 12096 1457 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'athletic'+ 'walking'	928 4161 4992 18492 10779 11338 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'women'+ 'outdoor'+ 'work'+ 'hiking'+ 'trekking'	928 18492 4161 669 20771 11706 13687 11605 20067 2982 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'care'+ 'accessories'+ 'shoe'+ 'boot'+ 'trees'	928 18492 4161 6277 2441 16717 3642 18492 669 5233 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'earmuffs'	928 18492 4161 4992 3642 15190 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'earmuffs'	928 18492 4161 11706 3642 15190 
+'outdoors'+ 'snow'+ 'sports'+ 'skiing'+ 'clothing'+ 'men'	12705 5164 3862 1664 928 4992 
+'clothing'+ 'shoes'+ 'men'+ 'jewelry'+ 'necklaces'	928 18492 4992 4161 13073 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'food'+ 'service'	18492 4161 6277 2441 11605 12339 3383 928 1526 14385 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'athletic'	928 4161 4992 18492 10779 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'athletic'+ 'trail'+ 'running'	928 4161 4992 18492 10779 6426 19153 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'active'+ 'leggings'	18492 4161 11706 928 1598 14292 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'bras'	18492 4161 11706 928 17648 4482 6340 7147 20648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'gear'+ 'travel'+ 'accessories'+ 'luggage'+ 'straps'	928 18492 4161 5450 5550 3642 7101 10156 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'casual'+ 'socks'	18492 4161 4992 928 1406 1229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'sunglasses'+ 'eyewear'+ 'accessories'+ 'eyeglass'+ 'chains'	928 18492 4161 4992 12096 1457 3642 9470 10638 
+'clothing'+ 'shoes'+ 'jewelry'+ 'summer'+ 'event'	928 18492 4161 12241 1795 
+'clothing'+ 'shoes'+ 'jewelry'+ 'luggage'+ 'gear'+ 'travel'+ 'accessories'+ 'passport'+ 'wallets'	928 18492 4161 7101 5450 5550 3642 846 2460 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'maternity'+ 'intimates'+ 'belly'+ 'bands'	928 18492 4161 11706 9797 7147 12352 21119 
+'clothing'+ 'jewelry'+ 'boys'+ 'athletic'+ 'water'+ 'shoes'	928 4161 13417 10779 16888 18492 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'underwear'	18492 4161 13417 928 13154 
+'clothing'+ 'shoes'+ 'jewelry'+ 'dc'	928 18492 4161 14896 
+'clothing'+ 'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'accessories'+ 'hats'+ 'caps'	928 18492 4161 21 13417 3642 6280 20393 
+'clothing'+ 'shoes'+ 'jewelry'+ 'n'+ 'nine'+ 'west'	928 18492 4161 10297 5248 8555 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'hosiery'+ 'dress'+ 'trouser'+ 'socks'	18492 4161 11706 928 2444 8825 16521 1229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'masks'+ 'kids'+ 'baby'	928 18492 4161 6277 2441 3642 6514 14204 21 
+'clothing'+ 'shoes'+ 'jewelry'+ 'j'+ 'jessica'+ 'simpson'	928 18492 4161 1091 2793 6519 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'watches'+ 'watch'+ 'bands'	928 18492 4161 11706 5766 10359 21119 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'watch'+ 'accessories'+ 'cabinets'+ 'cases'	928 18492 4161 6277 2441 10359 3642 21163 5363 
+'outdoors'+ 'accessories'+ 'sports'+ 'sunglasses'	12705 3642 3862 12096 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'active'+ 'athletic'+ 'socks'	18492 4161 4992 928 1598 10779 1229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'paylak'	928 18492 4161 16706 
+'clothing'+ 'shoes'+ 'jewelry'+ 'c'+ 'carhartt'	928 18492 4161 750 7442 
+'sports'+ 'outdoors'+ 'accessories'+ 'sport'+ 'watches'	3862 12705 3642 14933 5766 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'brooks'	928 18492 4161 14097 11371 
+'cell'+ 'phones'+ 'smart'+ 'watches'+ 'accessories'	9647 2016 11418 5766 3642 
+'sports'+ 'outdoors'+ 'exercise'+ 'fitness'+ 'running'+ 'clothing'+ 'women'+ 'socks'	3862 12705 6767 16771 19153 928 11706 1229 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'underwear'+ 'boxer'+ 'briefs'	18492 4161 2441 6277 928 4992 13154 13054 15993 
+'clothing'+ 'shoes'+ 'jewelry'+ 'timex'+ 'test'	928 18492 4161 1226 13137 
+'clothing'+ 'shoes'+ 'jewelry'+ 'n'+ 'nike'	928 18492 4161 10297 20091 
+'clothing'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'shoes'+ 'sandals'	928 4161 4992 15424 2781 4508 18492 18952 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'shapewear'+ 'control'+ 'panties'	18492 4161 11706 928 17648 4482 6340 7147 2912 18468 12107 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'underwear'+ 'undershirts'	928 18492 4161 4992 19396 20935 13154 840 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'care'+ 'accessories'+ 'shoe'+ 'brushes'	928 18492 4161 6277 2441 16717 3642 18492 15638 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'fashion'+ 'hoodies'+ 'sweatshirts'	18492 4161 4992 928 19166 12136 11502 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'hats'+ 'caps'+ 'kids'+ 'baby'	928 18492 4161 6277 2441 3642 6280 20393 14204 21 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'medical'+ 'women'+ 'scrub'+ 'tops'	18492 4161 6277 2441 11605 12339 3383 928 8257 11706 21061 19865 
+'clothing'+ 'shoes'+ 'jewelry'+ 'e'+ 'easy'+ 'street'	928 18492 4161 8386 3786 4508 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'medical'+ 'women'+ 'scrub'+ 'bottoms'	18492 4161 6277 2441 11605 12339 3383 928 8257 11706 21061 1868 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'medical'	18492 4161 6277 2441 11605 12339 3383 928 8257 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'women'+ 'outdoor'+ 'work'+ 'rain'	928 18492 4161 669 20771 11706 13687 11605 19126 
+'clothing'+ 'shoes'+ 'jewelry'+ 'f'+ 'foot'+ 'petals'	928 18492 4161 282 943 7160 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'caps'+ 'sun'+ 'hats'	928 18492 4161 4992 3642 20393 20562 6280 
+'clothing'+ 'shoes'+ 'jewelry'+ 'h'+ 'hi'+ 'tec'	928 18492 4161 16850 20067 11247 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'sleep'+ 'lounge'+ 'robes'	18492 4161 4992 928 4482 6340 21106 
+'clothing'+ 'shoes'+ 'jewelry'+ 'mizuno'	928 18492 4161 16605 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'+ 'swim'+ 'diapers'	18492 4161 21 13417 928 1433 18628 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'women'+ 'bustiers'+ 'corsets'	928 18492 4161 6277 2441 5976 3444 11706 9017 3990 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'robes'	18492 4161 11706 928 17648 4482 6340 21106 
+'clothing'+ 'shoes'+ 'jewelry'+ 'sebago'	928 18492 4161 1023 
+'clothing'+ 'shoes'+ 'jewelry'+ 'n'+ 'naturalizer'	928 18492 4161 10297 
+'clothing'+ 'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'accessories'	928 18492 4161 21 13417 3642 
+'clothing'+ 'shoes'+ 'jewelry'+ 'c'+ 'calvin'+ 'klein'	928 18492 4161 750 61 15475 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'women'+ 'lingerie'+ 'sets'	928 18492 4161 6277 2441 5976 3444 11706 17648 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'hats'+ 'caps'+ 'skullies'+ 'beanies'	928 18492 4161 11706 3642 6280 20393 223 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'pants'+ 'wear'+ 'work'	18492 4161 11706 928 1407 12339 11605 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'panties'+ 'briefs'	928 18492 4161 11706 8562 7147 12107 15993 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'	928 18492 4161 11706 3642 
+'clothing'+ 'jewelry'+ 'baby'+ 'girls'+ 'shoes'+ 'sandals'	928 4161 21 7242 18492 18952 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'earrings'+ 'drop'+ 'dangle'	928 18492 11706 4161 15419 11532 18274 4814 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'hosiery'+ 'slipper'+ 'socks'	18492 4161 11706 928 2444 17975 1229 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'bottoms'+ 'jeans'	18492 4161 21 7242 928 1868 3181 
+'clothing'+ 'shoes'+ 'jewelry'+ 'sam'+ 'edelman'	928 18492 4161 10781 18050 
+'clothing'+ 'shoes'+ 'costumes'+ 'novelty'+ 'jewelry'+ 'brooches'+ 'pins'	928 18492 2441 6277 4161 3601 8519 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'dresses'	18492 4161 2441 6277 928 11706 8825 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'women'+ 'sleepwear'+ 'robes'+ 'sets'	928 18492 4161 6277 2441 5976 3444 11706 17940 21106 12658 
+'sports'+ 'outdoors'+ 'clothing'+ 'girls'+ 'tights'+ 'leggings'	3862 12705 928 7242 20865 14292 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'+ 'sleepwear'+ 'robes'+ 'blanket'+ 'sleepers'	18492 4161 21 13417 928 17940 21106 14722 21360 
+'sports'+ 'outdoors'+ 'outdoor'+ 'gear'+ 'camping'+ 'hiking'+ 'backpack'+ 'accessories'	3862 12705 13687 5450 13275 20067 4149 3642 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'swim'+ 'diapers'	18492 4161 21 7242 928 1433 18628 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'outdoor'	928 4161 4992 18492 13687 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'movie'+ 'tv'+ 'fan'+ 'tops'+ 'tees'+ 'shirts'	928 18492 4161 6277 2441 8159 7313 20986 19865 4705 2648 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'sweatshirts'	18492 4161 2441 6277 928 11706 11502 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'swimsuits'+ 'cover'+ 'ups'+ 'bikinis'	18492 4161 11706 928 14605 6041 8031 17791 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'swim'+ 'bikinis'+ 'sets'	928 18492 4161 11706 8562 1433 17791 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'card'+ 'cases'+ 'money'+ 'organizers'+ 'wallets'	928 18492 4161 11706 3642 17031 5363 8412 2460 
+'clothing'+ 'shoes'+ 'jewelry'+ 'f'+ 'fitflop'	928 18492 4161 282 12013 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'	928 4161 4992 18492 
+'clothing'+ 'jewelry'+ 'boys'+ 'shoes'+ 'sneakers'	928 4161 13417 18492 4860 
+'clothing'+ 'shoes'+ 'jewelry'+ 'merrell'	928 18492 4161 18696 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'pants'+ 'casual'	18492 4161 11706 928 1407 1406 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'jeans'	928 18492 4161 4992 19396 20935 3181 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'underwear'+ 'boxers'	18492 4161 4992 928 13154 13054 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'intimates'+ 'shapewear'+ 'bodysuits'	928 18492 4161 11706 4538 7965 7147 2912 3595 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'half'+ 'slips'	18492 4161 11706 928 17648 4482 6340 7147 3594 14014 
+'clothing'+ 'shoes'+ 'jewelry'+ 'invicta'	928 18492 4161 8852 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'intimates'+ 'nursing'+ 'maternity'+ 'bras'	928 18492 4161 11706 7147 9186 9797 20648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'hair'+ 'accessories'	928 18492 4161 21 7242 13625 3642 
+'clothing'+ 'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'accessories'+ 'tights'	928 18492 4161 21 7242 3642 20865 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'sleepwear'+ 'robes'+ 'blanket'+ 'sleepers'	18492 4161 21 7242 928 17940 21106 14722 21360 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'thermal'+ 'underwear'+ 'bottoms'	18492 4161 4992 928 16795 13154 1868 
+'home'+ 'dining'+ 'kitchen'+ 'utensils'+ 'gadgets'+ 'meat'+ 'poultry'+ 'tools'	7279 17502 12912 16320 858 10092 13830 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'tops'+ 'knits'+ 'tees'	928 18492 4161 11706 8562 19865 7061 4705 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'tops'+ 'tees'	18492 4161 11706 928 19865 4705 
+'health'+ 'personal'+ 'care'+ 'medical'+ 'supplies'+ 'equipment'+ 'daily'+ 'living'+ 'dressing'+ 'aids'+ 'shoe'+ 'fasteners'+ 'laces'	7415 1330 16717 8257 5377 10803 8365 19816 6624 1283 18492 10317 9520 
+'clothing'+ 'shoes'+ 'novelty'+ 'costumes'+ 'jewelry'+ 'accessories'	928 18492 6277 2441 4161 3642 
+'clothing'+ 'shoes'+ 'jewelry'+ 'sperry'+ 'top'+ 'sider'	928 18492 4161 15047 16951 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'active'+ 'shirts'+ 'tees'	18492 4161 11706 928 1598 2648 4705 
+'clothing'+ 'shoes'+ 'jewelry'+ 'luggage'+ 'travel'+ 'gear'+ 'gym'+ 'drawstring'+ 'bags'	928 18492 4161 7101 5550 5450 17905 2581 7514 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'boys'+ 'tops'+ 'tees'+ 'shirts'	18492 4161 2441 6277 928 13417 19865 4705 2648 
+'clothing'+ 'shoes'+ 'pearl'+ 'jewelry'	928 18492 5963 4161 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'movie'+ 'tv'+ 'fan'+ 'accessories'	928 18492 4161 6277 2441 8159 7313 20986 3642 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'care'+ 'accessories'+ 'shoe'+ 'horns'+ 'boot'+ 'jacks'	928 18492 4161 6277 2441 16717 3642 18492 11046 669 12620 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'hosiery'+ 'socks'	18492 4161 2441 6277 928 11706 2444 1229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'fashion'+ 'scarves'	928 18492 4161 4992 3642 19166 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'shirts'+ 'polos'	18492 4161 4992 928 2648 4481 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'tops'+ 'tees'+ 'tunics'	928 18492 4161 11706 4538 7965 19865 4705 4346 
+'clothing'+ 'shoes'+ 'costumes'+ 'novelty'+ 'jewelry'+ 'wedding'+ 'engagement'+ 'rings'	928 18492 2441 6277 4161 2303 4327 19923 
+'outdoors'+ 'snow'+ 'sports'+ 'skiing'+ 'clothing'+ 'men'+ 'hats'	12705 5164 3862 1664 928 4992 6280 
+'clothing'+ 'jewelry'+ 'girls'+ 'shoes'+ 'boots'	928 4161 7242 18492 2839 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'hosiery'+ 'show'+ 'liner'+ 'socks'	18492 4161 11706 928 2444 15220 3 1229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'masks'+ 'men'	928 18492 4161 6277 2441 3642 6514 4992 
+'health'+ 'personal'+ 'care'+ 'supplies'+ 'household'+ 'cleaning'	7415 1330 16717 5377 5100 20185 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'maternity'	928 18492 4161 11706 9797 
+'electronics'+ 'ebook'+ 'readers'+ 'accessories'+ 'sleeves'	1892 8748 20729 3642 6658 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'suits'+ 'blazers'+ 'casual'	18492 4161 11706 928 905 5354 1406 
+'clothing'+ 'shoes'+ 'jewelry'+ 'michael'+ 'kors'	928 18492 4161 7976 14161 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'leggings'	18492 4161 2441 6277 928 11706 14292 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'suits'+ 'blazers'+ 'night'+ 'special'+ 'occasion'	18492 4161 11706 928 905 5354 17818 13078 4510 
+'clothing'+ 'shoes'+ 'jewelry'+ 'c'+ 'converse'	928 18492 4161 750 7881 
+'clothing'+ 'shoes'+ 'jewelry'+ 'watch'+ 'gifts'	928 18492 4161 10359 11741 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'military'+ 'men'+ 'outerwear'	18492 4161 6277 2441 11605 12339 3383 928 15892 4992 9081 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'leggings'	928 18492 4161 11706 19916 14292 
+'clothing'+ 'shoes'+ 'jewelry'+ 'luggage'+ 'gear'+ 'travel'+ 'accessories'+ 'passport'+ 'covers'	928 18492 4161 7101 5450 5550 3642 846 6041 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'shorts'	3862 12705 928 4992 6609 
+'clothing'+ 'jewelry'+ 'boys'+ 'shoes'+ 'outdoor'+ 'rain'+ 'boots'	928 4161 13417 18492 13687 19126 2839 
+'clothing'+ 'shoes'+ 'jewelry'+ 'adidas'	928 18492 4161 14010 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'mules'+ 'clogs'	928 4161 4992 18492 18980 11887 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'intimates'+ 'panties'+ 'briefs'	928 18492 4161 11706 4538 7965 7147 12107 15993 
+'clothing'+ 'shoes'+ 'jewelry'+ 'r'+ 'reebok'	928 18492 4161 14952 719 
+'clothing'+ 'shoes'+ 'novelty'+ 'costumes'+ 'body'+ 'piercing'+ 'jewelry'+ 'plugs'	928 18492 6277 2441 7335 10436 4161 6264 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'wallets'+ 'money'+ 'organizers'+ 'id'+ 'card'+ 'cases'	928 18492 4161 4992 3642 2460 8412 9548 17031 5363 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'sunglasses'+ 'accessories'+ 'prescription'+ 'eyewear'+ 'frames'	928 18492 4161 4992 12096 3642 30 1457 17222 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'skirts'+ 'night'+ 'special'+ 'occasion'	18492 4161 11706 928 8017 17818 13078 4510 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'skirts'+ 'casual'	18492 4161 11706 928 8017 1406 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'socks'+ 'hosiery'	18492 4161 11706 928 1229 2444 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'shapewear'+ 'waist'+ 'cinchers'	928 18492 4161 11706 8562 7147 2912 18629 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'women'+ 'babydolls'+ 'negligees'+ 'chemises'	928 18492 4161 6277 2441 5976 3444 11706 15802 5251 5725 
+'clothing'+ 'shoes'+ 'jewelry'+ 'mia'	928 18492 4161 11969 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'shirts'+ 'tank'+ 'tops'	18492 4161 4992 928 2648 11785 19865 
+'clothing'+ 'shoes'+ 'novelty'+ 'costumes'+ 'body'+ 'piercing'+ 'jewelry'+ 'rings'	928 18492 6277 2441 7335 10436 4161 19923 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'panties'+ 'bikinis'	18492 4161 11706 928 17648 4482 6340 7147 12107 17791 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'hats'+ 'caps'+ 'headbands'	928 18492 4161 11706 3642 6280 20393 13772 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'sleepwear'+ 'robes'+ 'pajama'+ 'sets'	18492 4161 21 7242 928 17940 21106 14958 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'panties'+ 'bikinis'	928 18492 4161 11706 8562 7147 12107 17791 
+'clothing'+ 'shoes'+ 'jewelry'+ 'anne'+ 'klein'	928 18492 4161 7547 15475 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'dresses'	928 18492 4161 11706 8562 8825 
+'sports'+ 'outdoors'+ 'exercise'+ 'fitness'+ 'running'+ 'clothing'+ 'men'	3862 12705 6767 16771 19153 928 4992 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'luxury'+ 'brands'	928 18492 4161 11706 9258 12858 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'pants'+ 'dress'	18492 4161 4992 928 1407 8825 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'hoodies'	18492 4161 2441 6277 928 11706 12136 
+'clothing'+ 'shoes'+ 'jewelry'+ 'w'+ 'wild'+ 'diva'	928 18492 4161 8769 18037 3131 
+'clothing'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'shoes'+ 'women'	928 4161 6277 2441 3642 18492 11706 
+'clothing'+ 'shoes'+ 'jewelry'+ 'p'+ 'pleaser'	928 18492 4161 3557 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'socks'	18492 4161 2441 6277 928 4992 1229 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'medical'+ 'men'+ 'scrub'+ 'sets'	18492 4161 6277 2441 11605 12339 3383 928 8257 4992 21061 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'hats'+ 'caps'+ 'women'	928 18492 4161 6277 2441 3642 6280 20393 11706 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'outerwear'+ 'coats'	928 18492 4161 11706 8562 9081 20295 
+'clothing'+ 'shoes'+ 'novelty'+ 'costumes'+ 'accessories'+ 'boxes'+ 'organizers'+ 'jewelry'+ 'towers'	928 18492 6277 2441 3642 13977 4161 12301 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'active'+ 'base'+ 'layers'	18492 4161 4992 928 1598 11521 10145 
+'clothing'+ 'jewelry'+ 'girls'+ 'shoes'+ 'outdoor'+ 'rain'+ 'boots'	928 4161 7242 18492 13687 19126 2839 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'sunglasses'+ 'eyewear'+ 'accessories'	928 18492 4161 11706 12096 1457 3642 
+'clothing'+ 'jewelry'+ 'women'+ 'outdoor'+ 'trekking'+ 'hiking'+ 'shoes'	928 4161 11706 13687 2982 20067 18492 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'coats'+ 'jackets'+ 'trench'+ 'rain'	18492 4161 11706 928 20295 6399 12131 19126 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'socks'+ 'hosiery'+ 'leg'+ 'warmers'	18492 4161 2441 6277 928 11706 1229 2444 16977 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'	928 18492 4161 6277 2441 5976 3444 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'swimsuits'+ 'cover'+ 'ups'+ 'board'+ 'shorts'	18492 4161 11706 928 14605 6041 8031 12350 6609 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'sweaters'+ 'cardigans'	18492 4161 11706 928 21202 18671 
+'clothing'+ 'shoes'+ 'jewelry'+ 'xoxo'+ 'watches'	928 18492 4161 13974 5766 
+'clothing'+ 'shoes'+ 'jewelry'+ 'h'+ 'hush'+ 'puppies'	928 18492 4161 16850 14299 4423 
+'clothing'+ 'jewelry'+ 'girls'+ 'athletic'+ 'water'+ 'shoes'	928 4161 7242 10779 16888 18492 
+'clothing'+ 'shoes'+ 'jewelry'+ 'stride'+ 'rite'	928 18492 4161 19420 5626 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'women'+ 'hosiery'	928 18492 4161 6277 2441 5976 3444 11706 2444 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'athletic'+ 'skateboarding'	928 4161 4992 18492 10779 19764 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'panties'+ 'g'+ 'strings'+ 'thongs'+ 'tangas'	18492 4161 11706 928 17648 4482 6340 7147 12107 13205 4038 20843 16629 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'oxfords'	928 4161 11706 18492 19947 
+'clothing'+ 'shoes'+ 'jewelry'+ 'w'+ 'western'+ 'chief'	928 18492 4161 8769 7919 838 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'boys'+ 'outdoor'+ 'work'+ 'snow'+ 'cold'+ 'weather'	928 18492 4161 669 20771 13417 13687 11605 5164 9668 8381 
+'clothing'+ 'shoes'+ 'jewelry'+ 'timberland'	928 18492 4161 7582 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'shorts'+ 'cargo'	18492 4161 4992 15424 2781 4508 928 6609 20444 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'athletic'+ 'fitness'+ 'cross'+ 'training'	928 4161 11706 18492 10779 16771 18134 19415 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'coats'+ 'jackets'+ 'faux'+ 'leather'	18492 4161 11706 928 20295 6399 3640 6236 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'polo'+ 'shirts'	3862 12705 928 4992 4481 2648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'softwalk'	928 18492 4161 20167 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'suits'+ 'blazers'+ 'wear'+ 'work'	18492 4161 11706 928 905 5354 12339 11605 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'women'+ 'fashion'+ 'riding'	928 18492 4161 669 20771 11706 19166 16838 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'athletic'+ 'basketball'	928 4161 4992 18492 10779 7905 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'active'+ 'pants'	928 18492 4161 11706 8562 1598 1407 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'accessories'+ 'caps'+ 'beanies'+ 'knit'+ 'hats'	18492 4161 2441 6277 928 4992 3642 20393 223 7061 6280 
+'clothing'+ 'shoes'+ 'jewelry'+ 'u'+ 'ugg'	928 18492 4161 20304 9718 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'women'+ 'outdoor'+ 'work'+ 'snow'+ 'cold'+ 'weather'	928 18492 4161 669 20771 11706 13687 11605 5164 9668 8381 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'active'+ 'pants'	18492 4161 4992 928 1598 1407 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'women'+ 'accessories'	928 18492 4161 6277 2441 5976 3444 11706 3642 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'swimwear'	18492 4161 2441 6277 928 11706 2025 
+'clothing'+ 'shoes'+ 'jewelry'+ 'kids'+ 'watches'+ 'girls'	928 18492 4161 14204 5766 7242 
+'clothing'+ 'shoes'+ 'jewelry'+ 'c'+ 'cole'+ 'haan'	928 18492 4161 750 5913 11646 
+'clothing'+ 'shoes'+ 'jewelry'+ 'dv'+ 'dolce'+ 'vita'	928 18492 4161 17393 15237 10413 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'jeans'	928 18492 4161 11706 4538 7965 3181 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'necklaces'+ 'lockets'	928 18492 11706 4161 19166 13073 578 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'pants'	3862 12705 928 4992 1407 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'shorts'+ 'denim'	18492 4161 4992 928 6609 14437 
+'cds'+ 'vinyl'+ 'pop'+ 'singer'+ 'songwriters'	890 7917 17084 
+'clothing'+ 'shoes'+ 'jewelry'+ 'muk'+ 'luks'	928 18492 4161 17211 333 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'leggings'	928 18492 4161 11706 8562 14292 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'tops'+ 'tees'+ 'shirts'	18492 4161 2441 6277 928 11706 19865 4705 2648 
+'clothing'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'shoes'+ 'loafers'+ 'slip'+ 'ons'	928 4161 4992 15424 2781 4508 18492 18396 11571 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'earrings'+ 'stud'	928 18492 11706 4161 15419 11532 5822 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'maternity'+ 'nursing'+ 'tops'+ 'tees'+ 'blouses'+ 'button'+ 'shirts'	928 18492 4161 11706 9797 9186 19865 4705 12293 9603 2648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'shoe'+ 'care'+ 'accessories'	928 18492 4161 6277 2441 18492 16717 3642 
+'clothing'+ 'jewelry'+ 'girls'+ 'shoes'+ 'flats'	928 4161 7242 18492 19398 
+'clothing'+ 'jewelry'+ 'baby'+ 'girls'+ 'shoes'+ 'sneakers'	928 4161 21 7242 18492 4860 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'footies'+ 'rompers'	18492 4161 21 7242 928 1807 7338 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'necklaces'+ 'chains'	928 18492 11706 4161 15419 13073 10638 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'women'+ 'fashion'+ 'western'	928 18492 4161 669 20771 11706 19166 7919 
+'clothing'+ 'jewelry'+ 'baby'+ 'girls'+ 'shoes'+ 'boots'	928 4161 21 7242 18492 2839 
+'clothing'+ 'jewelry'+ 'baby'+ 'boys'+ 'shoes'+ 'sneakers'	928 4161 21 13417 18492 4860 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'loafers'+ 'slip'+ 'ons'	928 4161 4992 18492 18396 11571 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'hats'+ 'caps'+ 'fedoras'	928 18492 4161 4992 3642 6280 20393 8206 
+'clothing'+ 'shoes'+ 'jewelry'+ 'dr'+ 'martens'	928 18492 4161 12516 10519 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'pants'+ 'night'+ 'special'+ 'occasion'	18492 4161 11706 928 1407 17818 13078 4510 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'caps'+ 'bucket'+ 'hats'	928 18492 4161 11706 3642 20393 6301 6280 
+'clothing'+ 'shoes'+ 'jewelry'+ 'sanuk'	928 18492 4161 3270 
+'clothing'+ 'shoes'+ 'jewelry'+ 'k'+ 'swiss'	928 18492 4161 19108 
+'clothing'+ 'shoes'+ 'jewelry'+ 'soda'	928 18492 4161 5484 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'socks'	18492 4161 4992 928 1229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'accessories'+ 'costumes'+ 'kids'+ 'baby'+ 'infants'+ 'toddlers'+ 'unisex'	928 18492 4161 6277 3642 2441 14204 21 9909 14645 16447 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'handkerchiefs'	928 18492 4161 4992 3642 8019 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'athletic'+ 'walking'	928 4161 11706 18492 10779 11338 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'accessories'+ 'belts'	3862 12705 928 4992 3642 3806 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'pants'+ 'capris'	18492 4161 2441 6277 928 11706 1407 8548 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'baby'+ 'girls'+ 'hoodies'	18492 4161 2441 6277 928 21 7242 12136 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'bras'+ 'minimizers'	18492 4161 11706 928 17648 4482 6340 7147 20648 
+'clothing'+ 'shoes'+ 'novelty'+ 'costumes'+ 'body'+ 'piercing'+ 'jewelry'+ 'screws'	928 18492 6277 2441 7335 10436 4161 20370 
+'clothing'+ 'shoes'+ 'jewelry'+ 'l'+ 'lucky'+ 'brand'	928 18492 4161 5973 1156 12858 
+'clothing'+ 'shoes'+ 'jewelry'+ 'dollhouse'	928 18492 4161 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'underwear'+ 'boxer'+ 'briefs'	928 18492 4161 4992 19396 20935 13154 13054 15993 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'shapewear'+ 'bodysuits'	18492 4161 11706 928 17648 4482 6340 7147 2912 3595 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'shapewear'+ 'thigh'+ 'slimmers'	18492 4161 11706 928 17648 4482 6340 7147 2912 8897 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'pants'	3862 12705 928 11706 1407 
+'sports'+ 'outdoors'+ 'exercise'+ 'fitness'+ 'yoga'+ 'clothing'+ 'women'+ 'pants'	3862 12705 6767 16771 20352 928 11706 1407 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'	928 18492 4161 4992 3642 
+'clothing'+ 'shoes'+ 'jewelry'+ 'adidas'+ 'originals'	928 18492 4161 14010 13208 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'active'	18492 4161 4992 928 1598 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'jackets'+ 'coats'+ 'wool'+ 'blends'	18492 4161 4992 928 6399 20295 2154 15102 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'underwear'+ 'boxers'	18492 4161 2441 6277 928 4992 13154 13054 
+'clothing'+ 'jewelry'+ 'men'+ 'outdoor'+ 'trekking'+ 'hiking'+ 'shoes'	928 4161 4992 13687 2982 20067 18492 
+'clothing'+ 'shoes'+ 'jewelry'+ 'saucony'	928 18492 4161 14869 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'underwear'	3862 12705 928 11706 13154 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'shirts'+ 'henleys'	18492 4161 4992 928 2648 13592 
+'clothing'+ 'shoes'+ 'men'+ 'jewelry'	928 18492 4992 4161 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'tops'+ 'tees'+ 'tanks'+ 'camis'	928 18492 4161 11706 19916 19865 4705 11785 2751 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'tops'+ 'knits'+ 'tees'	928 18492 4161 11706 4538 7965 19865 7061 4705 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'skirts'+ 'wear'+ 'work'	18492 4161 11706 928 8017 12339 11605 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'athletic'+ 'sport'+ 'sandals'	928 4161 4992 18492 10779 14933 18952 
+'clothing'+ 'shoes'+ 'jewelry'+ 'r'+ 'restricted'	928 18492 4161 14952 1836 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'caps'+ 'bomber'+ 'hats'	928 18492 4161 11706 3642 20393 9257 6280 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'men'+ 'outdoor'+ 'work'+ 'safety'	928 18492 4161 669 20771 4992 13687 11605 12768 
+'clothing'+ 'shoes'+ 'jewelry'+ 'fall'+ 'event'	928 18492 4161 9026 1795 
+'clothing'+ 'shoes'+ 'jewelry'+ 'madden'+ 'girl'	928 18492 4161 7570 7242 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'tops'+ 'knits'+ 'tees'	928 18492 4161 11706 19916 19865 7061 4705 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'jeans'	18492 4161 7242 928 3181 
+'clothing'+ 'shoes'+ 'jewelry'+ 'r'+ 'ralph'+ 'lauren'	928 18492 4161 14952 1614 18181 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'food'+ 'service'+ 'aprons'	18492 4161 6277 2441 11605 12339 3383 928 1526 14385 3418 
+'clothing'+ 'shoes'+ 'jewelry'+ 'girls'+ 'accessories'+ 'fashion'+ 'scarves'	928 18492 4161 7242 3642 19166 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'active'+ 'leggings'	928 18492 4161 11706 8562 1598 14292 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'women'+ 'fashion'	928 18492 4161 669 20771 11706 19166 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'bracelets'+ 'link'	928 18492 11706 4161 15419 13666 16124 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'dresses'+ 'playwear'	18492 4161 7242 928 8825 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'skirts'+ 'casual'	928 18492 4161 11706 8562 8017 1406 
+'personal'+ 'health'+ 'foot'+ 'care'+ 'inserts'+ 'insoles'	1330 7415 943 16717 2753 340 
+'shoes'+ 'jewelry'+ 'boys'+ 'school'+ 'uniforms'+ 'clothing'+ 'tops'	18492 4161 13417 1469 3383 928 19865 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'workout'+ 'shorts'	3862 12705 928 11706 16794 6609 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'hats'+ 'caps'+ 'fedoras'	928 18492 4161 11706 3642 6280 20393 8206 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'underwear'	18492 4161 7242 928 13154 
+'clothing'+ 'shoes'+ 'jewelry'+ 'deer'+ 'stags'	928 18492 4161 8993 6725 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'tops'+ 'tees'+ 'polos'	18492 4161 11706 928 19865 4705 4481 
+'clothing'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'shoes'+ 'men'	928 4161 6277 2441 3642 18492 4992 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'outdoor'+ 'rain'+ 'footwear'	928 4161 11706 18492 13687 19126 19942 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'sleep'+ 'lounge'+ 'nightgowns'+ 'sleepshirts'	928 18492 4161 11706 8562 4482 6340 19194 19139 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'tops'+ 'tees'	928 18492 4161 11706 4538 7965 19865 4705 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'swim'+ 'briefs'	18492 4161 4992 928 1433 15993 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'accessories'+ 'costumes'+ 'kids'+ 'infants'+ 'toddlers'+ 'baby'+ 'boys'	928 18492 4161 6277 3642 2441 14204 9909 14645 21 13417 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'pants'+ 'sweatpants'	3862 12705 928 4992 1407 7495 
+'clothing'+ 'shoes'+ 'jewelry'+ 'n'+ 'naughty'+ 'monkey'	928 18492 4161 10297 8742 20991 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'band'+ 'music'+ 'fan'	928 18492 4161 6277 2441 21119 11386 20986 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'	928 18492 4161 6277 2441 11605 12339 3383 
+'clothing'+ 'jewelry'+ 'boys'+ 'shoes'+ 'boots'	928 4161 13417 18492 2839 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'	928 18492 4161 669 20771 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'athletic'	928 4161 11706 18492 10779 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'athletic'+ 'volleyball'	928 4161 11706 18492 10779 2365 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'pocket'+ 'watches'	928 18492 4161 11706 5543 5766 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'tops'+ 'tees'	18492 4161 13417 928 19865 4705 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'sleepwear'+ 'robes'+ 'pajama'+ 'sets'	18492 4161 13417 928 17940 21106 14958 12658 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'sport'+ 'coats'+ 'suits'	18492 4161 13417 928 14933 20295 905 
+'clothing'+ 'jewelry'+ 'motorcycle'+ 'atv'+ 'casual'+ 'footwear'+ 'shoes'	928 4161 10146 8823 1406 19942 18492 
+'clothing'+ 'shoes'+ 'men'+ 'jewelry'+ 'earrings'	928 18492 4992 4161 11532 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'wear'+ 'uniforms'+ 'clothing'+ 'work'+ 'utility'+ 'safety'+ 'men'+ 'pants'	18492 4161 6277 2441 12339 3383 928 11605 8858 12768 4992 1407 
+'sports'+ 'outdoors'+ 'accessories'+ 'headbands'	3862 12705 3642 13772 
+'baby'+ 'products'+ 'strollers'+ 'accessories'+ 'travel'+ 'carry'+ 'bags'	21 3558 211 3642 5550 17934 7514 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'swim'+ 'one'+ 'pieces'	928 18492 4161 11706 8562 1433 2026 10947 
+'clothing'+ 'jewelry'+ 'women'+ 'athletic'+ 'water'+ 'shoes'	928 4161 11706 10779 16888 18492 
+'clothing'+ 'shoes'+ 'novelty'+ 'costumes'+ 'accessories'+ 'boxes'+ 'organizers'+ 'jewelry'+ 'rolls'	928 18492 6277 2441 3642 13977 4161 7444 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'hosiery'+ 'dress'+ 'trouser'+ 'socks'	928 18492 4161 11706 8562 2444 8825 16521 1229 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'shorts'	3862 12705 928 11706 6609 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'vests'	3862 12705 928 11706 2064 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'athletic'+ 'skateboarding'	928 4161 11706 18492 10779 19764 
+'clothing'+ 'shoes'+ 'jewelry'+ 'j'+ 'jimarti'	928 18492 4161 1091 21334 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'men'+ 'fashion'+ 'combat'	928 18492 4161 669 20771 4992 19166 17845 
+'clothing'+ 'shoes'+ 'jewelry'+ 'n'+ 'nevados'	928 18492 4161 10297 12140 
+'clothing'+ 'shoes'+ 'jewelry'+ 'h'+ 'havaianas'	928 18492 4161 16850 10801 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'dresses'+ 'special'+ 'occasion'	928 18492 4161 11706 19916 8825 13078 4510 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'wallets'+ 'card'+ 'cases'+ 'money'+ 'organizers'+ 'coin'+ 'purses'+ 'pouches'	928 18492 4161 11706 3642 2460 17031 5363 8412 12041 10388 4871 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'accessories'+ 'adhesive'+ 'bras'	928 18492 4161 11706 8562 7147 3642 12531 20648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'intimates'+ 'accessories'	928 18492 4161 11706 4538 7965 7147 3642 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'accessories'+ 'straps'	18492 4161 11706 928 17648 4482 6340 7147 3642 10156 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'accessories'	18492 4161 2441 6277 928 11706 3642 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'skirts'+ 'casual'	928 18492 4161 11706 19916 8017 1406 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'accessories'+ 'belt'+ 'buckles'	18492 4161 2441 6277 928 11706 3642 3806 7725 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'active'+ 'shorts'	928 18492 4161 11706 8562 1598 6609 
+'clothing'+ 'shoes'+ 'jewelry'+ 'k'+ 'kamik'	928 18492 4161 19108 16827 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'gloves'+ 'mittens'	928 18492 4161 4992 3642 18763 9481 
+'sports'+ 'outdoors'+ 'exercise'+ 'fitness'+ 'yoga'+ 'clothing'	3862 12705 6767 16771 20352 928 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'underwear'+ 'bras'	18492 4161 2441 6277 928 11706 13154 20648 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'accessories'+ 'hats'+ 'baseball'+ 'caps'	18492 4161 2441 6277 928 4992 3642 6280 9605 20393 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'active'+ 'track'+ 'pants'	928 18492 4161 11706 8562 1598 7199 1407 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'thermal'+ 'underwear'+ 'bottoms'	18492 4161 11706 928 17648 4482 6340 16795 13154 1868 
+'clothing'+ 'jewelry'+ 'boys'+ 'shoes'+ 'athletic'+ 'running'	928 4161 13417 18492 10779 19153 
+'sports'+ 'outdoors'+ 'accessories'	3862 12705 3642 
+'clothing'+ 'shoes'+ 'jewelry'+ 'skagen'+ 'watches'	928 18492 4161 15351 5766 
+'clothing'+ 'jewelry'+ 'girls'+ 'shoes'+ 'loafers'	928 4161 7242 18492 
+'clothing'+ 'shoes'+ 'jewelry'+ 'w'+ 'walking'+ 'cradles'	928 18492 4161 8769 11338 19707 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'tights'+ 'leggings'	3862 12705 928 4992 20865 14292 
+'clothing'+ 'jewelry'+ 'girls'+ 'school'+ 'uniforms'+ 'shoes'	928 4161 7242 1469 3383 18492 
+'clothing'+ 'jewelry'+ 'boys'+ 'shoes'+ 'clogs'+ 'mules'	928 4161 13417 18492 11887 18980 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'athletic'+ 'trail'+ 'running'	928 4161 11706 18492 10779 6426 19153 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'shorts'	18492 4161 7242 928 6609 
+'clothing'+ 'shoes'+ 'jewelry'+ 'u'+ 'unionbay'	928 18492 4161 20304 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'track'+ 'jackets'	3862 12705 928 11706 7199 6399 
+'clothing'+ 'shoes'+ 'jewelry'+ 'vegetarian'	928 18492 4161 19395 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'dresses'+ 'casual'	928 18492 4161 11706 4538 7965 8825 1406 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'tops'+ 'tees'	18492 4161 21 7242 928 19865 4705 
+'clothing'+ 'shoes'+ 'jewelry'+ 'h'+ 'hobo'	928 18492 4161 16850 12472 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'accessories'+ 'belts'	18492 4161 2441 6277 928 4992 3642 3806 
+'clothing'+ 'shoes'+ 'girls'+ 'jewelry'	928 18492 7242 4161 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'maternity'+ 'tops'+ 'tees'+ 'tanks'+ 'camis'	928 18492 4161 11706 9797 19865 4705 11785 2751 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'women'+ 'fashion'+ 'dress'	928 18492 4161 669 20771 11706 19166 8825 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'	18492 4161 11706 928 17648 4482 6340 7147 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'care'+ 'accessories'+ 'shoe'+ 'measuring'+ 'devices'	928 18492 4161 6277 2441 16717 3642 18492 9079 5897 
+'beauty'+ 'body'+ 'bath'	7459 7335 17448 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'intimates'+ 'shapewear'+ 'waist'+ 'cinchers'	928 18492 4161 11706 4538 7965 7147 2912 18629 
+'clothing'+ 'shoes'+ 'jewelry'+ 'sbicca'	928 18492 4161 20359 
+'clothing'+ 'shoes'+ 'jewelry'+ 'gear'+ 'luggage'+ 'travel'+ 'totes'	928 18492 4161 5450 7101 5550 10090 
+'sports'+ 'outdoors'+ 'outdoor'+ 'gear'+ 'camping'+ 'hiking'+ 'backpacks'+ 'bags'	3862 12705 13687 5450 13275 20067 4149 7514 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'accessories'+ 'mittens'+ 'gloves'	18492 4161 2441 6277 928 11706 3642 9481 18763 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'bracelets'	928 18492 11706 4161 19166 13666 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'jackets'+ 'coats'+ 'fleece'	18492 4161 21 7242 928 6399 20295 18267 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'leggings'	18492 4161 7242 928 14292 
+'clothing'+ 'shoes'+ 'jewelry'+ 'marc'+ 'jacobs'	928 18492 4161 7292 6274 
+'clothing'+ 'shoes'+ 'jewelry'+ 'gifts'	928 18492 4161 11741 
+'clothing'+ 'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'accessories'	928 18492 4161 21 7242 3642 
+'clothing'+ 'shoes'+ 'jewelry'+ 'f'+ 'fossil'	928 18492 4161 282 15811 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'handbags'+ 'wallets'+ 'clutches'	928 18492 4161 11706 292 2460 16485 
+'clothing'+ 'shoes'+ 'jewelry'+ 'acorn'	928 18492 4161 19121 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'medical'+ 'women'+ 'scrub'+ 'sets'	18492 4161 6277 2441 11605 12339 3383 928 8257 11706 21061 12658 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'swim'+ 'board'+ 'shorts'	18492 4161 4992 928 1433 12350 6609 
+'clothing'+ 'shoes'+ 'plain'+ 'gold'+ 'jewelry'	928 18492 18440 3062 4161 
+'clothing'+ 'shoes'+ 'gifts'+ 'women'+ 'silver'+ 'jewelry'	928 18492 11741 11706 8223 4161 
+'clothing'+ 'shoes'+ 'jewelry'+ 'trotters'	928 18492 4161 7952 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'camisoles'+ 'tanks'	928 18492 4161 11706 8562 7147 9483 11785 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'clothing'+ 'school'+ 'uniforms'	18492 4161 6277 2441 11605 12339 928 1469 3383 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'socks'+ 'hosiery'+ 'tights'	18492 4161 11706 928 1229 2444 20865 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'tops'+ 'tees'+ 'tanks'+ 'camis'	928 18492 4161 11706 8562 19865 4705 11785 2751 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'active'+ 'shirts'+ 'tees'	928 18492 4161 11706 8562 1598 2648 4705 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'fashion'+ 'hoodies'+ 'sweatshirts'	18492 4161 11706 928 19166 12136 11502 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'sweaters'	3862 12705 928 11706 21202 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'thermal'+ 'underwear'+ 'tops'	18492 4161 11706 928 17648 4482 6340 16795 13154 19865 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'accessories'+ 'wallets'	18492 4161 2441 6277 928 11706 3642 2460 
+'baby'+ 'products'+ 'pregnancy'+ 'maternity'	21 3558 73 9797 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'jackets'+ 'coats'+ 'active'+ 'performance'+ 'shells'	18492 4161 4992 15424 2781 4508 928 6399 20295 1598 11092 4637 
+'clothing'+ 'shoes'+ 'jewelry'+ 'v'+ 'vitalio'+ 'vera'	928 18492 4161 16667 16131 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'pants'	18492 4161 11706 928 1407 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'intimates'+ 'shapewear'+ 'tops'	928 18492 4161 11706 4538 7965 7147 2912 19865 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'shapewear'+ 'tops'	18492 4161 11706 928 17648 4482 6340 7147 2912 19865 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'lounge'+ 'sleep'+ 'sets'	18492 4161 4992 928 6340 4482 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'travel'+ 'gear'+ 'luggage'+ 'suitcases'	928 18492 4161 5550 5450 7101 19909 
+'outdoors'+ 'snow'+ 'sports'+ 'skiing'	12705 5164 3862 1664 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'band'+ 'music'+ 'fan'+ 'sweatshirts'	928 18492 4161 6277 2441 21119 11386 20986 11502 
+'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'clothing'+ 'skirt'+ 'sets'	18492 4161 11706 8562 928 8017 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'hats'+ 'newsboy'+ 'caps'	928 18492 4161 4992 3642 6280 19984 20393 
+'clothing'+ 'shoes'+ 'costumes'+ 'novelty'+ 'jewelry'+ 'wedding'+ 'engagement'+ 'promise'+ 'rings'	928 18492 2441 6277 4161 2303 4327 21045 19923 
+'clothing'+ 'shoes'+ 'costumes'+ 'novelty'+ 'jewelry'+ 'engagement'+ 'wedding'+ 'eternity'+ 'rings'	928 18492 2441 6277 4161 4327 2303 8347 19923 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'sleep'+ 'lounge'+ 'intimates'+ 'lingerie'+ 'garter'+ 'belts'	18492 4161 11706 928 4482 6340 7147 17648 18486 3806 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'shorts'+ 'denim'	18492 4161 11706 928 6609 14437 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'women'+ 'dresses'	928 18492 4161 6277 2441 5976 3444 11706 8825 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'full'+ 'slips'	18492 4161 11706 928 17648 4482 6340 7147 20794 14014 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'hats'+ 'caps'+ 'berets'	928 18492 4161 11706 3642 6280 20393 13451 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'wigs'+ 'women'	928 18492 4161 6277 2441 3642 13623 11706 
+'clothing'+ 'shoes'+ 'jewelry'+ 'l'+ 'london'+ 'fog'	928 18492 4161 5973 3759 21151 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'accessories'	18492 4161 2441 6277 928 4992 3642 
+'sports'+ 'outdoors'+ 'fan'+ 'shop'+ 'bags'+ 'packs'+ 'accessories'+ 'wallets'	3862 12705 20986 20771 7514 9573 3642 2460 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'rings'+ 'bands'	928 18492 11706 4161 15419 19923 21119 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'sweaters'+ 'cardigans'	18492 4161 4992 928 21202 18671 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'outdoor'+ 'snow'+ 'boots'	928 4161 11706 18492 13687 5164 2839 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'shorts'+ 'casual'	18492 4161 11706 928 6609 1406 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'casual'+ 'button'+ 'shirts'	18492 4161 4992 15424 2781 4508 928 1406 9603 2648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'dreams'	928 18492 4161 6119 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'+ 'hoodies'+ 'active'	18492 4161 21 13417 928 12136 1598 
+'clothing'+ 'shoes'+ 'jewelry'+ 'e'+ 'easy'+ 'spirit'	928 18492 4161 8386 3786 15070 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'baby'+ 'boys'+ 'bodysuits'	18492 4161 2441 6277 928 21 13417 3595 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'sleep'+ 'lounge'+ 'nightgowns'+ 'sleepshirts'	928 18492 4161 11706 4538 7965 4482 6340 19194 19139 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'wear'+ 'uniforms'+ 'clothing'+ 'work'+ 'utility'+ 'safety'+ 'men'+ 'outerwear'	18492 4161 6277 2441 12339 3383 928 11605 8858 12768 4992 9081 
+'clothing'+ 'shoes'+ 'jewelry'+ 'n'+ 'nicole'	928 18492 4161 10297 21140 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'skirts'	928 18492 4161 11706 4538 7965 8017 
+'clothing'+ 'shoes'+ 'costumes'+ 'novelty'+ 'jewelry'+ 'rings'+ 'statement'	928 18492 2441 6277 4161 19923 14910 
+'clothing'+ 'shoes'+ 'jewelry'+ 'summer'+ 'promo'	928 18492 4161 12241 20508 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'socks'+ 'hosiery'	928 18492 4161 11706 8562 1229 2444 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'women'+ 'petticoats'	928 18492 4161 6277 2441 5976 3444 11706 20620 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'religious'+ 'necklaces'+ 'pendants'	928 18492 11706 4161 3785 13073 10301 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'underwear'+ 'panties'	18492 4161 2441 6277 928 11706 13154 12107 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'earrings'+ 'drop'+ 'dangle'	928 18492 11706 4161 19166 11532 18274 4814 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'scarves'	928 18492 4161 4992 3642 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'sweaters'+ 'cardigans'	928 18492 4161 11706 4538 7965 21202 18671 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'active'+ 'athletic'+ 'socks'	18492 4161 7242 928 1598 10779 1229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'world'+ 'apparel'	928 18492 4161 6277 2441 17485 3444 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'sweatsuits'+ 'tracksuits'	3862 12705 928 11706 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'wear'+ 'uniforms'+ 'clothing'+ 'work'+ 'utility'+ 'safety'+ 'men'+ 'tops'	18492 4161 6277 2441 12339 3383 928 11605 8858 12768 4992 19865 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'hats'+ 'caps'	928 18492 4161 4992 3642 6280 20393 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'	928 18492 4161 11706 8562 7147 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'accessories'+ 'wallets'	18492 4161 2441 6277 928 4992 3642 2460 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'half'+ 'slips'	928 18492 4161 11706 8562 7147 3594 14014 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'full'+ 'slips'	928 18492 4161 11706 8562 7147 20794 14014 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'athletic'+ 'bowling'	928 4161 4992 18492 10779 5922 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'accessories'+ 'pads'+ 'enhancers'	18492 4161 11706 928 17648 4482 6340 7147 3642 15540 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'skirts'+ 'wear'+ 'work'	928 18492 4161 11706 8562 8017 12339 11605 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'skirts'+ 'night'+ 'special'+ 'occasion'	928 18492 4161 11706 8562 8017 17818 13078 4510 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'intimates'+ 'panties'+ 'bikinis'	928 18492 4161 11706 4538 7965 7147 12107 17791 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'intimates'+ 'slips'	928 18492 4161 11706 4538 7965 7147 14014 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'bracelets'+ 'cuff'	928 18492 11706 4161 15419 13666 2345 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'sleep'+ 'lounge'+ 'intimates'+ 'lingerie'+ 'garters'	18492 4161 11706 928 4482 6340 7147 17648 18486 
+'clothing'+ 'shoes'+ 'jewelry'+ 'girls'+ 'wrist'+ 'watches'	928 18492 4161 7242 19802 5766 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'bloomers'+ 'diaper'+ 'covers'+ 'underwear'+ 'training'+ 'pants'	18492 4161 21 7242 928 14166 18628 6041 13154 19415 1407 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'swimsuits'+ 'cover'+ 'ups'+ 'one'+ 'pieces'	18492 4161 11706 928 14605 6041 8031 2026 10947 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'tops'+ 'tees'+ 'blouses'+ 'button'+ 'shirts'	928 18492 4161 11706 19916 19865 4705 12293 9603 2648 
+'sports'+ 'outdoors'+ 'exercise'+ 'fitness'+ 'running'+ 'clothing'+ 'men'+ 'shorts'	3862 12705 6767 16771 19153 928 4992 6609 
+'clothing'+ 'shoes'+ 'jewelry'+ 'f'+ 'foamtreads'	928 18492 4161 282 19206 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'accessories'+ 'breast'+ 'petals'	18492 4161 11706 928 17648 4482 6340 7147 3642 9033 7160 
+'clothing'+ 'shoes'+ 'men'+ 'jewelry'+ 'bracelets'+ 'link'	928 18492 4992 4161 13666 16124 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'jackets'+ 'coats'+ 'faux'+ 'leather'	18492 4161 4992 928 6399 20295 3640 6236 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'shapewear'	928 18492 4161 11706 8562 7147 2912 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'polo'+ 'shirts'	3862 12705 928 11706 4481 2648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'sweaters'+ 'pullovers'	928 18492 4161 11706 4538 7965 21202 19197 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'	928 18492 4161 11706 19916 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'accessories'+ 'adhesive'+ 'bras'	18492 4161 11706 928 17648 4482 6340 7147 3642 12531 20648 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'shirts'+ 'tank'+ 'tops'	3862 12705 928 4992 2648 11785 19865 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'panties'+ 'hipsters'	928 18492 4161 11706 8562 7147 12107 10788 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'medical'+ 'women'+ 'scrub'+ 'jackets'	18492 4161 6277 2441 11605 12339 3383 928 8257 11706 21061 6399 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'socks'+ 'hosiery'	928 18492 4161 11706 4538 7965 1229 2444 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'baby'+ 'boys'+ 'bottoms'	18492 4161 2441 6277 928 21 13417 1868 
+'clothing'+ 'shoes'+ 'jewelry'+ 'c'+ 'caterpillar'	928 18492 4161 750 9796 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'handbags'+ 'wallets'	928 18492 4161 11706 292 2460 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'accessories'+ 'straps'	928 18492 4161 11706 8562 7147 3642 10156 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'lingerie'	928 18492 4161 11706 8562 7147 17648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'women'+ 'panties'	928 18492 4161 6277 2441 5976 3444 11706 12107 
+'clothing'+ 'shoes'+ 'jewelry'+ 'girls'+ 'accessories'+ 'belts'	928 18492 4161 7242 3642 3806 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'sleep'+ 'lounge'+ 'intimates'+ 'lingerie'+ 'sets'	18492 4161 11706 928 4482 6340 7147 17648 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'bras'+ 'minimizers'	928 18492 4161 11706 8562 7147 20648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boys'+ 'wrist'+ 'watches'	928 18492 4161 13417 19802 5766 
+'clothing'+ 'shoes'+ 'jewelry'+ 'luggage'+ 'travel'+ 'gear'+ 'bags'+ 'gym'+ 'totes'	928 18492 4161 7101 5550 5450 7514 17905 10090 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'religious'+ 'rings'	928 18492 11706 4161 3785 19923 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'sleep'+ 'lounge'+ 'sets'	18492 4161 2441 6277 928 11706 4482 6340 12658 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'shapewear'+ 'control'+ 'slips'	18492 4161 11706 928 17648 4482 6340 7147 2912 18468 14014 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'sweaters'+ 'vests'	18492 4161 4992 928 21202 2064 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'outerwear'+ 'coats'+ 'fleece'	928 18492 4161 4992 19396 20935 9081 20295 18267 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'sleep'+ 'lounge'+ 'intimates'+ 'lingerie'+ 'chemises'+ 'negligees'	18492 4161 11706 928 4482 6340 7147 17648 5725 5251 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'tights'+ 'casual'+ 'dress'+ 'socks'	18492 4161 7242 928 20865 1406 8825 1229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'lingerie'+ 'sets'	928 18492 4161 11706 8562 7147 17648 12658 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'athletic'+ 'equestrian'+ 'sport'+ 'boots'	928 4161 11706 18492 10779 14380 14933 2839 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'sleep'+ 'lounge'+ 'sets'	928 18492 4161 11706 4538 7965 4482 6340 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'r'+ 'ros'+ 'hommerson'	928 18492 4161 14952 12291 21309 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'intimates'+ 'shapewear'+ 'control'+ 'slips'	928 18492 4161 11706 4538 7965 7147 2912 18468 14014 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'swimsuits'+ 'cover'+ 'ups'	18492 4161 11706 928 14605 6041 8031 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'wear'+ 'uniforms'+ 'clothing'+ 'work'+ 'utility'+ 'safety'+ 'men'+ 'shorts'	18492 4161 6277 2441 12339 3383 928 11605 8858 12768 4992 6609 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'active'+ 'pants'+ 'sweatpants'	928 18492 4161 4992 19396 20935 1598 1407 7495 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'panties'+ 'boy'+ 'shorts'	928 18492 4161 11706 8562 7147 12107 18314 6609 
+'outdoors'+ 'boating'+ 'water'+ 'sports'+ 'swimming'	12705 18649 16888 3862 12783 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'buster'+ 'brown'	928 18492 4161 14097 195 8163 
+'clothing'+ 'shoes'+ 'jewelry'+ 'e'+ 'emu'+ 'australia'	928 18492 4161 8386 6385 483 
+'clothing'+ 'shoes'+ 'jewelry'+ 'baby'	928 18492 4161 21 
+'clothing'+ 'shoes'+ 'antique'+ 'estate'+ 'jewelry'+ 'contemporary'+ 'necklaces'+ 'pendants'	928 18492 512 15327 4161 9200 13073 10301 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'accessories'+ 'sunglasses'	3862 12705 928 11706 3642 12096 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'hats'+ 'caps'+ 'men'	928 18492 4161 6277 2441 3642 6280 20393 4992 
+'clothing'+ 'shoes'+ 'jewelry'+ 'fifty'+ 'watches'+ '50'	928 18492 4161 17015 5766 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'hats'+ 'baseball'+ 'caps'	928 18492 4161 11706 3642 6280 9605 20393 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'coats'+ 'jackets'+ 'vests'	18492 4161 11706 928 20295 6399 2064 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'tops'+ 'tees'+ 'tanks'+ 'camis'	928 18492 4161 11706 4538 7965 19865 4705 11785 2751 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'rings'	928 18492 11706 4161 15419 19923 
+'clothing'+ 'shoes'+ 'jewelry'+ 'v'+ 'vera'+ 'bradley'	928 18492 4161 16667 16131 1008 
+'clothing'+ 'shoes'+ 'gifts'+ 'women'+ 'gold'+ 'jewelry'	928 18492 11741 11706 3062 4161 
+'clothing'+ 'shoes'+ 'jewelry'+ 'k'+ 'kavu'	928 18492 4161 19108 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'necklaces'+ 'strands'	928 18492 11706 4161 15419 13073 3868 
+'clothing'+ 'shoes'+ 'jewelry'+ 'seychelles'	928 18492 4161 7086 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'sport'+ 'coats'+ 'suits'	18492 4161 4992 928 14933 20295 905 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'birkenstock'	928 18492 4161 14097 13630 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'camisoles'+ 'tanks'	18492 4161 11706 928 17648 4482 6340 7147 9483 11785 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'accessories'	18492 4161 11706 928 17648 4482 6340 7147 3642 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'pants'+ 'capris'+ 'casual'	928 18492 4161 11706 8562 1407 8548 1406 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'tops'+ 'tees'+ 'henleys'	928 18492 4161 11706 8562 19865 4705 13592 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'athletic'+ 'ballet'+ 'dance'	928 4161 4992 18492 10779 108 1904 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'+ 'pant'+ 'sets'	18492 4161 21 13417 928 12043 12658 
+'electronics'+ 'computers'+ 'laptop'+ 'netbook'+ 'computer'+ 'accessories'+ 'bags'+ 'cases'+ 'sleeves'+ 'slipcases'	1892 7028 4903 15665 7028 3642 7514 5363 6658 
+'clothing'+ 'shoes'+ 'three'+ 'seven'+ 'five'+ 'stone'+ 'jewelry'	928 18492 2894 12319 9640 12542 4161 
+'clothing'+ 'shoes'+ 'jewelry'+ 'mbt'	928 18492 4161 11879 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'hats'+ 'newsboy'+ 'caps'	928 18492 4161 11706 3642 6280 19984 20393 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'pants'+ 'wear'+ 'work'	928 18492 4161 11706 19916 1407 12339 11605 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'panties'	18492 4161 11706 928 17648 4482 6340 7147 12107 
+'clothing'+ 'shoes'+ 'jewelry'+ 'c'+ 'coloriffics'	928 18492 4161 750 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'blazers'+ 'jackets'+ 'casual'	928 18492 4161 11706 4538 7965 5354 6399 1406 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'tops'+ 'tees'	928 18492 4161 11706 8562 19865 4705 
+'sports'+ 'outdoors'+ 'exercise'+ 'fitness'+ 'running'+ 'clothing'+ 'men'+ 'pants'	3862 12705 6767 16771 19153 928 4992 1407 
+'clothing'+ 'shoes'+ 'jewelry'+ 'superga'	928 18492 4161 14144 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'thermal'+ 'underwear'+ 'sets'	18492 4161 11706 928 17648 4482 6340 16795 13154 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'shapewear'+ 'thigh'+ 'slimmers'	928 18492 4161 11706 8562 7147 2912 8897 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'pants'+ 'capris'+ 'casual'	928 18492 4161 11706 4538 7965 1407 8548 1406 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'women'+ 'chemises'+ 'negligees'+ 'babydolls'	928 18492 4161 6277 2441 5976 3444 11706 5725 5251 15802 
+'health'+ 'personal'+ 'foot'+ 'care'	7415 1330 943 16717 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'active'+ 'shirts'+ 'tees'	928 18492 4161 4992 19396 20935 1598 2648 4705 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'button'+ 'shirts'	3862 12705 928 11706 9603 2648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'sorbothane'	928 18492 4161 
+'clothing'+ 'shoes'+ 'jewelry'+ 'full'+ 'price'	928 18492 4161 20794 720 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'accessories'+ 'bra'+ 'extenders'	928 18492 4161 11706 8562 7147 3642 20648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'pants'+ 'casual'	928 18492 4161 4992 19396 20935 1407 1406 
+'clothing'+ 'shoes'+ 'jewelry'+ 'v'+ 'vibram'	928 18492 4161 16667 13443 
+'clothing'+ 'shoes'+ 'contemporary'+ 'designer'+ 'jewelry'	928 18492 9200 6762 4161 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'underwear'	18492 4161 4992 928 13154 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'+ 'sleepwear'+ 'robes'+ 'pajama'+ 'sets'	18492 4161 21 13417 928 17940 21106 14958 12658 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'accessories'+ 'hats'+ 'skull'+ 'caps'	3862 12705 928 4992 3642 6280 19442 20393 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'	18492 4161 11706 928 17648 4482 6340 
+'personal'+ 'health'+ 'foot'+ 'care'+ 'inserts'+ 'insoles'+ 'heel'+ 'cushions'+ 'cups'	1330 7415 943 16717 2753 340 17444 7866 13229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'cummerbunds'+ 'bow'+ 'ties'	928 18492 4161 4992 3642 5789 16780 7270 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'+ 'footies'+ 'rompers'	18492 4161 21 13417 928 1807 7338 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'athletic'+ 'wrestling'	928 4161 4992 18492 10779 583 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'accessories'+ 'sunglasses'	3862 12705 928 4992 3642 12096 
+'clothing'+ 'shoes'+ 'jewelry'+ 'r'+ 'roxy'	928 18492 4161 14952 6603 
+'clothing'+ 'shoes'+ 'jewelry'+ 'travel'+ 'gear'+ 'kids'+ 'luggage'	928 18492 4161 5550 5450 14204 7101 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'wedding'+ 'bridesmaid'+ 'dresses'	18492 4161 11706 928 2303 9780 8825 
+'clothing'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'shoes'+ 'athletic'+ 'skateboarding'	928 4161 4992 15424 2781 4508 18492 10779 19764 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'intimates'+ 'shapewear'+ 'thigh'+ 'slimmers'	928 18492 4161 11706 4538 7965 7147 2912 8897 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'	18492 4161 2441 6277 928 11706 
+'clothing'+ 'shoes'+ 'novelty'+ 'costumes'+ 'body'+ 'jewelry'+ 'toe'+ 'rings'	928 18492 6277 2441 7335 4161 20853 19923 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'maternity'+ 'tops'+ 'tees'+ 'tunics'	928 18492 4161 11706 9797 19865 4705 4346 
+'clothing'+ 'jewelry'+ 'boys'+ 'shoes'+ 'outdoor'+ 'snow'+ 'boots'	928 4161 13417 18492 13687 5164 2839 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'suits'+ 'sport'+ 'coats'+ 'vests'	18492 4161 4992 928 905 14933 20295 2064 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'+ 'bottoms'+ 'shorts'	18492 4161 21 13417 928 1868 6609 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'rompers'+ 'footies'	18492 4161 21 7242 928 7338 1807 
+'clothing'+ 'shoes'+ 'jewelry'+ 'miz'+ 'mooz'	928 18492 4161 13836 3070 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'underwear'+ 'slips'	18492 4161 7242 928 13154 14014 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'shirts'+ 'tank'+ 'tops'	3862 12705 928 11706 2648 11785 19865 
+'clothing'+ 'shoes'+ 'jewelry'+ 'luggage'+ 'travel'+ 'gear'+ 'backpacks'	928 18492 4161 7101 5550 5450 4149 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'boys'+ 'outdoor'+ 'work'+ 'rain'	928 18492 4161 669 20771 13417 13687 11605 19126 
+'sports'+ 'outdoors'+ 'exercise'+ 'fitness'+ 'running'+ 'clothing'	3862 12705 6767 16771 19153 928 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'nightgowns'+ 'sleepshirts'	928 18492 4161 11706 19916 17648 4482 6340 19194 19139 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'sweaters'	928 18492 4161 11706 8562 21202 
+'beauty'+ 'hair'+ 'care'+ 'tools'+ 'styling'+ 'accessories'+ 'headbands'	7459 13625 16717 13830 1221 3642 13772 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'hats'+ 'caps'	928 18492 4161 11706 3642 6280 20393 
+'sports'+ 'outdoors'+ 'exercise'+ 'fitness'+ 'yoga'+ 'clothing'+ 'women'+ 'shorts'	3862 12705 6767 16771 20352 928 11706 6609 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'intimates'+ 'panties'+ 'hipsters'	928 18492 4161 11706 4538 7965 7147 12107 10788 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'women'+ 'bras'	928 18492 4161 6277 2441 5976 3444 11706 20648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'betsey'+ 'johnson'	928 18492 4161 14097 18130 11372 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'pants'+ 'capris'+ 'wear'+ 'work'	928 18492 4161 11706 8562 1407 8548 12339 11605 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'sleep'+ 'lounge'+ 'intimates'+ 'lingerie'+ 'baby'+ 'dolls'	18492 4161 11706 928 4482 6340 7147 17648 21 3275 
+'clothing'+ 'shoes'+ 'jewelry'+ 'southpole'	928 18492 4161 14139 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'earrings'+ 'hoop'	928 18492 11706 4161 15419 11532 10197 
+'clothing'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'shoes'+ 'women'+ 'health'+ 'care'+ 'food'+ 'service'	928 4161 6277 2441 11605 12339 3383 18492 11706 7415 16717 1526 14385 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'dresses'+ 'night'+ 'cocktail'	928 18492 4161 11706 4538 7965 8825 17818 7322 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'shapewear'+ 'bodysuits'	928 18492 4161 11706 8562 7147 2912 3595 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'sweaters'+ 'cardigans'	928 18492 4161 11706 19916 21202 18671 
+'clothing'+ 'jewelry'+ 'boys'+ 'shoes'+ 'athletic'+ 'sport'+ 'sandals'	928 4161 13417 18492 10779 14933 18952 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'handbag'+ 'hangers'	928 18492 4161 11706 3642 292 182 
+'clothing'+ 'jewelry'+ 'girls'+ 'outdoor'+ 'trekking'+ 'hiking'+ 'shoes'	928 4161 7242 13687 2982 20067 18492 
+'clothing'+ 'shoes'+ 'jewelry'+ '0'+ '9'+ '7'+ 'mankind'	928 18492 4161 16285 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'caps'+ 'cowboy'+ 'hats'	928 18492 4161 4992 3642 20393 19034 6280 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'accessories'+ 'neckties'	18492 4161 2441 6277 928 4992 3642 404 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'underwear'+ 'bikinis'	18492 4161 4992 928 13154 17791 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'men'	928 18492 4161 6277 2441 5976 3444 4992 
+'arts'+ 'crafts'+ 'sewing'+ 'fasteners'+ 'buttons'+ 'snaps'	10222 3663 16427 10317 16411 8214 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'sweaters'	18492 4161 2441 6277 928 11706 21202 
+'clothing'+ 'shoes'+ 'jewelry'+ 'r'+ 'ray'+ 'ban'	928 18492 4161 14952 18516 8873 
+'clothing'+ 'shoes'+ 'heart'+ 'shaped'+ 'jewelry'	928 18492 11300 13843 4161 
+'health'+ 'personal'+ 'care'+ 'household'+ 'supplies'+ 'laundry'+ 'liquid'+ 'detergent'	7415 1330 16717 5100 5377 11774 7305 20515 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'active'+ 'vests'	18492 4161 4992 15424 2781 4508 928 1598 2064 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'coats'+ 'lightweight'+ 'jackets'	928 18492 4161 11706 4538 7965 20295 9094 6399 
+'clothing'+ 'shoes'+ 'jewelry'+ 'l'+ 'b'+ 'evans'	928 18492 4161 5973 14097 16268 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'jackets'+ 'coats'+ 'fleece'	18492 4161 4992 928 6399 20295 18267 
+'beauty'+ 'accessories'+ 'nail'+ 'tools'+ 'spa'+ 'slippers'	7459 3642 20454 13830 10919 17975 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'men'+ 'outdoor'+ 'work'+ 'rain'	928 18492 4161 669 20771 4992 13687 11605 19126 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'women'+ 'fashion'+ 'chukka'	928 18492 4161 669 20771 11706 19166 20932 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'tops'+ 'tees'+ 'polos'	928 18492 4161 11706 19916 19865 4705 4481 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'dresses'+ 'wear'+ 'work'	18492 4161 11706 928 8825 12339 11605 
+'clothing'+ 'shoes'+ 'jewelry'+ 'tignanello'	928 18492 4161 20112 
+'clothing'+ 'shoes'+ 'jewelry'+ 'wedding'+ 'party'+ 'gifts'+ 'groomsmen'	928 18492 4161 2303 13442 11741 17321 
+'outdoors'+ 'boating'+ 'water'+ 'sports'+ 'swimming'+ 'swimwear'+ 'men'+ 'briefs'	12705 18649 16888 3862 12783 2025 4992 15993 
+'clothing'+ 'jewelry'+ 'girls'+ 'shoes'+ 'athletic'+ 'skateboarding'	928 4161 7242 18492 10779 19764 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'swim'+ 'two'+ 'pieces'+ 'rash'+ 'guard'+ 'sets'	18492 4161 7242 928 1433 11023 10947 15881 20346 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'old'+ 'friend'	928 18492 4161 5964 3344 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'shoe'+ 'care'+ 'accessories'+ 'ice'+ 'snow'+ 'grips'	928 18492 4161 6277 2441 18492 16717 3642 7552 5164 17415 
+'clothing'+ 'shoes'+ 'novelty'+ 'costumes'+ 'accessories'+ 'jewelry'+ 'boxes'+ 'organizers'	928 18492 6277 2441 3642 4161 13977 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'girls'+ 'outdoor'+ 'work'+ 'rain'	928 18492 4161 669 20771 7242 13687 11605 19126 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'active'+ 'underwear'	18492 4161 11706 928 1598 13154 
+'clothing'+ 'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'accessories'+ 'leg'+ 'warmers'	928 18492 4161 21 13417 3642 16977 
+'clothing'+ 'shoes'+ 'jewelry'+ 'e'+ 'enzo'+ 'angiolini'	928 18492 4161 8386 2842 4888 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'button'+ 'dress'+ 'shirts'	18492 4161 13417 928 9603 8825 2648 
+'outdoors'+ 'boating'+ 'water'+ 'sports'+ 'swimming'+ 'swimwear'+ 'women'+ 'two'+ 'piece'+ 'suits'	12705 18649 16888 3862 12783 2025 11706 11023 11718 905 
+'clothing'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'shoes'+ 'athletic'+ 'sport'+ 'sandals'	928 4161 4992 15424 2781 4508 18492 10779 14933 18952 
+'clothing'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'shoes'+ 'fashion'+ 'sneakers'	928 4161 4992 15424 2781 4508 18492 19166 4860 
+'clothing'+ 'jewelry'+ 'boys'+ 'shoes'+ 'outdoor'+ 'trekking'+ 'hiking'+ 'boots'	928 4161 13417 18492 13687 2982 20067 2839 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'lounge'+ 'sleep'+ 'sets'	928 18492 4161 4992 19396 20935 6340 4482 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'sweaters'+ 'shrugs'	928 18492 4161 11706 4538 7965 21202 17948 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'shapewear'	18492 4161 11706 928 17648 4482 6340 7147 2912 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'shorts'+ 'casual'	928 18492 4161 11706 8562 6609 1406 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'shorts'+ 'casual'	928 18492 4161 11706 4538 7965 6609 1406 
+'sports'+ 'outdoors'+ 'exercise'+ 'fitness'+ 'running'+ 'clothing'+ 'men'+ 'socks'	3862 12705 6767 16771 19153 928 4992 1229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'travel'+ 'gear'+ 'luggage'+ 'garment'+ 'bags'	928 18492 4161 5550 5450 7101 6347 7514 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'button'+ 'shirts'	3862 12705 928 4992 9603 2648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'onex'	928 18492 4161 9777 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'swim'+ 'board'+ 'shorts'	18492 4161 4992 15424 2781 4508 928 1433 12350 6609 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'active'+ 'athletic'+ 'supporters'	18492 4161 4992 928 1598 10779 6904 
+'clothing'+ 'shoes'+ 'jewelry'+ 'c'+ 'charles'+ 'david'	928 18492 4161 750 8532 16817 
+'clothing'+ 'shoes'+ 'jewelry'+ 'sak'	928 18492 4161 13476 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'jackets'+ 'coats'+ 'parkas'	928 18492 4161 11706 4538 7965 6399 20295 6324 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'	18492 4161 21 7242 928 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'+ 'bloomers'+ 'diaper'+ 'covers'+ 'underwear'+ 'training'+ 'pants'	18492 4161 21 13417 928 14166 18628 6041 13154 19415 1407 
+'clothing'+ 'shoes'+ 'jewelry'+ 'oakley'	928 18492 4161 18674 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'casual'+ 'socks'	928 18492 4161 4992 19396 20935 1406 1229 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'boys'+ 'jackets'+ 'coats'	18492 4161 2441 6277 928 13417 6399 20295 
+'clothing'+ 'jewelry'+ 'girls'+ 'shoes'+ 'sandals'	928 4161 7242 18492 18952 
+'clothing'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'shoes'+ 'outdoor'	928 4161 4992 15424 2781 4508 18492 13687 
+'clothing'+ 'jewelry'+ 'boys'+ 'shoes'+ 'sandals'	928 4161 13417 18492 18952 
+'sports'+ 'outdoors'+ 'clothing'+ 'boys'+ 'socks'	3862 12705 928 13417 1229 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'girls'+ 'hoodies'	18492 4161 2441 6277 928 7242 12136 
+'clothing'+ 'shoes'+ 'jewelry'+ 'c'+ 'chippewa'	928 18492 4161 750 4714 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'sweaters'+ 'pullovers'	928 18492 4161 4992 19396 20935 21202 19197 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'rings'	928 18492 11706 4161 19166 19923 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'active'+ 'hoodies'	18492 4161 11706 928 1598 12136 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'engagement'+ 'wedding'+ 'rings'	928 18492 11706 4161 4327 2303 19923 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'casual'+ 'button'+ 'shirts'	928 18492 4161 4992 19396 20935 1406 9603 2648 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'active'+ 'shirts'+ 'tees'	18492 4161 4992 15424 2781 4508 928 1598 2648 4705 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'men'+ 'outdoor'+ 'work'+ 'snow'+ 'cold'+ 'weather'	928 18492 4161 669 20771 4992 13687 11605 5164 9668 8381 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'sunglasses'+ 'eyewear'+ 'accessories'+ 'eyeglass'+ 'chains'	928 18492 4161 11706 12096 1457 3642 9470 10638 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'swim'+ 'rash'+ 'guards'	18492 4161 4992 928 1433 15881 20346 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'outdoor'+ 'snow'+ 'boots'	928 4161 4992 18492 13687 5164 2839 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'coats'+ 'jackets'+ 'alternative'	18492 4161 11706 928 20295 6399 16155 
+'clothing'+ 'shoes'+ 'jewelry'+ 'salomon'	928 18492 4161 5025 
+'clothing'+ 'shoes'+ 'jewelry'+ 'e'+ 'ecco'	928 18492 4161 8386 20456 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'women'+ 'outdoor'+ 'work'+ 'safety'	928 18492 4161 669 20771 11706 13687 11605 12768 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'outerwear'+ 'coats'+ 'vests'	928 18492 4161 4992 19396 20935 9081 20295 2064 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'military'+ 'men'	18492 4161 6277 2441 11605 12339 3383 928 15892 4992 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'underwear'+ 'boxers'	928 18492 4161 4992 19396 20935 13154 13054 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'hoodies'	3862 12705 928 4992 12136 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'women'+ 'fashion'+ 'motorcycle'	928 18492 4161 669 20771 11706 19166 10146 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'bogs'	928 18492 4161 14097 5641 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'tops'+ 'tees'+ 'tunics'	928 18492 4161 11706 8562 19865 4705 4346 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'shorts'+ 'pleated'	928 18492 4161 4992 19396 20935 6609 3465 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'sleep'+ 'lounge'+ 'thermal'+ 'underwear'+ 'tops'	928 18492 4161 11706 8562 4482 6340 16795 13154 19865 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'pants'	928 18492 4161 11706 19916 1407 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'tops'	18492 4161 21 7242 928 19865 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'pants'+ 'dress'	928 18492 4161 4992 19396 20935 1407 8825 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'wear'+ 'uniforms'+ 'clothing'+ 'work'+ 'utility'+ 'safety'+ 'men'	18492 4161 6277 2441 12339 3383 928 11605 8858 12768 4992 
+'clothing'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'shoes'+ 'athletic'	928 4161 4992 15424 2781 4508 18492 10779 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'active'+ 'underwear'	928 18492 4161 11706 8562 1598 13154 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'socks'+ 'hosiery'+ 'leg'+ 'warmers'	928 18492 4161 11706 8562 1229 2444 16977 
+'clothing'+ 'shoes'+ 'jewelry'+ 'w'+ 'woolrich'	928 18492 4161 8769 446 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'sleep'+ 'lounge'+ 'thermal'+ 'underwear'+ 'bottoms'	928 18492 4161 11706 8562 4482 6340 16795 13154 1868 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'sunglasses'+ 'accessories'+ 'prescription'+ 'eyewear'+ 'frames'	928 18492 4161 11706 12096 3642 30 1457 17222 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'	18492 4161 4992 15424 2781 4508 928 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'shorts'+ 'cargo'	928 18492 4161 4992 19396 20935 6609 20444 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'active'+ 'skirts'	18492 4161 11706 928 1598 8017 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'jumpsuits'+ 'rompers'	18492 4161 7242 928 9049 7338 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'pant'+ 'sets'	18492 4161 21 7242 928 12043 12658 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'baby'+ 'girls'+ 'bodysuits'	18492 4161 2441 6277 928 21 7242 3595 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'sleepwear'+ 'robes'	18492 4161 7242 928 17940 21106 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'bostonian'	928 18492 4161 14097 18648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'c'+ 'chaco'	928 18492 4161 750 3835 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'outdoor'+ 'trekking'+ 'hiking'+ 'boots'	928 4161 11706 18492 13687 2982 20067 2839 
+'outdoors'+ 'equestrian'+ 'sports'+ 'tack'	12705 14380 3862 11051 
+'sports'+ 'outdoors'+ 'clothing'+ 'boys'+ 'pants'	3862 12705 928 13417 1407 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'active'+ 'base'+ 'layers'	18492 4161 13417 928 1598 11521 10145 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'pants'+ 'sweatpants'	3862 12705 928 11706 1407 7495 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'tops'+ 'tees'+ 'polos'	928 18492 4161 11706 8562 19865 4705 4481 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'active'+ 'base'+ 'layers'+ 'tops'	928 18492 4161 11706 8562 1598 11521 10145 19865 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'cold'+ 'weather'+ 'scarves'+ 'wraps'	928 18492 4161 11706 3642 9668 8381 14357 
+'clothing'+ 'shoes'+ 'jewelry'+ 'n'+ 'nunn'+ 'bush'	928 18492 4161 10297 15313 15449 
+'clothing'+ 'shoes'+ 'jewelry'+ 'h'+ 'hunter'	928 18492 4161 16850 13766 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'sets'	928 18492 4161 11706 19916 17648 4482 6340 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'anuschka'	928 18492 4161 4928 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'hats'+ 'caps'+ 'cold'+ 'weather'+ 'headbands'	928 18492 4161 11706 3642 6280 20393 9668 8381 13772 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'shapewear'+ 'control'+ 'full'+ 'slips'	928 18492 4161 11706 8562 7147 2912 18468 20794 14014 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'shorts'+ 'pleated'	18492 4161 4992 928 6609 3465 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'outerwear'+ 'coats'+ 'work'+ 'wear'	928 18492 4161 4992 19396 20935 9081 20295 11605 12339 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'wear'+ 'uniforms'+ 'clothing'+ 'work'+ 'utility'+ 'safety'+ 'men'+ 'overalls'+ 'coveralls'	18492 4161 6277 2441 12339 3383 928 11605 8858 12768 4992 15151 12750 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'shirts'+ 'henleys'	928 18492 4161 4992 19396 20935 2648 13592 
+'clothing'+ 'shoes'+ 'jewelry'+ 'timberland'+ 'pro'	928 18492 4161 7582 9544 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'men'+ 'outdoor'+ 'work'+ 'hiking'+ 'trekking'	928 18492 4161 669 20771 4992 13687 11605 20067 2982 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'fleece'+ 'vests'	3862 12705 928 4992 18267 2064 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'track'+ 'pants'	3862 12705 928 4992 7199 1407 
+'clothing'+ 'jewelry'+ 'baby'+ 'girls'+ 'shoes'+ 'flats'+ 'mary'+ 'jane'	928 4161 21 7242 18492 19398 11917 15828 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'	18492 4161 21 13417 928 
+'clothing'+ 'shoes'+ 'jewelry'+ 'q'+ 'quiksilver'	928 18492 4161 150 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'jackets'+ 'coats'+ 'active'+ 'performance'+ 'shells'	18492 4161 4992 928 6399 20295 1598 11092 4637 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'wear'+ 'uniforms'+ 'clothing'+ 'work'+ 'utility'+ 'safety'	18492 4161 6277 2441 12339 3383 928 11605 8858 12768 
+'clothing'+ 'shoes'+ 'jewelry'+ 'j'+ 'justin'+ 'boots'	928 18492 4161 1091 9646 2839 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'jackets'+ 'coats'+ 'vests'	18492 4161 4992 928 6399 20295 2064 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'active'+ 'sweatshirts'	928 18492 4161 11706 8562 1598 11502 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'gloves'+ 'mittens'	928 18492 4161 11706 3642 18763 9481 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'boys'+ 'hoodies'	18492 4161 2441 6277 928 13417 12136 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'tops'+ 'tees'	18492 4161 7242 928 19865 4705 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'accessories'+ 'gloves'+ 'mittens'+ 'arm'+ 'warmers'	18492 4161 2441 6277 928 11706 3642 18763 9481 6015 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'shirts'	18492 4161 4992 15424 2781 4508 928 2648 
+'sports'+ 'outdoors'+ 'clothing'+ 'boys'+ 'pants'+ 'sweatpants'	3862 12705 928 13417 1407 7495 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'bloch'	928 18492 4161 14097 3094 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'shorts'	18492 4161 4992 928 6609 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'men'+ 'fashion'+ 'chukka'	928 18492 4161 669 20771 4992 19166 20932 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'shirts'	928 18492 4161 4992 19396 20935 2648 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'pants'	18492 4161 4992 928 1407 
+'clothing'+ 'shoes'+ 'jewelry'+ 'dunham'	928 18492 4161 8453 
+'clothing'+ 'shoes'+ 'jewelry'+ 'l'+ 'lifestride'	928 18492 4161 5973 15531 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'	18492 4161 13417 928 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'accessories'+ 'suspenders'	18492 4161 2441 6277 928 4992 3642 11083 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'blazers'+ 'jackets'+ 'night'+ 'special'+ 'occasion'	928 18492 4161 11706 4538 7965 5354 6399 17818 13078 4510 
+'clothing'+ 'shoes'+ 'jewelry'+ 'made'+ 'usa'	928 18492 4161 7003 9955 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'active'+ 'base'+ 'layers'	928 18492 4161 4992 19396 20935 1598 11521 10145 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'sleep'+ 'lounge'+ 'bottoms'	928 18492 4161 11706 8562 4482 6340 1868 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'shorts'+ 'flat'+ 'front'	18492 4161 4992 15424 2781 4508 928 6609 19398 5231 
+'clothing'+ 'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'accessories'+ 'bibs'+ 'burp'+ 'cloths'	928 18492 4161 21 13417 3642 10808 14329 605 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'accessories'+ 'scarves'	3862 12705 928 4992 3642 
+'beauty'+ 'tools'+ 'accessories'+ 'cases'+ 'toiletry'+ 'bags'	7459 13830 3642 5363 271 7514 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'lounge'+ 'sleep'+ 'bottoms'	928 18492 4161 4992 19396 20935 6340 4482 1868 
+'clothing'+ 'jewelry'+ 'girls'+ 'shoes'+ 'athletic'	928 4161 7242 18492 10779 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'boys'+ 'fashion'+ 'shearling'	928 18492 4161 669 20771 13417 19166 20796 
+'clothing'+ 'shoes'+ 'jewelry'+ 'k'+ 'kenneth'+ 'cole'+ 'new'+ 'york'	928 18492 4161 19108 6921 5913 10750 17137 
+'clothing'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'shoes'+ 'men'+ 'health'+ 'care'+ 'food'+ 'service'	928 4161 6277 2441 11605 12339 3383 18492 4992 7415 16717 1526 14385 
+'sports'+ 'outdoors'+ 'fan'+ 'shop'+ 'clothing'+ 'accessories'+ 'caps'+ 'hats'+ 'skullies'+ 'beanies'	3862 12705 20986 20771 928 3642 20393 6280 223 
+'clothing'+ 'jewelry'+ 'girls'+ 'shoes'	928 4161 7242 18492 
+'clothing'+ 'shoes'+ 'jewelry'+ 'k'+ 'keds'	928 18492 4161 19108 4120 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'swimsuits'+ 'cover'+ 'ups'+ 'tankinis'	18492 4161 11706 928 14605 6041 8031 20145 
+'clothing'+ 'shoes'+ 'jewelry'+ 'girls'+ 'accessories'+ 'sunglasses'	928 18492 4161 7242 3642 12096 
+'sports'+ 'outdoors'+ 'clothing'+ 'boys'+ 'sweaters'	3862 12705 928 13417 21202 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'accessories'+ 'hats'+ 'baseball'+ 'caps'	3862 12705 928 4992 3642 6280 9605 20393 
+'clothing'+ 'shoes'+ 'jewelry'+ 'n'+ 'northside'	928 18492 4161 10297 10862 
+'clothing'+ 'jewelry'+ 'girls'+ 'shoes'+ 'athletic'+ 'sport'+ 'sandals'	928 4161 7242 18492 10779 14933 18952 
+'purchase'+ 'circles'+ 'geography'+ 'united'+ 'states'+ 'tennessee'	16524 1857 15453 7542 5911 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'wallets'+ 'money'+ 'organizers'+ 'id'+ 'business'+ 'card'+ 'cases'	928 18492 4161 4992 3642 2460 8412 9548 15027 17031 5363 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'outdoor'+ 'trekking'+ 'hiking'+ 'boots'	928 4161 4992 18492 13687 2982 20067 2839 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'men'+ 'g'+ 'strings'+ 'thongs'	928 18492 4161 6277 2441 5976 3444 4992 13205 4038 20843 
+'clothing'+ 'shoes'+ 'men'+ 'jewelry'+ 'bracelets'+ 'cuff'	928 18492 4992 4161 13666 2345 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'jackets'+ 'coats'+ 'faux'+ 'leather'	928 18492 4161 11706 4538 7965 6399 20295 3640 6236 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'watch'+ 'accessories'	928 18492 4161 6277 2441 10359 3642 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'tops'+ 'tees'+ 'polos'	928 18492 4161 11706 4538 7965 19865 4705 4481 
+'clothing'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'shoes'+ 'boots'	928 4161 4992 15424 2781 4508 18492 2839 
+'clothing'+ 'shoes'+ 'jewelry'+ 'allen'+ 'edmonds'	928 18492 4161 2899 5346 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'athletic'+ 'bowling'	928 4161 11706 18492 10779 5922 
+'sports'+ 'outdoors'+ 'golf'+ 'clothing'	3862 12705 7453 928 
+'outdoors'+ 'sports'+ 'dance'+ 'clothing'+ 'girls'+ 'leotards'	12705 3862 1904 928 7242 16718 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'accessories'+ 'mittens'+ 'liners'+ 'gloves'	3862 12705 928 4992 3642 9481 3 18763 
+'sports'+ 'outdoors'+ 'outdoor'+ 'gear'+ 'camping'+ 'hiking'	3862 12705 13687 5450 13275 20067 
+'clothing'+ 'shoes'+ 'jewelry'+ 'simple'	928 18492 4161 1997 
+'sports'+ 'outdoors'+ 'outdoor'+ 'gear'+ 'camping'+ 'hiking'+ 'clothing'+ 'men'+ 'socks'	3862 12705 13687 5450 13275 20067 928 4992 1229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'ameribag'	928 18492 4161 10983 
+'health'+ 'personal'+ 'care'+ 'medical'+ 'supplies'+ 'mobility'+ 'equipment'+ 'reaching'+ 'aids'	7415 1330 16717 8257 5377 7590 10803 6538 1283 
+'clothing'+ 'shoes'+ 'jewelry'+ 'h'+ 'haflinger'	928 18492 4161 16850 1224 
+'arts'+ 'crafts'+ 'sewing'+ 'beading'+ 'making'+ 'findings'+ 'jewelry'+ 'clasps'	10222 3663 16427 11198 3958 4635 4161 3258 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'bracelets'+ 'tennis'	928 18492 11706 4161 19166 13666 18324 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'earrings'+ 'ball'	928 18492 11706 4161 15419 11532 10187 
+'clothing'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'shoes'	928 4161 6277 2441 3642 18492 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'	928 18492 11706 4161 
+'electronics'+ 'camera'+ 'photo'+ 'bags'+ 'cases'+ 'bag'+ 'case'+ 'accessories'	1892 14116 20420 7514 5363 2854 5363 3642 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'hats'+ 'caps'+ 'visors'	928 18492 4161 4992 3642 6280 20393 15995 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'accessories'+ 'pads'+ 'enhancers'	928 18492 4161 11706 8562 7147 3642 15540 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'gloves'+ 'mittens'+ 'arm'+ 'warmers'	928 18492 4161 11706 3642 18763 9481 6015 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'fashion'+ 'hoodies'+ 'sweatshirts'	928 18492 4161 11706 4538 7965 19166 12136 11502 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'cold'+ 'weather'+ 'scarves'	928 18492 4161 4992 3642 9668 8381 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'bc'+ 'footwear'	928 18492 4161 14097 5071 19942 
+'clothing'+ 'shoes'+ 'jewelry'+ 'v'+ 'volatile'	928 18492 4161 16667 1538 
+'clothing'+ 'shoes'+ 'jewelry'+ 'spring'+ 'step'	928 18492 4161 6261 17181 
+'clothing'+ 'shoes'+ 'jewelry'+ 'guess'+ 'watches'	928 18492 4161 18126 5766 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'coats'+ 'jackets'+ 'wool'+ 'blends'	18492 4161 11706 928 20295 6399 2154 15102 
+'clothing'+ 'shoes'+ 'jewelry'+ 'breda'	928 18492 4161 
+'clothing'+ 'shoes'+ 'fine'+ 'jewelry'+ 'diamonds'	928 18492 15419 4161 14660 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'rings'+ 'bands'	928 18492 11706 4161 19166 19923 21119 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'coats'+ 'jackets'+ 'faux'+ 'fur'	18492 4161 11706 928 20295 6399 3640 4664 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'earrings'+ 'hoop'	928 18492 11706 4161 19166 11532 10197 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'	18492 4161 7242 928 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'hosiery'+ 'show'+ 'liner'+ 'socks'	928 18492 4161 11706 8562 2444 15220 3 1229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'f'+ 'franco'+ 'sarto'	928 18492 4161 282 6953 9380 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'medical'+ 'men'+ 'lab'+ 'coats'	18492 4161 6277 2441 11605 12339 3383 928 8257 4992 8910 20295 
+'clothing'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'shoes'+ 'kids'+ 'baby'	928 4161 6277 2441 3642 18492 14204 21 
+'clothing'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'shoes'+ 'outdoor'+ 'snow'+ 'boots'	928 4161 4992 15424 2781 4508 18492 13687 5164 2839 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'accessories'+ 'keychains'	18492 4161 2441 6277 928 11706 3642 19235 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'charms'+ 'charm'+ 'bracelets'	928 18492 11706 4161 15419 4025 4025 13666 
+'home'+ 'kitchen'+ 'dining'+ 'storage'+ 'organization'+ 'reusable'+ 'grocery'+ 'bags'	7279 12912 17502 5019 5555 8244 7514 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'bracelets'+ 'strand'	928 18492 11706 4161 15419 13666 3868 
+'electronics'+ 'computers'+ 'pdas'+ 'handhelds'+ 'pda'+ 'handheld'+ 'accessories'+ 'cases'	1892 7028 5598 15442 5598 15442 3642 5363 
+'clothing'+ 'shoes'+ 'jewelry'+ 'dingo'	928 18492 4161 
+'clothing'+ 'shoes'+ 'jewelry'+ 'diamonds'	928 18492 4161 14660 
+'clothing'+ 'jewelry'+ 'girls'+ 'shoes'+ 'clogs'+ 'mules'	928 4161 7242 18492 11887 18980 
+'clothing'+ 'shoes'+ 'jewelry'+ 'w'+ 'worishofer'	928 18492 4161 8769 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'accessories'+ 'hats'+ 'caps'+ 'headwraps'	18492 4161 2441 6277 928 11706 3642 6280 20393 9778 
+'clothing'+ 'shoes'+ 'jewelry'+ 'p'+ 'poetic'+ 'licence'	928 18492 4161 3557 11702 9284 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'coats'+ 'lightweight'+ 'jackets'+ 'windbreakers'	18492 4161 4992 928 20295 9094 6399 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'bandolino'	928 18492 4161 14097 2141 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'necklaces'+ 'strands'	928 18492 11706 4161 19166 13073 3868 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'accessories'+ 'breast'+ 'petals'	928 18492 4161 11706 8562 7147 3642 9033 7160 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'engagement'+ 'wedding'+ 'rings'+ 'plain'+ 'bands'	928 18492 11706 4161 4327 2303 19923 18440 21119 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'pant'+ 'liner'+ 'slips'	928 18492 4161 11706 8562 7147 12043 3 14014 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'active'+ 'base'+ 'layers'+ 'bottoms'	928 18492 4161 11706 8562 1598 11521 10145 1868 
+'clothing'+ 'shoes'+ 'jewelry'+ 'f'+ 'florsheim'	928 18492 4161 282 4911 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'active'+ 'pants'	18492 4161 4992 15424 2781 4508 928 1598 1407 
+'clothing'+ 'shoes'+ 'jewelry'+ 'p'+ 'pearl'+ 'izumi'	928 18492 4161 3557 5963 17925 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'men'	928 18492 4161 6277 2441 3642 4992 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'underwear'+ 'undershirts'+ 'tanks'+ 'camisoles'	18492 4161 7242 928 13154 840 11785 9483 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'underwear'+ 'training'+ 'bras'	18492 4161 7242 928 13154 19415 20648 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'suits'+ 'sport'+ 'coats'+ 'blazers'	18492 4161 4992 928 905 14933 20295 5354 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'overalls'	928 18492 4161 4992 19396 20935 15151 
+'clothing'+ 'jewelry'+ 'girls'+ 'shoes'+ 'athletic'+ 'running'	928 4161 7242 18492 10779 19153 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'wallets'+ 'card'+ 'cases'+ 'organizers'+ 'money'+ 'clips'	928 18492 4161 4992 3642 2460 17031 5363 8412 11345 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'jackets'+ 'coats'+ 'active'+ 'performance'+ 'insulated'	18492 4161 4992 15424 2781 4508 928 6399 20295 1598 11092 3631 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'sleepwear'+ 'robes'+ 'nightgowns'	18492 4161 7242 928 17940 21106 19194 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'+ 'swim'+ 'trunks'+ 'shorts'	18492 4161 21 13417 928 1433 10157 6609 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'athletic'+ 'racquet'+ 'sports'+ 'tennis'	928 4161 4992 18492 10779 3862 18324 
+'clothing'+ 'shoes'+ 'costumes'+ 'novelty'+ 'jewelry'+ 'engagement'+ 'wedding'+ 'rings'	928 18492 2441 6277 4161 4327 2303 19923 
+'clothing'+ 'shoes'+ 'jewelry'+ 'g'+ 'guess'	928 18492 4161 13205 18126 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'accessories'+ 'hats'+ 'caps'	3862 12705 928 4992 3642 6280 20393 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'sunglasses'+ 'eyewear'+ 'accessories'	928 18492 4161 4992 12096 1457 3642 
+'clothing'+ 'jewelry'+ 'baby'+ 'boys'+ 'shoes'+ 'sandals'	928 4161 21 13417 18492 18952 
+'clothing'+ 'shoes'+ 'jewelry'+ 'x'+ 'xoxo'	928 18492 4161 11600 13974 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'sweaters'+ 'shrugs'	928 18492 4161 11706 8562 21202 17948 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'coats'+ 'lightweight'+ 'jackets'+ 'denim'	18492 4161 4992 928 20295 9094 6399 14437 
+'clothing'+ 'shoes'+ 'men'+ 'jewelry'+ 'rings'	928 18492 4992 4161 19923 
+'clothing'+ 'shoes'+ 'jewelry'+ 'orient'	928 18492 4161 13166 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'swim'+ 'cover'+ 'ups'	928 18492 4161 11706 8562 1433 6041 8031 
+'clothing'+ 'shoes'+ 'jewelry'+ 'wedding'+ 'party'+ 'gifts'+ 'bride'	928 18492 4161 2303 13442 11741 19096 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'tops'+ 'tees'+ 'tanks'+ 'camis'	18492 4161 7242 928 19865 4705 11785 2751 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'tops'+ 'tees'+ 'vests'	18492 4161 11706 928 19865 4705 2064 
+'electronics'+ 'computers'+ 'laptop'+ 'netbook'+ 'computer'+ 'accessories'+ 'bags'+ 'cases'	1892 7028 4903 15665 7028 3642 7514 5363 
+'clothing'+ 'jewelry'+ 'boys'+ 'shoes'+ 'athletic'+ 'soccer'	928 4161 13417 18492 10779 11542 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'keyrings'+ 'keychains'	928 18492 4161 11706 3642 19235 
+'sports'+ 'outdoors'+ 'clothing'+ 'girls'+ 'accessories'+ 'caps'+ 'cold'+ 'weather'+ 'hats'	3862 12705 928 7242 3642 20393 9668 8381 6280 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'+ 'tops'+ 'tees'	18492 4161 21 13417 928 19865 4705 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'+ 'tops'	18492 4161 21 13417 928 19865 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'jackets'+ 'coats'+ 'alternative'	18492 4161 13417 928 6399 20295 16155 
+'tools'+ 'home'+ 'improvement'+ 'safety'+ 'security'+ 'personal'+ 'equipment'+ 'protective'+ 'workwear'+ 'lab'+ 'coats'+ 'jackets'	13830 7279 2904 12768 5060 1330 10803 12726 6489 8910 20295 6399 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'compression'+ 'shorts'	3862 12705 928 11706 2577 6609 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'charms'+ 'charm'+ 'bracelets'+ 'snake'	928 18492 11706 4161 15419 4025 4025 13666 13571 
+'clothing'+ 'shoes'+ 'jewelry'+ 'w'+ 'woodlore'	928 18492 4161 8769 19920 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'underwear'+ 'g'+ 'strings'+ 'thongs'	18492 4161 4992 928 13154 13205 4038 20843 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'active'+ 'base'+ 'layers'+ 'bottoms'	928 18492 4161 4992 19396 20935 1598 11521 10145 1868 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'military'+ 'women'	18492 4161 6277 2441 11605 12339 3383 928 15892 11706 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'jackets'+ 'coats'+ 'alternative'	18492 4161 4992 15424 2781 4508 928 6399 20295 16155 
+'clothing'+ 'shoes'+ 'jewelry'+ 'otbt'	928 18492 4161 20280 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'outerwear'+ 'coats'+ 'denim'	928 18492 4161 4992 19396 20935 9081 20295 14437 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'religious'+ 'necklaces'+ 'pendants'+ 'strands'	928 18492 11706 4161 3785 13073 10301 3868 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'bella'+ 'vita'	928 18492 4161 14097 20149 10413 
+'clothing'+ 'shoes'+ 'jewelry'+ 'aetrex'	928 18492 4161 13807 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'shorts'+ 'denim'	928 18492 4161 11706 19916 6609 14437 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'shorts'+ 'dress'	928 18492 4161 11706 19916 6609 8825 
+'clothing'+ 'shoes'+ 'jewelry'+ 'montrail'	928 18492 4161 17174 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'+ 'layette'+ 'sets'	18492 4161 21 13417 928 19467 12658 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'active'+ 'athletic'+ 'socks'	18492 4161 13417 928 1598 10779 1229 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'sweatshirts'	18492 4161 2441 6277 928 4992 11502 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'thermal'+ 'underwear'+ 'union'+ 'suits'	18492 4161 4992 928 16795 13154 13392 905 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'jackets'+ 'coats'+ 'active'+ 'performance'+ 'insulated'	18492 4161 4992 928 6399 20295 1598 11092 3631 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'swim'+ 'tankinis'+ 'tops'	928 18492 4161 11706 8562 1433 20145 19865 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'button'+ 'shirts'	18492 4161 2441 6277 928 4992 9603 2648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'shorts'+ 'casual'	928 18492 4161 11706 19916 6609 1406 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'accessories'+ 'scarves'+ 'neck'+ 'gaiters'	928 18492 4161 4992 3642 17557 7207 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'jackets'+ 'coats'+ 'alternative'	18492 4161 7242 928 6399 20295 16155 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'accessories'+ 'buttons'+ 'pins'	18492 4161 2441 6277 928 4992 3642 16411 8519 
+'clothing'+ 'shoes'+ 'jewelry'+ 'tretorn'	928 18492 4161 3243 
+'clothing'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'shoes'+ 'women'+ 'military'+ 'tactical'	928 4161 6277 2441 11605 12339 3383 18492 11706 15892 2052 
+'clothing'+ 'shoes'+ 'jewelry'+ 'w'+ 'wenger'	928 18492 4161 8769 19863 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'coats'+ 'lightweight'+ 'jackets'+ 'cotton'	18492 4161 4992 928 20295 9094 6399 19728 
+'clothing'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'athletic'+ 'water'+ 'shoes'	928 4161 4992 15424 2781 4508 10779 16888 18492 
+'clothing'+ 'shoes'+ 'men'+ 'jewelry'+ 'bracelets'	928 18492 4992 4161 13666 
+'sports'+ 'outdoors'+ 'fan'+ 'shop'+ 'jewelry'+ 'watches'+ 'bracelets'	3862 12705 20986 20771 4161 5766 13666 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'suits'+ 'sport'+ 'coats'+ 'suit'+ 'pants'	18492 4161 4992 928 905 14933 20295 905 1407 
+'health'+ 'personal'+ 'care'+ 'medical'+ 'supplies'+ 'equipment'+ 'braces'+ 'splints'+ 'supports'	7415 1330 16717 8257 5377 10803 13808 13814 16483 
+'clothing'+ 'jewelry'+ 'girls'+ 'shoes'+ 'slippers'	928 4161 7242 18492 17975 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'women'+ 'teddies'+ 'bodysuits'	928 18492 4161 6277 2441 5976 3444 11706 3846 3595 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'skirts'	3862 12705 928 11706 8017 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'outerwear'+ 'coats'	928 18492 4161 4992 19396 20935 9081 20295 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'cargo'+ 'shorts'	3862 12705 928 4992 20444 6609 
+'clothing'+ 'shoes'+ 'jewelry'+ 'girls'+ 'accessories'+ 'cold'+ 'weather'+ 'mittens'	928 18492 4161 7242 3642 9668 8381 9481 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'swim'+ 'one'+ 'pieces'	18492 4161 7242 928 1433 2026 10947 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'shapewear'+ 'control'+ 'panties'	928 18492 4161 11706 8562 7147 2912 18468 12107 
+'clothing'+ 'shoes'+ 'jewelry'+ 'sorel'	928 18492 4161 4801 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'wear'+ 'uniforms'+ 'clothing'+ 'work'+ 'utility'+ 'safety'+ 'women'+ 'outerwear'	18492 4161 6277 2441 12339 3383 928 11605 8858 12768 11706 9081 
+'clothing'+ 'shoes'+ 'antique'+ 'estate'+ 'jewelry'+ 'contemporary'+ 'earrings'	928 18492 512 15327 4161 9200 11532 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'jeans'	18492 4161 4992 15424 2781 4508 928 3181 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'tops'+ 'tees'+ 'blouses'+ 'button'+ 'shirts'	18492 4161 2441 6277 928 11706 19865 4705 12293 9603 2648 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'jackets'+ 'coats'	18492 4161 2441 6277 928 4992 6399 20295 
+'clothing'+ 'shoes'+ 'jewelry'+ 'michael'+ 'kors'+ 'watches'	928 18492 4161 7976 14161 5766 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'jackets'+ 'coats'+ 'fleece'	18492 4161 7242 928 6399 20295 18267 
+'clothing'+ 'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'accessories'+ 'bibs'+ 'burp'+ 'cloths'	928 18492 4161 21 7242 3642 10808 14329 605 
+'games'+ 'grown'+ 'novelty'+ 'gag'+ 'toys'	15978 16039 6277 13947 19972 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'underwear'+ 'boxer'+ 'briefs'	18492 4161 13417 928 13154 13054 15993 
+'clothing'+ 'shoes'+ 'jewelry'+ 'l'+ 'laura'+ 'ashley'	928 18492 4161 5973 1323 10000 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'swim'+ 'trunks'	18492 4161 4992 15424 2781 4508 928 1433 10157 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'shirts'+ 'henleys'	18492 4161 4992 15424 2781 4508 928 2648 13592 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'accessories'+ 'mittens'+ 'liners'+ 'gloves'	3862 12705 928 11706 3642 9481 3 18763 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'accessories'+ 'caps'+ 'cold'+ 'weather'+ 'hats'	3862 12705 928 4992 3642 20393 9668 8381 6280 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'+ 'bottoms'+ 'jeans'	18492 4161 21 13417 928 1868 3181 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'necklaces'+ 'pearl'+ 'strands'	928 18492 11706 4161 19166 13073 5963 3868 
+'shoes'+ 'jewelry'+ 'boys'+ 'school'+ 'uniforms'+ 'clothing'+ 'pants'	18492 4161 13417 1469 3383 928 1407 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'pants'+ 'casual'	18492 4161 4992 15424 2781 4508 928 1407 1406 
+'clothing'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'shoes'+ 'men'+ 'industrial'+ 'construction'	928 4161 6277 2441 11605 12339 3383 18492 4992 8089 12422 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'panties'+ 'g'+ 'strings'+ 'tangas'+ 'thongs'	928 18492 4161 11706 8562 7147 12107 13205 4038 16629 20843 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'belts'	928 18492 4161 11706 4538 7965 3806 
+'sports'+ 'outdoors'+ 'fan'+ 'shop'+ 'jewelry'+ 'watches'+ 'earrings'	3862 12705 20986 20771 4161 5766 11532 
+'clothing'+ 'shoes'+ 'jewelry'+ 'f'+ 'fahrenheit'	928 18492 4161 282 19157 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'religious'+ 'bracelets'+ 'strand'	928 18492 11706 4161 3785 13666 3868 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'shorts'+ 'dress'	18492 4161 11706 928 6609 8825 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'lingerie'+ 'negligees'+ 'chemises'	928 18492 4161 11706 8562 7147 17648 5251 5725 
+'clothing'+ 'shoes'+ 'jewelry'+ 'c'+ 'chinese'+ 'laundry'	928 18492 4161 750 11774 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'active'+ 'dresses'	928 18492 4161 11706 8562 1598 8825 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'baby'+ 'boys'+ 'accessories'+ 'socks'	18492 4161 2441 6277 928 21 13417 3642 1229 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'compression'+ 'pants'	3862 12705 928 4992 2577 1407 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'girls'+ 'tops'+ 'tees'+ 'shirts'	18492 4161 2441 6277 928 7242 19865 4705 2648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'caps'+ 'cowboy'+ 'hats'	928 18492 4161 11706 3642 20393 19034 6280 
+'clothing'+ 'shoes'+ 'jewelry'+ 'avia'	928 18492 4161 7645 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'women'+ 'babydolls'+ 'chemises'+ 'negligees'+ 'camisoles'	928 18492 4161 6277 2441 5976 3444 11706 15802 5725 5251 9483 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'necklaces'+ 'pearl'+ 'strands'	928 18492 11706 4161 15419 13073 5963 3868 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'sweaters'+ 'pullovers'	928 18492 4161 11706 8562 21202 19197 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'accessories'+ 'belts'	18492 4161 2441 6277 928 11706 3642 3806 
+'clothing'+ 'shoes'+ 'jewelry'+ 'j'+ 'johnston'+ 'murphy'	928 18492 4161 1091 3013 3490 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'men'+ 'fashion'+ 'dress'	928 18492 4161 669 20771 4992 19166 8825 
+'clothing'+ 'shoes'+ 'jewelry'+ 'girls'+ 'accessories'	928 18492 4161 7242 3642 
+'clothing'+ 'shoes'+ 'novelty'+ 'costumes'+ 'accessories'+ 'boxes'+ 'organizers'+ 'jewelry'+ 'armoires'	928 18492 6277 2441 3642 13977 4161 9160 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'compression'+ 'pants'	3862 12705 928 11706 2577 1407 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'dresses'+ 'wear'+ 'work'	928 18492 4161 11706 8562 8825 12339 11605 
+'clothing'+ 'shoes'+ 'jewelry'+ 'j'+ 'jessica'+ 'mcclintock'	928 18492 4161 1091 2793 
+'personal'+ 'health'+ 'care'+ 'inserts'+ 'insoles'+ 'ball'+ 'foot'+ 'cushions'	1330 7415 16717 2753 340 10187 943 7866 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boys'+ 'accessories'+ 'cold'+ 'weather'+ 'gloves'	928 18492 4161 13417 3642 9668 8381 18763 
+'clothing'+ 'shoes'+ 'jewelry'+ 'wf'+ 'inheritance'+ 'test'+ 'women'+ 'ck'+ 'custom'+ 'store'	928 18492 4161 13137 11706 2955 6108 17549 
+'clothing'+ 'shoes'+ 'jewelry'+ 'n'+ 'nomad'	928 18492 4161 10297 10532 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'swim'+ 'cover'+ 'ups'	928 18492 4161 11706 4538 7965 1433 6041 8031 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'baffin'	928 18492 4161 14097 17533 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'intimates'+ 'shapewear'+ 'control'+ 'panties'	928 18492 4161 11706 4538 7965 7147 2912 18468 12107 
+'outdoors'+ 'boating'+ 'water'+ 'sports'+ 'swimming'+ 'swimwear'	12705 18649 16888 3862 12783 2025 
+'outdoors'+ 'racquet'+ 'sports'+ 'tennis'+ 'clothing'+ 'women'+ 'skirts'	12705 3862 18324 928 11706 8017 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'maternity'	928 18492 4161 11706 4538 7965 9797 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'intimates'+ 'camisoles'+ 'tanks'	928 18492 4161 11706 4538 7965 7147 9483 11785 
+'clothing'+ 'shoes'+ 'jewelry'+ 'j'+ 'joseph'+ 'abboud'	928 18492 4161 1091 17885 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'blondo'	928 18492 4161 14097 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'coats'+ 'jackets'+ 'active'+ 'performance'+ 'shells'	18492 4161 11706 928 20295 6399 1598 11092 4637 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'bracelets'+ 'strand'	928 18492 11706 4161 19166 13666 3868 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'women'+ 'swim'	928 18492 4161 6277 2441 5976 3444 11706 1433 
+'clothing'+ 'shoes'+ 'jewelry'+ 'fossil'+ 'watches'	928 18492 4161 15811 5766 
+'clothing'+ 'shoes'+ 'jewelry'+ 'diplomat'	928 18492 4161 17671 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'swim'+ 'rash'+ 'guard'+ 'shirts'	18492 4161 13417 928 1433 15881 20346 2648 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'charms'+ 'charm'+ 'bracelets'+ 'snake'	928 18492 11706 4161 19166 4025 4025 13666 13571 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'sweaters'+ 'pullovers'	928 18492 4161 11706 19916 21202 19197 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'track'+ 'active'+ 'jackets'	928 18492 4161 11706 8562 7199 1598 6399 
+'clothing'+ 'shoes'+ 'costumes'+ 'novelty'+ 'jewelry'+ 'rings'+ 'stacking'	928 18492 2441 6277 4161 19923 19191 
+'clothing'+ 'shoes'+ 'jewelry'+ 'r'+ 'rampage'	928 18492 4161 14952 12210 
+'shoes'+ 'jewelry'+ 'girls'+ 'school'+ 'uniforms'+ 'clothing'+ 'shorts'	18492 4161 7242 1469 3383 928 6609 
+'clothing'+ 'shoes'+ 'jewelry'+ 'p'+ 'penny'+ 'loves'+ 'kenny'	928 18492 4161 3557 6126 17311 11341 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'wedding'+ 'engagement'+ 'rings'	928 18492 11706 4161 2303 4327 19923 
+'health'+ 'personal'+ 'care'+ 'medical'+ 'supplies'+ 'equipment'+ 'splints'+ 'leg'+ 'foot'+ 'supports'+ 'ankle'+ 'braces'	7415 1330 16717 8257 5377 10803 13814 16977 943 16483 16118 13808 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'diaper'+ 'covers'+ 'underwear'+ 'bloomers'	18492 4161 21 7242 928 18628 6041 13154 14166 
+'clothing'+ 'shoes'+ 'gifts'+ 'women'+ 'inspirational'+ 'jewelry'	928 18492 11741 11706 4161 
+'outdoors'+ 'racquet'+ 'sports'+ 'tennis'+ 'clothing'+ 'women'+ 'shorts'	12705 3862 18324 928 11706 6609 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'bracelets'+ 'bangle'	928 18492 11706 4161 19166 13666 5004 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'wear'+ 'uniforms'+ 'clothing'+ 'work'+ 'utility'+ 'safety'+ 'women'+ 'pants'	18492 4161 6277 2441 12339 3383 928 11605 8858 12768 11706 1407 
+'clothing'+ 'shoes'+ 'jewelry'+ 'g'+ 'giorgio'+ 'brutini'	928 18492 4161 13205 12952 14179 
+'toys'+ 'games'+ 'party'+ 'supplies'	19972 15978 13442 5377 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'swim'+ 'one'+ 'pieces'	928 18492 4161 11706 4538 7965 1433 2026 10947 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'sleep'+ 'lounge'+ 'robes'	928 18492 4161 11706 4538 7965 4482 6340 21106 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'tops'+ 'tees'+ 'henleys'	928 18492 4161 11706 19916 19865 4705 13592 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'shapewear'+ 'control'+ 'slips'	928 18492 4161 11706 19916 17648 4482 6340 7147 2912 18468 14014 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'girls'+ 'sweatshirts'	18492 4161 2441 6277 928 7242 11502 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'pant'+ 'sets'	18492 4161 7242 928 12043 12658 
+'sports'+ 'outdoors'+ 'clothing'+ 'girls'+ 'shirts'	3862 12705 928 7242 2648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'active'+ 'shirts'+ 'tees'	928 18492 4161 11706 4538 7965 1598 2648 4705 
+'clothing'+ 'shoes'+ 'jewelry'+ 'u'+ 'k'	928 18492 4161 20304 19108 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'intimates'+ 'lingerie'+ 'baby'+ 'dolls'	928 18492 4161 11706 4538 7965 7147 17648 21 3275 
+'clothing'+ 'shoes'+ 'jewelry'+ 'annie'	928 18492 4161 13455 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'maternity'+ 'nursing'+ 'tops'+ 'tees'+ 'tanks'+ 'camis'	928 18492 4161 11706 9797 9186 19865 4705 11785 2751 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'tops'+ 'tees'+ 'henleys'	18492 4161 11706 928 19865 4705 13592 
+'clothing'+ 'shoes'+ 'jewelry'+ 'r'+ 'rainbow'+ 'sandals'	928 18492 4161 14952 18545 18952 
+'clothing'+ 'shoes'+ 'jewelry'+ 'g'+ 'grasshoppers'	928 18492 4161 13205 21102 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'athletic'+ 'golf'	928 4161 11706 18492 10779 7453 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'girls'+ 'outdoor'+ 'work'+ 'snow'+ 'cold'+ 'weather'	928 18492 4161 669 20771 7242 13687 11605 5164 9668 8381 
+'clothing'+ 'shoes'+ 'jewelry'+ 'l'+ 'lesportsac'	928 18492 4161 5973 2647 
+'sports'+ 'outdoors'+ 'exercise'+ 'fitness'+ 'yoga'+ 'clothing'+ 'women'+ 'socks'	3862 12705 6767 16771 20352 928 11706 1229 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'athletic'+ 'track'+ 'field'+ 'cross'+ 'country'	928 4161 11706 18492 10779 7199 15911 18134 11473 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'swim'+ 'bikinis'+ 'bottoms'	928 18492 4161 11706 8562 1433 17791 1868 
+'clothing'+ 'shoes'+ 'jewelry'+ 'f'+ 'fred'+ 'perry'	928 18492 4161 282 21303 8217 
+'outdoors'+ 'equestrian'+ 'sports'	12705 14380 3862 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'sweatshirts'+ 'fashion'+ 'hoodies'	928 18492 4161 11706 8562 11502 19166 12136 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'+ 'swim'+ 'rash'+ 'guard'+ 'shirts'	18492 4161 21 13417 928 1433 15881 20346 2648 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'accessories'+ 'keychains'	18492 4161 2441 6277 928 4992 3642 19235 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'charms'+ 'charm'+ 'bracelets'+ 'link'	928 18492 11706 4161 15419 4025 4025 13666 16124 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'active'+ 'skorts'	18492 4161 11706 928 1598 11637 
+'sports'+ 'outdoors'+ 'exercise'+ 'fitness'+ 'running'+ 'clothing'+ 'women'+ 'shorts'	3862 12705 6767 16771 19153 928 11706 6609 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'accessories'+ 'gloves'+ 'mittens'	18492 4161 2441 6277 928 4992 3642 18763 9481 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'bates'	928 18492 4161 14097 
+'clothing'+ 'shoes'+ 'jewelry'+ 'p'+ 'polo'+ 'ralph'+ 'lauren'	928 18492 4161 3557 4481 1614 18181 
+'clothing'+ 'shoes'+ 'antique'+ 'estate'+ 'jewelry'+ 'contemporary'+ 'rings'	928 18492 512 15327 4161 9200 19923 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'necklaces'	928 18492 11706 4161 15419 13073 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'pocket'+ 'watches'	928 18492 4161 4992 5543 5766 
+'sports'+ 'outdoors'+ 'clothing'+ 'boys'+ 'sweatshirts'	3862 12705 928 13417 11502 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'jackets'+ 'coats'+ 'snow'+ 'wear'	18492 4161 21 7242 928 6399 20295 5164 12339 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'lingerie'+ 'sleep'+ 'lounge'	928 18492 4161 11706 19916 17648 4482 6340 
+'sports'+ 'outdoors'+ 'accessories'+ 'electronics'+ 'gadgets'	3862 12705 3642 1892 858 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'sweaters'	3862 12705 928 4992 21202 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'pants'	18492 4161 13417 928 1407 
+'clothing'+ 'shoes'+ 'jewelry'+ 'j'+ 'renee'	928 18492 4161 1091 5801 
+'sports'+ 'outdoors'+ 'exercise'+ 'fitness'+ 'running'+ 'clothing'+ 'women'+ 'tights'	3862 12705 6767 16771 19153 928 11706 20865 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'accessories'+ 'bandanas'	18492 4161 2441 6277 928 11706 3642 4307 
+'clothing'+ 'shoes'+ 'jewelry'+ 'r'+ 'rochester'	928 18492 4161 14952 
+'clothing'+ 'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'accessories'+ 'gloves'+ 'mittens'	928 18492 4161 21 7242 3642 18763 9481 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'sleepwear'+ 'robes'+ 'nightgowns'	18492 4161 21 7242 928 17940 21106 19194 
+'clothing'+ 'shoes'+ 'jewelry'+ 'maui'+ 'jim'	928 18492 4161 11217 6907 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'sleep'+ 'lounge'	18492 4161 4992 928 4482 6340 
+'home'+ 'kitchen'+ 'organization'+ 'clothing'+ 'storage'+ 'closet'+ 'systems'	7279 12912 5555 928 5019 11226 14559 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'active'+ 'shirts'+ 'tees'	18492 4161 13417 928 1598 2648 4705 
+'clothing'+ 'shoes'+ 'jewelry'+ 'k'+ 'kena'+ 'kai'	928 18492 4161 19108 3346 
+'automotive'+ 'exterior'+ 'accessories'+ 'snow'+ 'ice'+ 'scrapers'+ 'brushes'	7274 10419 3642 5164 7552 4283 15638 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'athletic'+ 'cycling'	928 4161 4992 18492 10779 2142 
+'outdoors'+ 'boating'+ 'water'+ 'sports'+ 'swimming'+ 'swimwear'+ 'men'+ 'jammers'	12705 18649 16888 3862 12783 2025 4992 
+'clothing'+ 'shoes'+ 'jewelry'+ 'e'+ 'etienne'+ 'aigner'	928 18492 4161 8386 11485 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'necklaces'+ 'lockets'	928 18492 11706 4161 15419 13073 578 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'fashion'+ 'hoodies'+ 'sweatshirts'	18492 4161 4992 15424 2781 4508 928 19166 12136 11502 
+'sports'+ 'outdoors'+ 'golf'	3862 12705 7453 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'leggings'	928 18492 4161 11706 4538 7965 14292 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'shirts'+ 'polos'	18492 4161 4992 15424 2781 4508 928 2648 4481 
+'clothing'+ 'jewelry'+ 'designer'+ 'shoes'+ 'handbags'	928 4161 6762 18492 292 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'born'	928 18492 4161 14097 2509 
+'clothing'+ 'jewelry'+ 'boys'+ 'shoes'+ 'loafers'	928 4161 13417 18492 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'jackets'+ 'coats'	928 18492 4161 11706 4538 7965 6399 20295 
+'clothing'+ 'shoes'+ 'jewelry'+ 'dkny'	928 18492 4161 9505 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'rings'+ 'statement'	928 18492 11706 4161 15419 19923 14910 
+'outdoors'+ 'team'+ 'sports'+ 'rugby'+ 'clothing'	12705 9060 3862 1317 928 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'accessories'+ 'belt'+ 'buckles'	18492 4161 2441 6277 928 4992 3642 3806 7725 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'lingerie'+ 'bustiers'+ 'corsets'	928 18492 4161 11706 8562 7147 17648 9017 3990 
+'clothing'+ 'jewelry'+ 'girls'+ 'shoes'+ 'athletic'+ 'fitness'+ 'cross'+ 'training'	928 4161 7242 18492 10779 16771 18134 19415 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'sweaters'+ 'vests'	18492 4161 11706 928 21202 2064 
+'clothing'+ 'shoes'+ 'women'+ 'fashion'+ 'jewelry'+ 'sets'	928 18492 11706 19166 4161 12658 
+'clothing'+ 'jewelry'+ 'boys'+ 'shoes'+ 'athletic'+ 'racquet'+ 'sports'	928 4161 13417 18492 10779 3862 
+'clothing'+ 'jewelry'+ 'boys'+ 'shoes'+ 'athletic'	928 4161 13417 18492 10779 
+'shoes'+ 'jewelry'+ 'girls'+ 'school'+ 'uniforms'+ 'clothing'+ 'skirts'+ 'scooters'+ 'skorts'	18492 4161 7242 1469 3383 928 8017 12337 11637 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'wallets'+ 'card'+ 'cases'+ 'money'+ 'organizers'+ 'checkbook'+ 'covers'	928 18492 4161 11706 3642 2460 17031 5363 8412 17954 6041 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'jumpsuits'+ 'rompers'	928 18492 4161 11706 8562 9049 7338 
+'sports'+ 'outdoors'+ 'fan'+ 'shop'+ 'clothing'+ 'shirts'	3862 12705 20986 20771 928 2648 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'special'+ 'occasion'+ 'accessories'	928 18492 4161 11706 13078 4510 3642 
+'clothing'+ 'shoes'+ 'jewelry'+ 'e'+ 'etnies'	928 18492 4161 8386 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boys'+ 'accessories'+ 'bow'+ 'ties'	928 18492 4161 13417 3642 16780 7270 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'layette'+ 'sets'	18492 4161 21 7242 928 19467 12658 
+'sports'+ 'outdoors'+ 'golf'+ 'clothing'+ 'men'	3862 12705 7453 928 4992 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'boy'+ 'meets'+ 'girl'	928 18492 4161 14097 18314 16716 7242 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'blazers'+ 'jackets'+ 'night'+ 'special'+ 'occasion'	928 18492 4161 11706 8562 5354 6399 17818 13078 4510 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'swim'+ 'rash'+ 'guards'	928 18492 4161 11706 8562 1433 15881 20346 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fine'+ 'bracelets'+ 'bangle'	928 18492 11706 4161 15419 13666 5004 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'bras'	928 18492 4161 11706 8562 7147 20648 
+'clothing'+ 'shoes'+ 'novelty'+ 'costumes'+ 'accessories'+ 'boxes'+ 'organizers'+ 'jewelry'+ 'chests'	928 18492 6277 2441 3642 13977 4161 1007 
+'clothing'+ 'shoes'+ 'jewelry'+ 'gear'+ 'travel'+ 'accessories'+ 'luggage'+ 'carts'	928 18492 4161 5450 5550 3642 7101 4534 
+'clothing'+ 'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'watches'	928 18492 4161 2441 6277 5766 
+'clothing'+ 'shoes'+ 'jewelry'+ 'mootsies'+ 'tootsies'	928 18492 4161 19495 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boys'+ 'accessories'+ 'suspenders'	928 18492 4161 13417 3642 11083 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'pants'+ 'capris'	928 18492 4161 11706 8562 1407 8548 
+'sports'+ 'outdoors'+ 'fishing'+ 'hunting'+ 'clothing'	3862 12705 15859 5585 928 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'boys'+ 'fashion'+ 'western'	928 18492 4161 669 20771 13417 19166 7919 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'active'+ 'pants'	18492 4161 13417 928 1598 1407 
+'clothing'+ 'jewelry'+ 'girls'+ 'shoes'+ 'athletic'+ 'soccer'	928 4161 7242 18492 10779 11542 
+'clothing'+ 'shoes'+ 'jewelry'+ 'r'+ 'robeez'	928 18492 4161 14952 7994 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'wedding'+ 'engagement'+ 'bridal'+ 'sets'	928 18492 11706 4161 2303 4327 10858 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'girl'+ 'athletic'+ 'watches'	928 18492 4161 7242 10779 5766 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'pants'+ 'casual'	928 18492 4161 11706 19916 1407 1406 
+'outdoors'+ 'leisure'+ 'sports'+ 'game'+ 'room'	12705 20899 3862 20221 2173 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'active'+ 'base'+ 'layers'+ 'sets'	928 18492 4161 11706 8562 1598 11521 10145 12658 
+'sports'+ 'outdoors'+ 'golf'+ 'clothing'+ 'men'+ 'shirts'	3862 12705 7453 928 4992 2648 
+'sports'+ 'outdoors'+ 'clothing'+ 'women'+ 'sweatshirts'	3862 12705 928 11706 11502 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'tops'+ 'tees'+ 'tanks'+ 'camis'	18492 4161 2441 6277 928 11706 19865 4705 11785 2751 
+'shoes'+ 'jewelry'+ 'girls'+ 'school'+ 'uniforms'+ 'clothing'+ 'dresses'+ 'jumpers'	18492 4161 7242 1469 3383 928 8825 15577 
+'clothing'+ 'shoes'+ 'jewelry'+ 'girls'+ 'accessories'+ 'hats'+ 'caps'	928 18492 4161 7242 3642 6280 20393 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'girls'+ 'fashion'+ 'western'	928 18492 4161 669 20771 7242 19166 7919 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'dresses'+ 'night'+ 'cocktail'	928 18492 4161 11706 19916 8825 17818 7322 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'suits'+ 'blazers'+ 'night'+ 'special'+ 'occasion'	928 18492 4161 11706 19916 905 5354 17818 13078 4510 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'dresses'	18492 4161 7242 928 8825 
+'sports'+ 'outdoors'+ 'clothing'+ 'boys'+ 'hoodies'	3862 12705 928 13417 12136 
+'arts'+ 'crafts'+ 'sewing'+ 'craft'+ 'latch'+ 'hook'+ 'rug'+ 'making'+ 'supplies'	10222 3663 16427 3663 9264 16812 3992 3958 5377 
+'clothing'+ 'shoes'+ 'jewelry'+ 'e'+ 'el'+ 'naturalista'	928 18492 4161 8386 6698 1674 
+'clothing'+ 'shoes'+ 'jewelry'+ 'yellow'+ 'box'	928 18492 4161 10377 13977 
+'home'+ 'improvement'+ 'power'+ 'hand'+ 'tools'+ 'accessories'+ 'multitools'	7279 2904 20261 17139 13830 3642 2892 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'accessories'+ 'bandanas'	18492 4161 2441 6277 928 4992 3642 4307 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'suits'+ 'sport'+ 'coats'+ 'tuxedos'	18492 4161 4992 928 905 14933 20295 9360 
+'sports'+ 'outdoors'+ 'clothing'+ 'men'+ 'workout'+ 'shorts'	3862 12705 928 4992 16794 6609 
+'clothing'+ 'shoes'+ 'girls'+ 'jewelry'+ 'necklaces'+ 'pendants'	928 18492 7242 4161 13073 10301 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'accessories'+ 'wallets'+ 'money'+ 'organizers'+ 'id'+ 'card'+ 'cases'	928 18492 4161 11706 3642 2460 8412 9548 17031 5363 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'panties'+ 'g'+ 'strings'+ 'thongs'+ 'tangas'	928 18492 4161 11706 8562 7147 12107 13205 4038 20843 16629 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'shorts'	18492 4161 2441 6277 928 11706 6609 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'boys'+ 'accessories'+ 'hats'+ 'baseball'+ 'caps'	18492 4161 2441 6277 928 13417 3642 6280 9605 20393 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'maternity'+ 'intimates'	928 18492 4161 11706 9797 7147 
+'electronics'+ 'computers'+ 'laptop'+ 'netbook'+ 'computer'+ 'accessories'+ 'bags'+ 'cases'+ 'backpacks'	1892 7028 4903 15665 7028 3642 7514 5363 4149 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boys'+ 'accessories'+ 'cold'+ 'weather'+ 'sets'	928 18492 4161 13417 3642 9668 8381 12658 
+'clothing'+ 'shoes'+ 'girls'+ 'jewelry'+ 'earrings'+ 'stud'	928 18492 7242 4161 11532 5822 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'jackets'+ 'coats'+ 'rain'+ 'wear'	18492 4161 7242 928 6399 20295 19126 12339 
+'clothing'+ 'jewelry'+ 'women'+ 'shoes'+ 'athletic'+ 'boating'	928 4161 11706 18492 10779 18649 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'medical'+ 'women'+ 'lab'+ 'coats'	18492 4161 6277 2441 11605 12339 3383 928 8257 11706 8910 20295 
+'clothing'+ 'shoes'+ 'boutique'+ 'designer'+ 'jewelry'	928 18492 7431 6762 4161 
+'clothing'+ 'shoes'+ 'jewelry'+ 'g'+ 'groove'	928 18492 4161 13205 18647 
+'clothing'+ 'shoes'+ 'jewelry'+ 'steven'+ 'steve'+ 'madden'	928 18492 4161 17810 18500 7570 
+'clothing'+ 'jewelry'+ 'girls'+ 'shoes'+ 'athletic'+ 'racquet'+ 'sports'	928 4161 7242 18492 10779 3862 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'active'+ 'hoodies'	928 18492 4161 11706 8562 1598 12136 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'+ 'swim'+ 'sunsuits'	18492 4161 21 13417 928 1433 9488 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'bracelets'+ 'stretch'	928 18492 11706 4161 19166 13666 167 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'intimates'+ 'panties'+ 'boy'+ 'shorts'	928 18492 4161 11706 4538 7965 7147 12107 18314 6609 
+'clothing'+ 'shoes'+ 'jewelry'+ 'r'+ 'rocket'+ 'dog'	928 18492 4161 14952 11878 13023 
+'clothing'+ 'shoes'+ 'costumes'+ 'novelty'+ 'jewelry'+ 'wedding'+ 'engagement'+ 'rings'+ 'bridal'+ 'sets'	928 18492 2441 6277 4161 2303 4327 19923 10858 12658 
+'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'work'+ 'wear'+ 'uniforms'+ 'clothing'+ 'medical'+ 'men'+ 'scrub'+ 'tops'	18492 4161 6277 2441 11605 12339 3383 928 8257 4992 21061 19865 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'girls'+ 'fashion'+ 'shearling'	928 18492 4161 669 20771 7242 19166 20796 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'active'+ 'shorts'	18492 4161 13417 928 1598 6609 
+'games'+ 'novelty'+ 'gag'+ 'toys'+ 'temporary'+ 'tattoos'	15978 6277 13947 19972 12566 10523 
+'clothing'+ 'shoes'+ 'jewelry'+ 'girls'+ 'accessories'+ 'cold'+ 'weather'+ 'neck'+ 'gaiters'	928 18492 4161 7242 3642 9668 8381 17557 7207 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'necklaces'+ 'chains'	928 18492 11706 4161 19166 13073 10638 
+'clothing'+ 'shoes'+ 'men'+ 'jewelry'+ 'cuff'+ 'links'	928 18492 4992 4161 2345 6145 
+'clothing'+ 'shoes'+ 'jewelry'+ 'durango'	928 18492 4161 16631 
+'clothing'+ 'shoes'+ 'jewelry'+ 'ariat'	928 18492 4161 14022 
+'clothing'+ 'shoes'+ 'jewelry'+ 'sugar'	928 18492 4161 1809 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'swimsuits'+ 'cover'+ 'ups'+ 'one'+ 'pieces'	928 18492 4161 11706 19916 14605 6041 8031 2026 10947 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'boys'+ 'accessories'+ 'gloves'+ 'mittens'	18492 4161 2441 6277 928 13417 3642 18763 9481 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'intimates'+ 'slips'	18492 4161 11706 928 17648 4482 6340 7147 14014 
+'clothing'+ 'shoes'+ 'jewelry'+ 'h'+ 'harley'+ 'davidson'	928 18492 4161 16850 18256 20005 
+'clothing'+ 'shoes'+ 'jewelry'+ 'solemates'	928 18492 4161 8636 
+'clothing'+ 'shoes'+ 'jewelry'+ 'f'+ 'fergie'	928 18492 4161 282 11717 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'swim'+ 'rash'+ 'guard'+ 'shirts'	18492 4161 21 7242 928 1433 15881 20346 2648 
+'clothing'+ 'shoes'+ 'antique'+ 'estate'+ 'jewelry'+ 'contemporary'	928 18492 512 15327 4161 9200 
+'home'+ 'kitchen'+ 'heating'+ 'cooling'+ 'air'+ 'quality'+ 'household'+ 'fans'	7279 12912 1782 13453 19196 8761 5100 20986 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'athletic'+ 'soccer'	928 4161 4992 18492 10779 11542 
+'clothing'+ 'shoes'+ 'jewelry'+ 'girls'+ 'accessories'+ 'cold'+ 'weather'+ 'gloves'	928 18492 4161 7242 3642 9668 8381 18763 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'swim'+ 'tankinis'	928 18492 4161 11706 4538 7965 1433 20145 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'rings'+ 'statement'	928 18492 11706 4161 19166 19923 14910 
+'clothing'+ 'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'accessories'+ 'gloves'+ 'mittens'	928 18492 4161 21 13417 3642 18763 9481 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'bracelets'+ 'cuff'	928 18492 11706 4161 19166 13666 2345 
+'shoes'+ 'jewelry'+ 'girls'+ 'school'+ 'uniforms'+ 'clothing'+ 'pants'	18492 4161 7242 1469 3383 928 1407 
+'outdoors'+ 'team'+ 'sports'+ 'baseball'+ 'protective'+ 'gear'	12705 9060 3862 9605 12726 5450 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'tuxedo'+ 'shirts'	18492 4161 4992 928 9360 2648 
+'clothing'+ 'jewelry'+ 'calvin'+ 'klein'+ 'test'+ 'store'+ 'shoes'	928 4161 61 15475 13137 17549 18492 
+'clothing'+ 'shoes'+ 'jewelry'+ 'sole'	928 18492 4161 2528 
+'clothing'+ 'shoes'+ 'jewelry'+ 'mia'+ '2'	928 18492 4161 11969 
+'clothing'+ 'jewelry'+ 'men'+ 'shoes'+ 'athletic'+ 'volleyball'	928 4161 4992 18492 10779 2365 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'baby'+ 'girls'+ 'accessories'+ 'socks'	18492 4161 2441 6277 928 21 7242 3642 1229 
+'clothing'+ 'shoes'+ 'novelty'+ 'costumes'+ 'body'+ 'piercing'+ 'jewelry'	928 18492 6277 2441 7335 10436 4161 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'active'+ 'athletic'+ 'socks'	928 18492 4161 11706 19916 1598 10779 1229 
+'clothing'+ 'shoes'+ 'jewelry'+ 'diesel'	928 18492 4161 16991 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'bottoms'+ 'pants'	18492 4161 21 7242 928 1868 1407 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'socks'+ 'hosiery'+ 'leg'+ 'warmers'	18492 4161 11706 928 1229 2444 16977 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'dresses'	928 18492 4161 11706 4538 7965 8825 
+'clothing'+ 'shoes'+ 'jewelry'+ 'men'+ 'big'+ 'tall'+ 'shirts'+ 'polos'	928 18492 4161 4992 19396 20935 2648 4481 
+'outdoors'+ 'water'+ 'sports'+ 'boating'	12705 16888 3862 18649 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'tops'	18492 4161 11706 928 17648 4482 6340 19865 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'accessories'+ 'bow'+ 'ties'	18492 4161 2441 6277 928 4992 3642 16780 7270 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'skirts'+ 'scooters'+ 'skorts'	18492 4161 7242 928 8017 12337 11637 
+'sports'+ 'outdoors'+ 'fan'+ 'shop'+ 'clothing'+ 'accessories'+ 'hats'+ 'baseball'+ 'caps'	3862 12705 20986 20771 928 3642 6280 9605 20393 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'maternity'+ 'tights'+ 'hosiery'	928 18492 4161 11706 9797 20865 2444 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'outerwear'+ 'coats'+ 'wool'+ 'blends'	928 18492 4161 11706 8562 9081 20295 2154 15102 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'active'+ 'pants'	928 18492 4161 11706 4538 7965 1598 1407 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'coats'+ 'lightweight'+ 'jackets'+ 'anoraks'	18492 4161 11706 928 20295 9094 6399 9382 
+'shoes'+ 'jewelry'+ 'men'+ 'clothing'+ 'thermal'+ 'underwear'	18492 4161 4992 928 16795 13154 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'wigs'+ 'men'	928 18492 4161 6277 2441 3642 13623 4992 
+'clothing'+ 'shoes'+ 'novelty'+ 'costumes'+ 'body'+ 'piercing'+ 'jewelry'+ 'tunnels'	928 18492 6277 2441 7335 10436 4161 2796 
+'clothing'+ 'jewelry'+ 'boys'+ 'shoes'+ 'athletic'+ 'trail'+ 'running'	928 4161 13417 18492 10779 6426 19153 
+'clothing'+ 'shoes'+ 'jewelry'+ 'f'+ 'french'+ 'connection'	928 18492 4161 282 252 
+'clothing'+ 'jewelry'+ 'boys'+ 'shoes'+ 'athletic'+ 'skateboarding'	928 4161 13417 18492 10779 19764 
+'clothing'+ 'shoes'+ 'jewelry'+ 'j'+ 'john'+ 'deere'	928 18492 4161 1091 9394 20758 
+'sports'+ 'outdoors'+ 'clothing'+ 'girls'+ 'fleece'+ 'jackets'	3862 12705 928 7242 18267 6399 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'track'+ 'active'+ 'jackets'	18492 4161 11706 928 7199 1598 6399 
+'automotive'+ 'motorcycle'+ 'powersports'+ 'protective'+ 'gear'+ 'riding'+ 'headwear'+ 'balaclavas'	7274 10146 12726 5450 16838 20121 1689 
+'sports'+ 'outdoors'+ 'fan'+ 'shop'+ 'jewelry'+ 'watches'+ 'necklaces'+ 'pendants'	3862 12705 20986 20771 4161 5766 13073 10301 
+'clothing'+ 'shoes'+ 'jewelry'+ 'luggage'+ 'gear'+ 'travel'+ 'accessories'+ 'shoe'+ 'bags'	928 18492 4161 7101 5450 5550 3642 18492 7514 
+'clothing'+ 'shoes'+ 'jewelry'+ 'w'+ 'wanted'	928 18492 4161 8769 16085 
+'outdoors'+ 'team'+ 'sports'+ 'volleyball'+ 'clothing'+ 'women'+ 'shorts'	12705 9060 3862 2365 928 11706 6609 
+'outdoors'+ 'team'+ 'sports'+ 'soccer'+ 'clothing'+ 'men'	12705 9060 3862 11542 928 4992 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'boys'+ 'outdoor'+ 'work'+ 'hiking'+ 'trekking'	928 18492 4161 669 20771 13417 13687 11605 20067 2982 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'anklets'	928 18492 11706 4161 19166 4160 
+'clothing'+ 'shoes'+ 'jewelry'+ 'motorcycle'+ 'atv'+ 'casual'+ 'footwear'+ 'boots'	928 18492 4161 10146 8823 1406 19942 2839 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'dresses'+ 'playwear'	18492 4161 21 7242 928 8825 
+'clothing'+ 'shoes'+ 'jewelry'+ 'e'+ 'ellen'+ 'tracy'	928 18492 4161 8386 11320 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'baby'+ 'girls'+ 'tops'	18492 4161 2441 6277 928 21 7242 19865 
+'shoes'+ 'jewelry'+ 'girls'+ 'clothing'+ 'short'+ 'sets'	18492 4161 7242 928 18357 12658 
+'baby'+ 'products'+ 'diapering'+ 'cloth'+ 'diapers'+ 'covers'	21 3558 18628 605 18628 6041 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'men'+ 'shirts'+ 'tanks'+ 'tops'	18492 4161 2441 6277 928 4992 2648 11785 19865 
+'shoes'+ 'jewelry'+ 'men'+ 'surf'+ 'skate'+ 'street'+ 'clothing'+ 'underwear'+ 'boxer'+ 'briefs'	18492 4161 4992 15424 2781 4508 928 13154 13054 15993 
+'clothing'+ 'shoes'+ 'jewelry'+ 'b'+ 'blowfish'	928 18492 4161 14097 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'exotic'+ 'apparel'+ 'women'+ 'babydolls'+ 'chemises'+ 'negligees'	928 18492 4161 6277 2441 5976 3444 11706 15802 5725 5251 
+'clothing'+ 'shoes'+ 'jewelry'+ 'boot'+ 'shop'+ 'men'+ 'fashion'+ 'shearling'	928 18492 4161 669 20771 4992 19166 20796 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'swim'+ 'board'+ 'shorts'	928 18492 4161 11706 8562 1433 12350 6609 
+'arts'+ 'crafts'+ 'sewing'+ 'trim'+ 'embellishments'+ 'applique'	10222 3663 16427 16306 10711 
+'sports'+ 'outdoors'+ 'clothing'+ 'girls'+ 'pants'	3862 12705 928 7242 1407 
+'arts'+ 'crafts'+ 'sewing'+ 'beading'+ 'making'+ 'jewelry'+ 'findings'+ 'jump'+ 'rings'	10222 3663 16427 11198 3958 4161 4635 5575 19923 
+'clothing'+ 'shoes'+ 'jewelry'+ 'f'+ 'fergalicious'	928 18492 4161 282 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'intimates'+ 'lingerie'+ 'baby'+ 'dolls'	928 18492 4161 11706 8562 7147 17648 21 3275 
+'clothing'+ 'shoes'+ 'jewelry'+ 'dolce'+ 'gabbana'	928 18492 4161 15237 5225 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'special'+ 'occasion'+ 'accessories'+ 'bridal'+ 'veils'	928 18492 4161 11706 13078 4510 3642 10858 18399 
+'clothing'+ 'shoes'+ 'free'+ 'one'+ 'day'+ 'shipping'+ 'jewelry'	928 18492 18642 2026 3890 11403 4161 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'costumes'+ 'accessories'+ 'wigs'+ 'kids'+ 'baby'	928 18492 4161 6277 2441 3642 13623 14204 21 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'dresses'+ 'special'+ 'occasion'	18492 4161 21 7242 928 8825 13078 4510 
+'clothing'+ 'shoes'+ 'jewelry'+ 'p'+ 'pour'+ 'la'+ 'victoire'	928 18492 4161 3557 15135 8091 
+'clothing'+ 'shoes'+ 'jewelry'+ 'j'+ 'jumping'+ 'jacks'	928 18492 4161 1091 5575 12620 
+'clothing'+ 'shoes'+ 'jewelry'+ 'staheekum'	928 18492 4161 
+'clothing'+ 'shoes'+ 'jewelry'+ 'david'+ 'tate'	928 18492 4161 16817 8755 
+'clothing'+ 'shoes'+ 'jewelry'+ 'touch'+ 'ups'	928 18492 4161 13481 8031 
+'clothing'+ 'shoes'+ 'jewelry'	928 18492 4161 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'christening'	18492 4161 21 7242 928 129 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'socks'	18492 4161 13417 928 1229 
+'outdoors'+ 'sports'+ 'dance'+ 'clothing'+ 'girls'+ 'skirts'	12705 3862 1904 928 7242 8017 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'baby'+ 'boys'+ 'clothing'+ 'sets'	18492 4161 2441 6277 21 13417 928 12658 
+'shoes'+ 'jewelry'+ 'boys'+ 'clothing'+ 'jackets'+ 'coats'+ 'fleece'	18492 4161 13417 928 6399 20295 18267 
+'clothing'+ 'shoes'+ 'jewelry'+ 'k'+ 'klogs'	928 18492 4161 19108 21295 
+'clothing'+ 'shoes'+ 'jewelry'+ 'novelty'+ 'accessories'+ 'costumes'+ 'kids'+ 'baby'	928 18492 4161 6277 3642 2441 14204 21 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'maternity'+ 'jeans'	928 18492 4161 11706 9797 3181 
+'shoes'+ 'jewelry'+ 'baby'+ 'boys'+ 'clothing'+ 'sport'+ 'coats'+ 'suits'	18492 4161 21 13417 928 14933 20295 905 
+'clothing'+ 'shoes'+ 'men'+ 'jewelry'+ 'religious'+ 'necklaces'+ 'pendants'	928 18492 4992 4161 3785 13073 10301 
+'clothing'+ 'shoes'+ 'jewelry'+ 'n'+ 'rated'	928 18492 4161 10297 2106 
+'automotive'+ 'motorcycle'+ 'powersports'+ 'protective'+ 'gear'+ 'jerseys'	7274 10146 12726 5450 20626 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'fashion'+ 'brooches'+ 'pins'	928 18492 11706 4161 19166 3601 8519 
+'clothing'+ 'jewelry'+ 'boys'+ 'shoes'	928 4161 13417 18492 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'lingerie'+ 'sleep'+ 'lounge'+ 'bottoms'	928 18492 4161 11706 19916 17648 4482 6340 1868 
+'clothing'+ 'shoes'+ 'jewelry'+ 'taos'	928 18492 4161 9408 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'dresses'+ 'casual'	928 18492 4161 11706 19916 8825 1406 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'active'+ 'leggings'	928 18492 4161 11706 19916 1598 14292 
+'clothing'+ 'jewelry'+ 'girls'+ 'shoes'+ 'athletic'+ 'trail'+ 'running'	928 4161 7242 18492 10779 6426 19153 
+'clothing'+ 'shoes'+ 'jewelry'+ 'g'+ 'gotta'+ 'flurt'	928 18492 4161 13205 16987 
+'clothing'+ 'shoes'+ 'novelty'+ 'costumes'+ 'body'+ 'jewelry'+ 'belly'+ 'chains'	928 18492 6277 2441 7335 4161 12352 10638 
+'clothing'+ 'shoes'+ 'jewelry'+ 'v'+ 'via'+ 'spiga'	928 18492 4161 16667 14623 
+'clothing'+ 'shoes'+ 'jewelry'+ 'miss'	928 18492 4161 4765 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'petite'+ 'swim'	928 18492 4161 11706 8562 1433 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'religious'+ 'bracelets'+ 'bangle'	928 18492 11706 4161 3785 13666 5004 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'active'+ 'sweatshirts'	928 18492 4161 11706 19916 1598 11502 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'juniors'+ 'dresses'	928 18492 4161 11706 19916 8825 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'plus'+ 'size'+ 'dresses'+ 'special'+ 'occasion'	928 18492 4161 11706 4538 7965 8825 13078 4510 
+'clothing'+ 'shoes'+ 'girls'+ 'jewelry'+ 'bracelets'+ 'charm'	928 18492 7242 4161 13666 4025 
+'clothing'+ 'shoes'+ 'women'+ 'jewelry'+ 'religious'+ 'earrings'+ 'drop'+ 'dangle'	928 18492 11706 4161 3785 11532 18274 4814 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'accessories'+ 'hats'+ 'baseball'+ 'caps'	18492 4161 2441 6277 928 11706 3642 6280 9605 20393 
+'clothing'+ 'shoes'+ 'jewelry'+ 'women'+ 'maternity'+ 'dresses'+ 'casual'	928 18492 4161 11706 9797 8825 1406 
+'shoes'+ 'jewelry'+ 'costumes'+ 'novelty'+ 'clothing'+ 'women'+ 'tops'+ 'tees'+ 'polos'	18492 4161 2441 6277 928 11706 19865 4705 4481 
+'clothing'+ 'shoes'+ 'jewelry'+ 'dyeables'	928 18492 4161 
+'clothing'+ 'shoes'+ 'jewelry'+ 'dolce'+ 'vita'	928 18492 4161 15237 10413 
+'clothing'+ 'shoes'+ 'jewelry'+ 'highest'+ 'heel'	928 18492 4161 9327 17444 
+'electronics'+ 'computers'+ 'accessories'+ 'computer'+ 'components'	1892 7028 3642 7028 14306 
+'clothing'+ 'shoes'+ 'jewelry'+ 'c'+ 'cl'+ 'chinese'+ 'laundry'	928 18492 4161 750 3247 11774 
+'shoes'+ 'jewelry'+ 'baby'+ 'girls'+ 'clothing'+ 'short'+ 'sets'	18492 4161 21 7242 928 18357 12658 
+'clothing'+ 'shoes'+ 'jewelry'+ 'c'+ 'carlos'+ 'santana'	928 18492 4161 750 6802 4891 
+'shoes'+ 'jewelry'+ 'women'+ 'clothing'+ 'sweaters'	18492 4161 11706 928 21202 
+'clothing'+ 'shoes'+ 'boys'+ 'jewelry'+ 'necklaces'	928 18492 13417 4161 13073
