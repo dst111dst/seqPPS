@@ -48,4 +48,3 @@ def ParserParams(parser):
                         default="./log/",
                         type=str,
                         help="The path to save log.")
-
