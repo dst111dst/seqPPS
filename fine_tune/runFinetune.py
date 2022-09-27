@@ -25,18 +25,18 @@ def set_seed(seed=0):
 def train_model():
     bert_model = BertModel.from_pretrained(args.bert_model_path)
     bert_model.resize_token_embeddings(bert_model.config.vocab_size + additional_tokens)
-    model_state_dict = torch.load(args.pretrain_model_path)
-    bert_model.load_state_dict({k.replace('bert_model.', ''): v for k, v in model_state_dict.items()}, strict=False)
+    #model_state_dict = torch.load(args.pretrain_model_path)
+    #bert_model.load_state_dict({k.replace('bert_model.', ''): v for k, v in model_state_dict.items()}, strict=False)
     model = BertSessionSearch(bert_model)
-    # model = model.to(device)
+    model = model.to(device)
     model = torch.nn.DataParallel(model)
     fit(model, train_data, test_data)
 
 
 def train_step(model, train_data, bce_loss):
-    # with torch.no_grad():
-    #     for key in train_data.keys():
-    #         train_data[key] = train_data[key].to(device)
+    with torch.no_grad():
+        for key in train_data.keys():
+            train_data[key] = train_data[key].to(device)
     y_pred = model.forward(train_data)
     batch_y = train_data["labels"]
     loss = bce_loss(y_pred, batch_y)
@@ -58,6 +58,7 @@ def fit(model, X_train, X_test):
         print("\nEpoch ", epoch + 1, "/", args.epochs)
         logger.write("Epoch " + str(epoch + 1) + "/" + str(args.epochs) + "\n")
         avg_loss = 0
+        torch.cuda.empty_cache()
         model.train()
         for i, training_data in enumerate(train_dataloader):
             loss = train_step(model, training_data, bce_loss)
@@ -80,20 +81,8 @@ def fit(model, X_train, X_test):
 
 
 def evaluate(model, X_test, bce_loss, best_result, X_test_preq=None, is_test=False):
-    if args.task == "aol":
-        y_pred, y_label = predict(model, X_test)
-        metrics = Metrics(args.score_file_path, segment=50)
-    elif args.task == "tiangong":
-        if is_test:
-            y_pred, y_label, y_pred_pre, y_label_pre = predict(model, X_test, X_test_preq)
-            metrics_pre = Metrics(args.score_file_pre_path, segment=10)
-            with open(args.score_file_pre_path, 'w') as output:
-                for score, label in zip(y_pred_pre, y_label_pre):
-                    output.write(str(score) + '\t' + str(label) + '\n')
-            result_pre = metrics_pre.evaluate_all_metrics()
-        else:
-            y_pred, y_label = predict(model, X_test)
-        metrics = Metrics(args.score_file_path, segment=10)
+    y_pred, y_label = predict(model, X_test)
+    metrics = Metrics(args.score_file_path, segment=50)
 
     with open(args.score_file_path, 'w') as output:
         for score, label in zip(y_pred, y_label):
@@ -101,23 +90,18 @@ def evaluate(model, X_test, bce_loss, best_result, X_test_preq=None, is_test=Fal
 
     result = metrics.evaluate_all_metrics()
 
-    if not is_test and result[0] + result[1] + result[2] + result[3] + result[4] + result[5] > best_result[0] + \
-            best_result[1] + best_result[2] + best_result[3] + best_result[4] + best_result[5]:
+    if not is_test and result[0] + result[1] + result[2] + result[3] + result[4] + result[5] > best_result[0] + best_result[1] + best_result[2] + best_result[3] + best_result[4] + best_result[5]:
         best_result = result
-        print("Best Result: MAP: %.4f MRR: %.4f NDCG@1: %.4f NDCG@3: %.4f NDCG@5: %.4f NDCG@10: %.4f" % (
-        best_result[0], best_result[1], best_result[2], best_result[3], best_result[4], best_result[5]))
-        logger.write("Best Result: MAP: %.4f MRR: %.4f NDCG@1: %.4f NDCG@3: %.4f NDCG@5: %.4f NDCG@10: %.4f \n" % (
-        best_result[0], best_result[1], best_result[2], best_result[3], best_result[4], best_result[5]))
+        print("Best Result: MAP: %.4f MRR: %.4f NDCG@1: %.4f NDCG@3: %.4f NDCG@5: %.4f NDCG@10: %.4f" % (best_result[0], best_result[1], best_result[2], best_result[3], best_result[4], best_result[5]))
+        logger.write("Best Result: MAP: %.4f MRR: %.4f NDCG@1: %.4f NDCG@3: %.4f NDCG@5: %.4f NDCG@10: %.4f \n" % (best_result[0], best_result[1], best_result[2], best_result[3], best_result[4], best_result[5]))
         logger.flush()
         model_to_save = model.module if hasattr(model, 'module') else model
         torch.save(model_to_save.state_dict(), args.save_path)
     if is_test:
-        print("Best Result: MAP: %.4f MRR: %.4f NDCG@1: %.4f NDCG@3: %.4f NDCG@5: %.4f NDCG@10: %.4f" % (
-        result[0], result[1], result[2], result[3], result[4], result[5]))
+        print("Best Result: MAP: %.4f MRR: %.4f NDCG@1: %.4f NDCG@3: %.4f NDCG@5: %.4f NDCG@10: %.4f" % (result[0], result[1], result[2], result[3], result[4], result[5]))
         if args.task == "tiangong":
-            print(
-                "Previsou Query Best Result: MAP: %.4f MRR: %.4f NDCG@1: %.4f NDCG@3: %.4f NDCG@5: %.4f NDCG@10: %.4f" % (
-                result_pre[0], result_pre[1], result_pre[2], result_pre[3], result_pre[4], result_pre[5]))
+            print("Previsou Query Best Result: MAP: %.4f MRR: %.4f NDCG@1: %.4f NDCG@3: %.4f NDCG@5: %.4f NDCG@10: %.4f" % (result_pre[0], result_pre[1], result_pre[2], result_pre[3], result_pre[4], result_pre[5]))
+#     return best_result
     return best_result
 
 
@@ -130,36 +114,16 @@ def predict(model, X_test, X_test_pre=None):
     with torch.no_grad():
         epoch_iterator = tqdm(test_dataloader, ncols=120, leave=False)
         for i, test_data in enumerate(epoch_iterator):
-            # with torch.no_grad():
-            #     for key in test_data.keys():
-            #         test_data[key] = test_data[key].to(device)
+            with torch.no_grad():
+                for key in test_data.keys():
+                    test_data[key] = test_data[key].to(device)
             y_pred_test = model.forward(test_data)
             y_pred.append(y_pred_test.data.cpu().numpy().reshape(-1))
             y_tmp_label = test_data["labels"].data.cpu().numpy().reshape(-1)
             y_label.append(y_tmp_label)
     y_pred = np.concatenate(y_pred, axis=0).tolist()
     y_label = np.concatenate(y_label, axis=0).tolist()
-
-    if args.task == "tiangong" and X_test_pre != None:
-        test_dataset = FileDataset(X_test_pre, 128, tokenizer)
-        test_dataloader = DataLoader(test_dataset, batch_size=args.test_batch_size, shuffle=False, num_workers=8)
-        y_pred_pre = []
-        y_label_pre = []
-        with torch.no_grad():
-            epoch_iterator = tqdm(test_dataloader, ncols=120, leave=False)
-            for i, test_data in enumerate(epoch_iterator):
-                # with torch.no_grad():
-                #     for key in test_data.keys():
-                #         test_data[key] = test_data[key].to(device)
-                y_pred_test = model.forward(test_data)
-                y_pred_pre.append(y_pred_test.data.cpu().numpy().reshape(-1))
-                y_tmp_label = test_data["labels"].data.cpu().numpy().reshape(-1)
-                y_label_pre.append(y_tmp_label)
-        y_pred_pre = np.concatenate(y_pred_pre, axis=0).tolist()
-        y_label_pre = np.concatenate(y_label_pre, axis=0).tolist()
-        return y_pred, y_label, y_pred_pre, y_label_pre
-    else:
-        return y_pred, y_label
+    return y_pred, y_label
 
 
 def test_model():
@@ -168,51 +132,49 @@ def test_model():
     model.bert_model.resize_token_embeddings(model.bert_model.config.vocab_size + additional_tokens)
     model_state_dict = torch.load(args.save_path)
     model.load_state_dict({k.replace('module.', ''): v for k, v in model_state_dict.items()})
-    # model = model.to(device)
+    model = model.to(device)
     model = torch.nn.DataParallel(model)
-    # if args.task == "aol":
     evaluate(model, predict_data, None, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0], is_test=True)
-    # elif args.task == "tiangong":
-    #     evaluate(model, predict_last_data, None, [0.0, 0.0, 0.0, 0.0, 0.0, 0.0], X_test_preq=predict_pre_data,
-    #              is_test=True)
 
 
 if __name__ == '__main__':
     parser = ArgumentParser()
     ParserParams(parser)
     args = parser.parse_args()
-
-    # args.batch_size = args.per_gpu_batch_size * torch.cuda.device_count()
-    # args.test_batch_size = args.per_gpu_test_batch_size * torch.cuda.device_count()
-    args.batch_size = 128
-    args.test_batch_size = args.batch_size
-    args.pretrain_model_path = '/Users/tt/Downloads/seqPPS/pre_train/model/BertContrastive.aol.4.10.256.sent_deletion.term_deletion.qd_reorder'
-
-
-    result_path = "./output/" + "Musical_Instruments/"
-    args.save_path += BertSessionSearch.__name__ + "." + 'music'
-    args.log_path += BertSessionSearch.__name__ + "." + 'music' + ".log"
+    args.dataset = 'Cell_Phones_and_Accessories'
+    args.batch_size = args.per_gpu_batch_size * torch.cuda.device_count()
+    args.test_batch_size = args.per_gpu_test_batch_size * torch.cuda.device_count()
+    
+#     args.batch_size = 32
+#     args.test_batch_size = args.batch_size
+    args.task = "aol"
+    result_path = "./output/" +args.dataset+ "/"
+    args.save_path += BertSessionSearch.__name__ + "." + 'cell'
+    args.log_path += BertSessionSearch.__name__ + "." + 'cell' + ".log"
     score_file_prefix = result_path + BertSessionSearch.__name__ + "." + args.dataset
     args.score_file_path = score_file_prefix + "." + args.score_file_path
     args.score_file_pre_path = score_file_prefix + "." + args.score_file_pre_path
-
+    
     logger = open(args.log_path, "a")
-    # device = torch.device("cuda:0")
-    # print(args)
+    device = torch.device("cuda:0")
+    print(args)
+    
     logger.write("\nHyper-parameters:\n")
     args_dict = vars(args)
     for k, v in args_dict.items():
         logger.write(str(k) + "\t" + str(v) + "\n")
-    args.bert_model_path = 'bert-base-uncased'
-    train_data = "./data/Musical_Instruments/data.txt"
-    test_data = train_data
-    predict_data = train_data
+    args.bert_model_path = 'bert-base-uncased' #'/home/shitong_dai/seqpps/fine_tune/model/BertSessionSearch.clothes'
+    args.pretrain_model_path = './pre_train/model/BertContrastive.Cell_Phones_and_Accessories.4.10.64.sent_deletion.term_deletion.qd_reorder.query_del'
+    train_data = "./data/Clothing_Shoes_and_Jewelry/train_data.txt"
+    test_data = "./data/Clothing_Shoes_and_Jewelry/test_data.txt"
+
+    predict_data = test_data
     tokenizer = BertTokenizer.from_pretrained(args.bert_model_path)
     additional_tokens = 4
     tokenizer.add_tokens("[eos]")
+    tokenizer.add_tokens("[empty_d]")
     tokenizer.add_tokens("[term_del]")
     tokenizer.add_tokens("[sent_del]")
-    tokenizer.add_tokens("[term_rep]")
 
     set_seed()
     if args.is_training:
