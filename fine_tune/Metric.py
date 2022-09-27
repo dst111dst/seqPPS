@@ -49,7 +49,7 @@ class Metrics(object):
         return (np.average(map_list), np.average(mrr_list), np.average(ndcg_1_list), np.average(ndcg_3_list), np.average(ndcg_5_list), np.average(ndcg_10_list))
 
 if __name__ == '__main__':
-    metric = Metrics('./output/Musical_Instruments/BertSessionSearch.music.score_file.txt')
+    metric = Metrics('./output/Clothing_Shoes_and_Jewelry/BertSessionSearch.Clothing_Shoes_and_Jewelry.score_file.txt')
     result = metric.evaluate_all_metrics()
     for r in result:
         print(r)
