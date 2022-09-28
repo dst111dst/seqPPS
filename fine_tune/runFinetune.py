@@ -141,7 +141,7 @@ if __name__ == '__main__':
     parser = ArgumentParser()
     ParserParams(parser)
     args = parser.parse_args()
-    args.dataset = 'Cell_Phones_and_Accessories'
+    args.dataset = 'Clothing_Shoes_and_Jewelry'
     args.batch_size = args.per_gpu_batch_size * torch.cuda.device_count()
     args.test_batch_size = args.per_gpu_test_batch_size * torch.cuda.device_count()
     
@@ -164,7 +164,7 @@ if __name__ == '__main__':
     for k, v in args_dict.items():
         logger.write(str(k) + "\t" + str(v) + "\n")
     args.bert_model_path = 'bert-base-uncased' #'/home/shitong_dai/seqpps/fine_tune/model/BertSessionSearch.clothes'
-    args.pretrain_model_path = './pre_train/model/BertContrastive.Cell_Phones_and_Accessories.4.10.64.sent_deletion.term_deletion.qd_reorder.query_del'
+    args.pretrain_model_path = './pre_train/model/BertContrastive.Clothing_Shoes_and_Jewelry.4.10.64.sent_deletion.term_deletion.qd_reorder.query_del.item_replace'
     train_data = "./data/Clothing_Shoes_and_Jewelry/train_data.txt"
     test_data = "./data/Clothing_Shoes_and_Jewelry/test_data.txt"
 
