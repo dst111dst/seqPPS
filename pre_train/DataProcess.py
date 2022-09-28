@@ -81,6 +81,7 @@ class ContrasDataset(Dataset):
                 j_emb = np.array(j_emb,dtype=float)
                 self.product_mat[i][j] = self.product_mat[j][i] = np.dot(i_emb, j_emb) / (norm(i_emb) * norm(j_emb))
                 self.product_mat[j][i] = self.product_mat[i][j]
+                print(self.product_mat[j][i])
             if (i%1000) ==0 and (i > 0):
                 print("current finish:{}".format(str((i+1)/product_num)))
         #     break
@@ -336,6 +337,9 @@ class ContrasDataset(Dataset):
         elif strategy=='item_replace':
             random_positions = random.randint(0, len(cur_product))
             aug_sequence = []
+            # total_product = len(self.product_emb_dict)
+            # max_sim = 0.0
+            # for i in range(total_product):
             change_product = np.argmax(self.product_mat)  # the product index of the product
             change_attr = self.product_attr[self.product_list[change_product]]
             for i in range(len(i_qd)):
