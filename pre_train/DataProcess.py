@@ -258,7 +258,6 @@ class ContrasDataset(Dataset):
         # sequence len: num of augmentation product * 2
         cur_query_set = []
         cur_attr_set = []
-        cur_product = []
         max_len = 0
         # print(strategy)
         for i in range(len(sequence)):
