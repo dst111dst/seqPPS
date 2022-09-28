@@ -21,7 +21,7 @@ def ParserParams(parser):
                         type=float,
                         help="The temperature for CL.")
     parser.add_argument("--dataset",
-                        default="Cell_Phones_and_Accessories",
+                        default="Clothing_Shoes_and_Jewelry",
                         type=str,
                         help="The dataset.")
     parser.add_argument("--epochs",
