@@ -19,7 +19,7 @@ class ContrasDataset(Dataset):
         self._aug_strategy = aug_strategy
         self._rnd = random.Random(0)
         self.product_attr = dict()
-        product_set = set()
+        self.product_set = set()
         with open(filename, "r") as f:
             self._total_data = 0
             for line in f.readlines():
@@ -27,9 +27,9 @@ class ContrasDataset(Dataset):
                 l = (line.strip()).split('\t')
                 for i1 in range(len(l)):
                     if ((i1%3)==0) and (i1>0):
-                        if l[i1-2] not in product_set:
+                        if l[i1-2] not in self.product_set:
                             self.product_attr[l[i1-2]] = (l[i1].strip()).replace('  ',' ')
-                            product_set.add(l[i1-2])
+                            self.product_set.add(l[i1-2])
                     else:
                         continue
         # print(self.product_attr['B00GTGQ0PI'])
@@ -43,8 +43,9 @@ class ContrasDataset(Dataset):
         with open(self.product_emb_path,"r") as f1:
             for line in f1.readlines():
                 l = (line.strip()).split('\t',2)
-                self.product_emb_dict[l[0]] = l[-1].split(' ')
-                self.product_list.append(l[0])
+                if l[0] in self.product_set:
+                    self.product_emb_dict[l[0]] = l[-1].split(' ')
+                    self.product_list.append(l[0])
         # print(type(self.product_emb_dict['B0002E1NQ4']),self.product_emb_dict['B0002E1NQ4'])
         self.query_idx = dict()
         self.query_dict = dict()
