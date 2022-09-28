@@ -174,8 +174,8 @@ if __name__ == '__main__':
     logger.write("\n")
 
     args.bert_model_path = 'bert-base-uncased'
-    train_data = 'data/Clothing_Shoes_and_Jewelry/full_data.txt'
-    test_data  = 'data/Clothing_Shoes_and_Jewelry/full_data.txt'
+    train_data = 'data/Clothing_Shoes_and_Jewelry/test_data.txt'
+    test_data  = 'data/Clothing_Shoes_and_Jewelry/test_data.txt'
     tokenizer = BertTokenizer.from_pretrained(args.bert_model_path)
     additional_tokens = 4
     tokenizer.add_tokens("[eos]")
