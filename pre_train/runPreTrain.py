@@ -152,7 +152,7 @@ if __name__ == '__main__':
     parser = ArgumentParser()
     ParserParams(parser)
     args = parser.parse_args()
-    args.datast = 'Cell_Phones_and_Accessories'
+    args.datast = 'Clothing_Shoes_and_Jewelry'
     args.batch_size = args.per_gpu_batch_size * torch.cuda.device_count()
     args.test_batch_size = args.per_gpu_test_batch_size * torch.cuda.device_count()
     args.batch_size = 64
@@ -174,8 +174,8 @@ if __name__ == '__main__':
     logger.write("\n")
 
     args.bert_model_path = 'bert-base-uncased'
-    train_data = 'data/Cell_Phones_and_Accessories/full_data.txt'
-    test_data  = 'data/Cell_Phones_and_Accessories/full_data.txt'
+    train_data = 'data/Clothing_Shoes_and_Jewelry/full_data.txt'
+    test_data  = 'data/Clothing_Shoes_and_Jewelry/full_data.txt'
     tokenizer = BertTokenizer.from_pretrained(args.bert_model_path)
     additional_tokens = 4
     tokenizer.add_tokens("[eos]")
