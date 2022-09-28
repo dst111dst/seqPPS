@@ -11,7 +11,7 @@ def cosine_sim(a,b):
     return np.dot(a, b) / (norm(a) * norm(b))
 
 class ContrasDataset(Dataset):
-    def __init__(self, filename, max_seq_length, tokenizer,emb_path='/home/shitong_dai/seqpps/embeddings/clothes_data',aug_strategy=["sent_deletion", "term_deletion", "qd_reorder"]):
+    def __init__(self, filename, max_seq_length, tokenizer,emb_path='../embeddings/cell_data',aug_strategy=["sent_deletion", "term_deletion", "qd_reorder"]):
         super(ContrasDataset, self).__init__()
         self._filename = filename  # train_data in runbertcontras.py
         self._max_seq_length = max_seq_length
@@ -70,20 +70,20 @@ class ContrasDataset(Dataset):
                 l = line.strip().split('\t')
                 self.user_emb_dict[l[0]] = l[-1].split(' ')
         # print(type(self.user_emb_dict['AJGD0VSCUJUP5']),self.user_emb_dict['AJGD0VSCUJUP5'])
-        product_num = len(self.product_emb_dict)
-        self.product_mat = np.zeros((product_num,product_num))
-        print("total size of matrix:{}".format(str(product_num)))
-        for i in range(product_num):
-            for j in range(i, product_num):
-                i_emb = self.product_emb_dict[self.product_list[i]]
-                j_emb = self.product_emb_dict[self.product_list[j]]
-                i_emb = np.array(i_emb,dtype=float)
-                j_emb = np.array(j_emb,dtype=float)
-                self.product_mat[i][j] = self.product_mat[j][i] = np.dot(i_emb, j_emb) / (norm(i_emb) * norm(j_emb))
-                self.product_mat[j][i] = self.product_mat[i][j]
-                print(self.product_mat[j][i])
-            if (i%1000) ==0 and (i > 0):
-                print("current finish:{}".format(str((i+1)/product_num)))
+#         product_num = len(self.product_emb_dict)
+#         self.product_mat = np.zeros((product_num,product_num))
+#         print("total size of matrix:{}".format(str(product_num)))
+#         for i in range(product_num):
+#             for j in range(i, product_num):
+#                 i_emb = self.product_emb_dict[self.product_list[i]]
+#                 j_emb = self.product_emb_dict[self.product_list[j]]
+#                 i_emb = np.array(i_emb,dtype=float)
+#                 j_emb = np.array(j_emb,dtype=float)
+#                 self.product_mat[i][j] = self.product_mat[j][i] = np.dot(i_emb, j_emb) / (norm(i_emb) * norm(j_emb))
+#                 self.product_mat[j][i] = self.product_mat[i][j]
+#                 print(self.product_mat[j][i])
+#             if (i%1000) ==0 and (i > 0):
+#                 print("current finish:{}".format(str((i+1)/product_num)))
         #     break
         print("matrix finish!")
 
@@ -337,10 +337,19 @@ class ContrasDataset(Dataset):
         elif strategy=='item_replace':
             random_positions = random.randint(0, len(cur_product))
             aug_sequence = []
-            # total_product = len(self.product_emb_dict)
-            # max_sim = 0.0
-            # for i in range(total_product):
-            change_product = np.argmax(self.product_mat)  # the product index of the product
+            total_product = len(self.product_emb_dict)
+            before_emb = np.array(cur_product[random_positions],dtype=float)
+            change_product = 0
+            for i in range(total_product):
+                i_emb = np.array(self.product_emb_dict[self.product_list[i]],dtype=float)
+                score = np.dot(i_emb, before_emb) / (norm(i_emb) * norm(before_emb))
+                if (score < 1.0) and (score > 0.5):
+                    change_product = i # the product index of the product
+                    break
+                else:
+                    continue
+            if change_product ==0 :
+                change_product = random.randint(0, total_product)
             change_attr = self.product_attr[self.product_list[change_product]]
             for i in range(len(i_qd)):
                 if (i % 3 == 0):
@@ -390,11 +399,9 @@ class ContrasDataset(Dataset):
         cnt = 0
         item_seq = []
         qd_pairs = []
-        # user_emb = self.user_emb_dict[line[0]]
         for tmp in line[1:]:
             if cnt%3 ==0:
                 item_seq.append(self.product_emb_dict[tmp]) # emb
-                # print(tmp)
                 cnt += 1
                 continue
             else:
