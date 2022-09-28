@@ -43,9 +43,9 @@ class ContrasDataset(Dataset):
         with open(self.product_emb_path,"r") as f1:
             for line in f1.readlines():
                 l = (line.strip()).split('\t',2)
-                if l[0] in self.product_set:
-                    self.product_emb_dict[l[0]] = l[-1].split(' ')
-                    self.product_list.append(l[0])
+#                 if l[0] in self.product_set:
+                self.product_emb_dict[l[0]] = l[-1].split(' ')
+                self.product_list.append(l[0])
         # print(type(self.product_emb_dict['B0002E1NQ4']),self.product_emb_dict['B0002E1NQ4'])
         self.query_idx = dict()
         self.query_dict = dict()
@@ -340,7 +340,10 @@ class ContrasDataset(Dataset):
             else:
                 random_positions = 0
             aug_sequence = []
-            total_product = len(self.product_emb_dict)
+            if len(self.product_emb_dict) <= len(self.product_attr):
+                total_product = len(self.product_emb_dict)
+            else:
+                total_product = len(self.product_attr)
             before_emb = np.array(cur_product[random_positions],dtype=float)
             change_product = 0
             for i in range(total_product):
@@ -348,7 +351,10 @@ class ContrasDataset(Dataset):
                 score = np.dot(i_emb, before_emb) / (norm(i_emb) * norm(before_emb))
                 if (score < 1.0) and (score > 0.5):
                     change_product = i # the product index of the product
-                    break
+                    if self.product_list[change_product] in self.product_attr.keys():
+                        break
+                    else:
+                        continue
                 else:
                     continue
             if change_product ==0 :
