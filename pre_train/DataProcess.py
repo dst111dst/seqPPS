@@ -335,7 +335,7 @@ class ContrasDataset(Dataset):
                     continue
 
         elif strategy=='item_replace':
-            random_positions = random.randint(0, len(cur_product))
+            random_positions = random.randint(0, len(cur_product)-1)
             aug_sequence = []
             total_product = len(self.product_emb_dict)
             before_emb = np.array(cur_product[random_positions],dtype=float)
