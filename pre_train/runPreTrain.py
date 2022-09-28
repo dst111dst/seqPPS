@@ -155,6 +155,8 @@ if __name__ == '__main__':
     args.datast = 'Cell_Phones_and_Accessories'
     args.batch_size = args.per_gpu_batch_size * torch.cuda.device_count()
     args.test_batch_size = args.per_gpu_test_batch_size * torch.cuda.device_count()
+    args.batch_size = 64
+    args.test_batch_size = args.batch_size
     # with item-replace:
     aug_strategy = args.aug_strategy.split(",")
     result_path = "./output/" + args.dataset + "/"
