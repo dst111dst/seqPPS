@@ -352,14 +352,22 @@ class ContrasDataset(Dataset):
                 if (score < 1.0) and (score > 0.5):
                     change_product = i # the product index of the product
                     if self.product_list[change_product] in self.product_attr.keys():
+                        change_attr = self.product_attr[self.product_list[change_product]]
                         break
                     else:
                         continue
                 else:
                     continue
+
             if change_product ==0 :
-                change_product = random.randint(0, total_product)
-            change_attr = self.product_attr[self.product_list[change_product]]
+                while(1):
+                    change_product = random.randint(0, total_product)
+                    if self.product_list[change_product] in self.product_attr.keys():
+                        change_attr = self.product_attr[self.product_list[change_product]]
+                        break
+                    else:
+                        continue
+         
             for i in range(len(i_qd)):
                 if (i % 3 == 0):
                     continue
