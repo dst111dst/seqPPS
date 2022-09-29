@@ -21,7 +21,7 @@ def ParserParams(parser):
                         type=float,
                         help="The temperature for CL.")
     parser.add_argument("--dataset",
-                        default="Clothing_Shoes_and_Jewelry",
+                        default="Musical_Instruments",
                         type=str,
                         help="The dataset.")
     parser.add_argument("--epochs",
