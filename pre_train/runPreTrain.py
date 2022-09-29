@@ -152,11 +152,13 @@ if __name__ == '__main__':
     parser = ArgumentParser()
     ParserParams(parser)
     args = parser.parse_args()
-    args.datast = 'Clothing_Shoes_and_Jewelry'
+    args.datast = 'Musical_Instruments'
+    
     args.batch_size = args.per_gpu_batch_size * torch.cuda.device_count()
     args.test_batch_size = args.per_gpu_test_batch_size * torch.cuda.device_count()
     args.batch_size = 64
     args.test_batch_size = args.batch_size
+    
     # with item-replace:
     aug_strategy = args.aug_strategy.split(",")
     result_path = "./output/" + args.dataset + "/"
@@ -174,8 +176,8 @@ if __name__ == '__main__':
     logger.write("\n")
 
     args.bert_model_path = 'bert-base-uncased'
-    train_data = 'data/Clothing_Shoes_and_Jewelry/test_data.txt'
-    test_data  = 'data/Clothing_Shoes_and_Jewelry/test_data.txt'
+    train_data = 'data/Musical_Instruments/full_data.txt'
+    test_data  = 'data/Musical_Instruments/full_data.txt'
     tokenizer = BertTokenizer.from_pretrained(args.bert_model_path)
     additional_tokens = 4
     tokenizer.add_tokens("[eos]")
