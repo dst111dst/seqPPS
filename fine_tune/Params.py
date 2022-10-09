@@ -17,7 +17,7 @@ def ParserParams(parser):
                         type=float,
                         help="The initial learning rate for Adam.")
     parser.add_argument("--dataset",
-                        default="Musical_Instruments",
+                        default="CDs_and_Vinyl",
                         type=str,
                         help="The dataset.")
     parser.add_argument("--epochs",
