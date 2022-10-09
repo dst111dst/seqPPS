@@ -152,7 +152,6 @@ if __name__ == '__main__':
     parser = ArgumentParser()
     ParserParams(parser)
     args = parser.parse_args()
-    args.datast = 'Musical_Instruments'
     
     args.batch_size = args.per_gpu_batch_size * torch.cuda.device_count()
     args.test_batch_size = args.per_gpu_test_batch_size * torch.cuda.device_count()
@@ -176,8 +175,8 @@ if __name__ == '__main__':
     logger.write("\n")
 
     args.bert_model_path = 'bert-base-uncased'
-    train_data = 'data/Musical_Instruments/full_data.txt'
-    test_data  = 'data/Musical_Instruments/full_data.txt'
+    train_data = 'data/' + args.dataset +'/full_data.txt'
+    test_data  = 'data/' + args.dataset +'/full_data.txt'
     tokenizer = BertTokenizer.from_pretrained(args.bert_model_path)
     additional_tokens = 4
     tokenizer.add_tokens("[eos]")
