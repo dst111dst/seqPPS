@@ -25,8 +25,8 @@ def set_seed(seed=0):
 def train_model():
     bert_model = BertModel.from_pretrained(args.bert_model_path)
     bert_model.resize_token_embeddings(bert_model.config.vocab_size + additional_tokens)
-    model_state_dict = torch.load(args.pretrain_model_path)
-    bert_model.load_state_dict({k.replace('bert_model.', ''): v for k, v in model_state_dict.items()}, strict=False)
+#     model_state_dict = torch.load(args.pretrain_model_path)
+#     bert_model.load_state_dict({k.replace('bert_model.', ''): v for k, v in model_state_dict.items()}, strict=False)
     model = BertSessionSearch(bert_model)
     model = model.to(device)
     model = torch.nn.DataParallel(model)
@@ -166,8 +166,8 @@ if __name__ == '__main__':
         logger.write(str(k) + "\t" + str(v) + "\n")
     args.bert_model_path = 'bert-base-uncased' #'/home/shitong_dai/seqpps/fine_tune/model/BertSessionSearch.clothes'
     args.pretrain_model_path = './pre_train/model/BertContrastive.Musical_Instruments.4.10.64.sent_deletion.term_deletion.qd_reorder.query_del.item_replace'
-    train_data = "./data/Musical_Instruments/train_data.txt"
-    test_data = "./data/Musical_Instruments/test_data.txt"
+    train_data = "./data/CDs_and_Vinyl/train_data.txt"
+    test_data = "./data/CDs_and_Vinyl/test_data.txt"
 
     predict_data = test_data
     tokenizer = BertTokenizer.from_pretrained(args.bert_model_path)
