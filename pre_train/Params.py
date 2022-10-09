@@ -45,7 +45,7 @@ def ParserParams(parser):
                         type=str,
                         help="The path to BERT model.")
     parser.add_argument("--aug_strategy",
-                        default="query_del,item_replace",
+                        default="sent_deletion,term_deletion,qd_reorder",
                         type=str,
                         help="Augmentation strategy.")
 
