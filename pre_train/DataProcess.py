@@ -11,7 +11,7 @@ def cosine_sim(a,b):
     return np.dot(a, b) / (norm(a) * norm(b))
 
 class ContrasDataset(Dataset):
-    def __init__(self, filename, max_seq_length, tokenizer,emb_path='../embeddings/music_data',aug_strategy=["sent_deletion", "term_deletion", "qd_reorder"]):
+    def __init__(self, filename, max_seq_length, tokenizer,emb_path='../embeddings/clothes_data',aug_strategy=["sent_deletion", "term_deletion", "qd_reorder"]):
         super(ContrasDataset, self).__init__()
         self._filename = filename  # train_data in runbertcontras.py
         self._max_seq_length = max_seq_length
