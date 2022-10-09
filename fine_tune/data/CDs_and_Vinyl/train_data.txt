@@ -1,0 +1,845 @@
+0	cds vinyl rock	A299AG3O394X32_6715
+0	cds vinyl country neotraditional	A3KJ6JAZPH382D_16370
+1	cds vinyl modern blues	A9Q28YTLYREO7_6038
+0	cds vinyl pop metal	ATYTYE431FM8S_10037
+0	cds vinyl hard rock	A2WQY1B8ZS7QRZ_26753
+1	cds vinyl rap hip hop	A1EKJB0IBBV071_29205
+0	cds vinyl alternative rock indie lo fi electronic pop	A38QJ7JUUTVLKX_37875
+0	cds vinyl classic album oriented rock aor	AFMWLT45X9H4R_5326
+0	cds vinyl special interest	A29CIPTNBEN1A8_299
+0	cds vinyl pop	A29R4FCO6RFX4K_17827
+0	cds vinyl world music europe british isles ireland	ADAXDCURTOUSM_5628
+0	cds vinyl folk	A22N03OBDDVSEB_17453
+0	cds vinyl pop	A1PPLI6JONWUKD_31246
+0	cds vinyl classic album oriented rock aor	A27TCRTKJS4H9A_5281
+0	cds vinyl movie soundtracks	A2EL3990HXOMZB_1278
+0	cds vinyl opera classical vocal oratorios	AKT8TGIT6VVZ5_12667
+1	cds vinyl world music	A3600EP59PMKNK_23259
+0	cds vinyl alternative rock goth industrial dance	A2GPN2VKS8E77C_13498
+0	cds vinyl broadway vocalists musicals	A10W40DOIE1EOP_59983
+1	cds vinyl	AZSN1TO0JI87B_13115
+0	cds vinyl pop singer songwriters	A2GJDOQL63SDM7_3582
+1	cds vinyl oldies traditional pop	A19ELFMMKB83HC_19137
+0	cds vinyl alternative rock goth industrial	A1B8P3343KRXI9_41788
+0	cds vinyl folk	A2R6RA8FRBS608_19593
+0	cds vinyl classic southern rock	A1XP7P3X9MRE5H_15527
+1	cds vinyl swing jazz	A6FIAB28IS79_25774
+0	cds vinyl oldies traditional pop	A175TPTHMNS7S4_55725
+1	cds vinyl broadway vocalists musicals	ABH4G7TVI6G2T_21592
+0	cds vinyl rock	A3Q1FVRV0CRYTH_8015
+0	cds vinyl classic psychedelic rock	A1GIIPXONCEEHP_54434
+0	cds vinyl rock	AD6G5M3KL7GTB_8032
+1	tv movies	A3BU6QT97HMF_8910
+0	cds vinyl children music	A2R6RA8FRBS608_19441
+0	cds vinyl rock american alternative	A1M1VY0MI41DAT_15981
+0	cds vinyl soul	A2LTBS0W7JTVNU_24481
+0	cds vinyl pop	A1XEEHOW7KYVA7_39689
+0	digital music classic arena rock	A2HVLQE7K72OF4_28402
+0	cds vinyl pop soft rock	A19DJFABUM7D1K_55995
+0	cds vinyl folk	A1WO33ZUGJIH8X_34017
+0	cds vinyl contemporary	AWLEYLUD5KOJS_42125
+0	cds vinyl opera classical vocal oratorios	ATPWCN923XJRM_2160
+0	cds vinyl alternative rock	A2HGR1TVQE2L9R_2524
+0	cds vinyl pop singer songwriters	A3EYPIHP84RX6H_57000
+1	cds vinyl folk rock	A3QZ81L3DIO5C1_13395
+0	cds vinyl folk rock	A35IK5PV6GLP31_22296
+0	cds vinyl progressive rock	A1IKOYZVFHO1XP_12147
+1	cds vinyl vocal pop	A3QLAOOTFEHCJI_1175
+0	cds vinyl alternative rock post punk new wave	A3RTKL9KB8KLID_32347
+0	cds vinyl dance electronic	A2MA7W44Q2T6G3_19003
+1	cds vinyl rock	A3464G00K8ZYD1_35849
+1	cds vinyl pop	AF65C8QK9NNXP_35931
+0	tv movies	A1HFVQZIDK7UUD_310
+0	cds vinyl rock progressive metal	A37Y9UJBF3C32C_2957
+0	digital music pop	A2IA0R6TIDCY6E_62852
+0	digital music rock progressive	A2AXP78ZZ42FVC_321
+0	cds vinyl classic album oriented rock aor	A2QUXMCJVPF2M4_47093
+1	cds vinyl alternative rock	A3EW2L59UBHQSG_7028
+0	movies tv	A2CQII9QGGZUWX_2541
+0	cds vinyl roots rock	A1INWD4NKI5989_12553
+0	cds vinyl pop	A3VQSFORKH8B7O_2860
+0	cds vinyl christian country bluegrass	A1KYHC3ZXAJICU_41374
+0	cds vinyl pop adult contemporary	AGQEUU21DLZBH_2993
+0	cds vinyl vocal pop	A2855Z4ZIDUF91_7304
+0	cds vinyl pop oldies	A14R8MLNM9LT19_27871
+0	cds vinyl new age meditation	A1F17G9Y3BF3VJ_3629
+0	cds vinyl classical vocal non opera	A1YQLT2HC3NNWE_55361
+0	cds vinyl alternative rock hardcore ska punk	A1MA5JVW70PAS6_59796
+0	tv movies	A2IS92OCWOQRES_12583
+1	cds vinyl oldies baroque pop	A1534MBU6VJXYN_24400
+0	digital music country rock	A5BD4JDXJ2MTE_34015
+0	cds vinyl soundtracks movie scores	A2T049UQONS0OY_34367
+0	cds vinyl vocal pop	A1JABFTKSB9EPQ_46974
+0	cds vinyl dance pop	A2SYP47BL4TP9Q_5449
+0	cds vinyl pop	A1JUNRAPCMBTV5_50122
+1	cds vinyl world music	A9Q28YTLYREO7_5756
+0	cds vinyl classical forms genres concertos	A10XJR7CWHNKWU_30655
+0	cds vinyl special interest	A2RNMECG7GJ2RC_42337
+0	cds vinyl vocal pop	A34XJX0CKNDFG4_24142
+0	cds vinyl classic album oriented rock aor	A16QJ649N8PRV_40630
+1	cds vinyl opera classical vocal operettas	A3VLAZEPO9UJEA_22347
+0	cds vinyl teen pop	A27O7MPY11AIYF_1620
+0	cds vinyl vocal pop	ADG33WELAQRZJ_12716
+0	cds vinyl world music europe scandinavia sweden	A9Q28YTLYREO7_7506
+0	cds vinyl classic rock supergroups	A3HYYG78CKS1EA_11936
+0	cds vinyl hip hop pop rap	A2JAKHFYI88ZX0_18701
+0	cds vinyl hard rock	AT8TIN5JKHO2V_27099
+0	cds vinyl rap hip hop	A1J1163Q56YIVZ_14724
+0	cds vinyl classical symphonies	AO2AQRPPSTABB_1072
+0	cds vinyl pop metal	AAE2DUEMTR30I_57165
+0	cds vinyl funk	AOJCKDZXKJZZD_47281
+1	cds vinyl rock singer songwriters	AQP1VPK16SVWM_17031
+0	cds vinyl reggae	A1ISW6NMR45Y71_20211
+0	cds vinyl	A20UFOPYGGHHZ_29394
+0	cds vinyl comedy spoken word	A1H8LMYXWTYYTI_11383
+0	cds vinyl broadway vocalists traditional vocal pop	A1TW9ZGRDQQZ2Y_5151
+0	cds vinyl dance electronic	A26XCS3QLDJJWN_55401
+0	cds vinyl pop	A35A47UNZ98B3S_42790
+0	cds vinyl holiday wedding christmas	A16IM9MYTHCKYQ_10511
+0	cds vinyl classic	A24N1BAS3CU27H_8479
+0	cds vinyl alternative lo fi indie rock	AWSYTZ2I2MW0V_12099
+0	movies tv	AT1SR4F6XQ9PN_14263
+0	cds vinyl alternative rock hardcore punk	A2JDIX1X3JH8S8_32957
+0	cds vinyl classical chamber music	A1F9JGQSY6GQQ8_27644
+0	cds vinyl alternative metal	A3747YPXOBXRAT_26733
+0	cds vinyl quiet storm	A7EJERNB7IK3Z_37633
+0	cds vinyl alternative lo fi indie rock	A32DTCFBBB9WIV_20147
+0	cds vinyl pop soft rock	A1OML05BTJBEKS_793
+1	cds vinyl rock	A2INJ1HLE7HJGK_15402
+0	cds vinyl rock	A2AIMXT9PLAM12_34656
+0	cds vinyl new age meditation	A7SSCDSCM4PXF_16837
+0	cds vinyl classic rock	A2MR4488XNESP0_4286
+0	cds vinyl rock guitarists guitar gods	A1TTBERMIEL8M4_12524
+0	cds vinyl metal	A20DZX38KRBIT8_30134
+0	cds vinyl opera classical vocal	AORCXT2CLTQFR_5227
+0	cds vinyl pop	A81P47EIXM8HA_2414
+0	cds vinyl progressive rock	A25JHXYK10F0A6_25317
+0	cds vinyl opera classical vocal	AHEV6JH17W29O_18633
+0	cds vinyl soundtracks	ALAJL3S09HBS7_35106
+0	cds vinyl rock	A19YHEBK099R7U_7209
+1	cds vinyl metal	A1YG9TB69OT00R_27659
+0	cds vinyl alternative rock	A2GEQ6I6M11JR2_40227
+0	cds vinyl world music europe scandinavia norway	A3M7RECGYLXOPA_12733
+0	cds vinyl vocal pop	A35QL17JX9777N_37672
+0	cds vinyl jazz modern postbebop	A365VBRQX6JVU3_41021
+0	cds vinyl vocal pop	AP9PU72HEQ87J_4719
+0	cds vinyl pop soft rock	AR6D5DUY1G6FQ_47331
+1	cds vinyl pop adult contemporary	A1VJ7HYM1EC94M_2800
+0	cds vinyl motown	A21279TEPJ8YJ9_12246
+0	cds vinyl opera classical vocal	A7X0X400YR4W2_7515
+0	cds vinyl pop metal	A2BS3XJBRGU28J_1291
+0	cds vinyl soul	A1AMCR6ISCN2Z6_7951
+0	cds vinyl alternative rock	A1XWQ13VJDOQ7C_55725
+0	cds vinyl rock	A3BJOYY5ZWF5VM_15728
+0	cds vinyl opera classical vocal	A2R9CA3YT1WUNV_37752
+0	cds vinyl pop metal	A3J8ABVGK7ZL6H_14155
+1	cds vinyl classical	A2AIMXT9PLAM12_22353
+0	cds vinyl rap hip hop gangsta hardcore	A3KEHVZPXA0LOW_119
+0	cds vinyl rock	A1O9ONLPFCBLHC_37456
+0	cds vinyl rock	A2162NFEC5ZSDQ_6152
+0	digital music alternative rock indie lo fi	A1A6K6KF7A5IMU_24145
+0	cds vinyl oldies baroque pop	A3RC3AK8UN89I9_31366
+1	cds vinyl progressive rock	AWWN9XK9AHTG5_30344
+0	cds vinyl country rock	A2ULSA0IRUE09E_1096
+1	cds vinyl pop soft rock	A2R6RA8FRBS608_6899
+0	cds vinyl vocal pop	A1WQVS10B9K8Y5_4413
+1	cds vinyl classic album oriented rock aor	A2ZAS1OA2E02AS_8747
+0	cds vinyl soundtracks movie scores	A3RT17EKJ1RHFL_60841
+0	cds vinyl rock	A20DZX38KRBIT8_12345
+0	cds vinyl pop adult alternative	A37JVS5M5L9B5S_16160
+0	cds vinyl swing jazz classic big band	A1C3HJ00AVPQ87_14765
+0	movies tv	AWNVGGJEL9NZP_8381
+0	cds vinyl pop	AFPQVUEI3D46K_53794
+0	cds vinyl oldies traditional pop	A12R54MKO17TW0_11342
+0	cds vinyl classical	A1YQHOKBEFHFA5_5766
+0	cds vinyl soul	A11ED8O95W2103_8738
+1	cds vinyl alternative metal	AJKWF4W7QD4NS_27671
+0	cds vinyl hard rock	A11L90R7RWJA8H_43891
+1	cds vinyl euro pop	A3KJ6JAZPH382D_11593
+0	cds vinyl	A13ZCL7UXEDF14_13023
+1	cds vinyl progressive rock	A2HWD9PTM7RBXN_31582
+0	cds vinyl classic rock supergroups	A2980CNQE4H3OQ_62963
+0	cds vinyl progressive rock	A38U2M9OAEJAXJ_2956
+0	cds vinyl opera classical vocal	A239I83OASPLIS_59381
+0	cds vinyl classical symphonies	A2IIEAHI6BCWYA_4392
+1	cds vinyl hip hop southern rap	A2C7BOQVFH1HLE_10949
+0	cds vinyl folk rock	A31V8OA5OOIX94_20110
+1	cds vinyl	A9Q28YTLYREO7_6857
+0	cds vinyl rock progressive metal	A1TJEQR04YNNIH_56863
+0	cds vinyl traditional folk	ANU7ZNU79YI3Z_3204
+0	cds vinyl classic psychedelic rock	A2FF11D7REYZMX_48229
+0	cds vinyl alternative rock	AAG1G1VAIQJIT_23005
+0	cds vinyl dance pop	A83X256970U69_2868
+0	cds vinyl classical	A2TSHD7SWDGS58_36108
+0	cds vinyl pop	A34IBXM7E8CPWE_57135
+0	cds vinyl oldies baroque pop	A1IANEBSMVGHS9_1615
+0	cds vinyl rock	A3DWLI9VIYXI16_46421
+0	cds vinyl classic album oriented rock aor	A1A535W556ROBQ_25073
+0	cds vinyl classical symphonies	A3J9C5H5L8B2YB_20649
+0	cds vinyl pop oldies	A1SINQS61MEUDU_38812
+0	cds vinyl hard rock	A8SCX6VUTE05H_39378
+0	cds vinyl world music europe british isles britain	A6VXZ1EEPRTLV_37052
+0	cds vinyl rock	A8T3IYFA731W2_10545
+0	cds vinyl classic arena rock	A1XC7W5DKT5NY8_17481
+0	cds vinyl classic rock british invasion	A3713PP4MADKED_16082
+0	cds vinyl folk rock	A2XYC7YFRS7E97_649
+0	cds vinyl alternative metal	A1K9IW99EFBZ52_31176
+0	cds vinyl pop	AUHZ4NEDBKM1X_18373
+0	cds vinyl classical chamber music	A1YOLYPJXLBVEG_38704
+0	cds vinyl alternative lo fi indie rock	A25NMMI7AH30W2_50514
+0	cds vinyl rock	A3UXU4YM508ZEA_1247
+0	cds vinyl rock	A13L51ASQFO63I_32291
+0	cds vinyl classic	A3KJ6JAZPH382D_13573
+0	cds vinyl pop adult alternative	A1793S04PGEUZ9_37169
+0	cds vinyl broadway vocalists	A1JUYF5D6TFFHB_14616
+0	cds vinyl classical	AWY3EPKEOUV1W_2952
+0	tv movies	A128CBLRG5OXNH_8311
+0	cds vinyl christian pop contemporary	A34FOBX00IG5ZC_18699
+0	cds vinyl alternative metal	A1ISJC5E0GD68O_12282
+0	cds vinyl classic arena rock	A2TSHD7SWDGS58_1790
+1	cds vinyl classic album oriented rock aor	A3IEV6R2B7VW5Z_12
+1	cds vinyl rap hip hop west coast	A9Q28YTLYREO7_5797
+0	cds vinyl classic album oriented rock aor	A21MJS3PFZXAHL_3375
+0	cds vinyl dance electronic	A3IMNZSYDOTTU6_6374
+1	cds vinyl pop	A3KJ6JAZPH382D_27942
+0	cds vinyl rock	A37YZHW0NIT1TW_12859
+1	cds vinyl contemporary blues	A9Q28YTLYREO7_7495
+0	cds vinyl rock	A3PJ3JQYIUXRLU_40572
+0	cds vinyl traditional folk	A3EISFBTLEQC69_21444
+0	cds vinyl classical chamber music	A8IFUOL8S9BZC_27634
+0	cds vinyl swing jazz	A9Q28YTLYREO7_8344
+1	digital music alternative rock goth industrial	A2QWF2BJ2FM4R2_2262
+0	cds vinyl dance pop	A1IKOYZVFHO1XP_348
+0	cds vinyl pop	A1AMUJB81XGXD1_24054
+0	cds vinyl pop	A13FBTZ8SO8T3D_3971
+0	cds vinyl alternative rock post punk new wave	AE42JLYPXUI45_31832
+1	cds vinyl soundtracks movie scores	AL5OEDM8TPTKV_22225
+0	cds vinyl pop	AM4WP7RYU7DIT_7888
+1	cds vinyl jazz	A4QXQO4O749CW_373
+1	cds vinyl funk rock	AZSN1TO0JI87B_13005
+0	cds vinyl classic rock supergroups	A3L0GA39RDB3W7_33516
+0	cds vinyl rap hip hop gangsta hardcore	A32YBZDK9WWGJ_24999
+0	cds vinyl vocal pop	A39VCWU3G8XDGW_30225
+1	cds vinyl classic arena rock	A3KJ6JAZPH382D_27462
+0	cds vinyl pop metal	AAJSPUPHI30EI_46247
+0	cds vinyl country	A331OF34UX4Y1K_30199
+0	tv movies	A1RGDZCHHEW5CL_4845
+1	cds vinyl classic album oriented rock aor	A14PS7BDSYKG9U_8165
+0	cds vinyl contemporary	A1YQHOKBEFHFA5_59176
+1	cds vinyl pop	A2C7BOQVFH1HLE_11157
+0	cds vinyl rock guitarists guitar gods	ARNSLS92ARPXX_42256
+0	digital music jazz bebop	AS6XPZXH2Y9XF_23357
+0	cds vinyl rock	A3V593W2AB3HB4_14270
+0	cds vinyl classical	A2GJXG6JMHBD60_8547
+0	cds vinyl new jack	A2AIMXT9PLAM12_34604
+0	cds vinyl pop	AXPYGNIC5ZIXS_23082
+0	cds vinyl children music	A3C6CZC2JP67VK_4242
+0	tv movies	A1OVHTS24VW101_33645
+0	cds vinyl rock american alternative	A16MK69Q49SVHP_1175
+0	cds vinyl classical forms genres theatrical incidental program music tone poems	AGXDI4U7PAUGZ_53739
+1	cds vinyl hip hop pop rap	AVHCWL9AHLEL9_2855
+1	cds vinyl	A9Q28YTLYREO7_6321
+0	cds vinyl vocal pop	A29VM761PSFFA6_5573
+0	cds vinyl oldies traditional pop	A2FBJK2NDAD5M0_331
+0	cds vinyl movie soundtracks	A2491UAOEC7GP9_50500
+1	cds vinyl classic album oriented rock aor	A3LU79BYMWZEW9_12359
+0	cds vinyl rock	A2Y356ZBTFZDEG_47570
+0	cds vinyl vocal pop	A21IK52XTZGKSG_43245
+0	cds vinyl classic album oriented rock aor	AK7LUB9SFGYZD_21322
+0	cds vinyl classical symphonies	ASVNSWIXBV72Q_281
+0	cds vinyl pop	A2TSHD7SWDGS58_37021
+0	cds vinyl alternative rock hardcore proto punk	A3TZV5SXQ8F6ST_23213
+1	cds vinyl pop soft rock	A38ZTUNQJVGP6S_5990
+0	cds vinyl world music south central america colombia	A27Q9NX3M3GN63_5856
+0	cds vinyl folk rock	AT94ICL01YHU0_47298
+1	cds vinyl pop adult alternative	A9F2ZHGO5XJ20_26623
+0	cds vinyl world music north america	ATU3G9OOTV3G8_5436
+1	cds vinyl pop	A6AOLZK82A67C_562
+0	cds vinyl opera classical vocal operettas	A18DON5KI1ERFX_10100
+0	cds vinyl pop	A82S5Y6AOD46N_4379
+0	cds vinyl funk	A22N03OBDDVSEB_22154
+0	cds vinyl soul	A38WI2P5PHH38Y_17560
+1	cds vinyl vocal jazz	A14GK0E64J0WAS_9431
+0	cds vinyl pop	A2DDYY56RLHXCA_1716
+0	cds vinyl pop	A16XRPF40679KG_18367
+0	cds vinyl folk rock	A2OXDJP1Z3LNOK_30368
+0	cds vinyl soul	A14BTJRH9VNLJJ_2505
+0	cds vinyl rock	A1PMGN6081PLAS_47663
+0	cds vinyl rock british alternative britpop	A20JK8DT702CWE_11273
+0	cds vinyl classic rock	A3ADUOVTY3TIRU_2618
+0	cds vinyl pop	A2OXDJP1Z3LNOK_11560
+1	cds vinyl pop	A3P81N48BDEYVK_2595
+0	musical instruments instrument general accessories sheet music folders	A11L90R7RWJA8H_11166
+0	cds vinyl alternative rock singer songwriters	A281NPSIMI1C2R_18665
+0	cds vinyl classic album oriented rock aor	A3UXL4D549247S_2676
+0	cds vinyl classical chamber music	A2980CNQE4H3OQ_6055
+0	cds vinyl pop adult contemporary	A1MHTHU9A6OFN3_133
+0	cds vinyl rock	A9Q28YTLYREO7_6592
+0	cds vinyl dance pop	A3BO08OCFOSP5P_11205
+0	cds vinyl pop adult alternative	A1JIHU1MQ3DMF9_94
+1	cds vinyl dance electronic ambient	A1ER6IYOMM8VCT_10498
+0	cds vinyl classical sacred religious	A3D2VIUT2HWP0Z_30454
+0	cds vinyl pop	A18IZ5QX2PRB3C_307
+0	cds vinyl contemporary folk	A22NNJF0X0Q45A_35328
+1	movies tv	A2RWGW6TGUX7E5_23161
+0	cds vinyl rock	A1JUDHZEM0QM1P_18824
+0	cds vinyl rock	AWFDFLR1DA23A_1267
+0	cds vinyl rock	A3BRON54JBBNDK_886
+0	cds vinyl alternative lo fi indie rock	A2YMJJI7QJAT06_302
+0	cds vinyl hard rock	A1S7BFT0HDF3HA_42091
+0	cds vinyl folk rock	A207YIGL3P5TQF_58255
+1	cds vinyl classic album oriented rock aor	A3HU0B9XUEVHIM_5055
+0	cds vinyl pop adult contemporary	A1XWQ13VJDOQ7C_27179
+0	cds vinyl classic album oriented rock aor	A188KU3SI543V3_4316
+0	cds vinyl classic southern rock	A1NH820E5UDAZ0_1446
+0	cds vinyl classical	A1PY04J1WM3ABO_44872
+0	cds vinyl blues rock	A1XAXFLET6GL1D_7812
+0	cds vinyl classic country	AY99WNAYRUIFC_5077
+0	cds vinyl hip hop experimental rap	AAJGG0PD8C7GU_30033
+0	cds vinyl soul	A1N3NCQFX2UDOY_25634
+0	cds vinyl pop	ACTEAPEPGDV8G_2786
+0	cds vinyl pop singer songwriters	ALZ1HOG8BI48S_41456
+0	cds vinyl vocal pop	A1SGLFCJBF53P_42011
+0	cds vinyl pop	AX4YRE7TNL6UB_22824
+0	cds vinyl pop adult contemporary	A2XF6EFU44M9J0_16893
+0	cds vinyl opera classical vocal operettas	A2KHXHU73GA6NG_30927
+1	cds vinyl classical chamber music	A16CZRQL23NOIW_11564
+1	cds vinyl pop adult alternative	A2PV6GK1HV54Y9_21241
+0	cds vinyl vocal blues	A2NN7RATXCG8LV_15462
+0	cds vinyl classical chamber music	AEUY86R8JQZWC_43978
+0	cds vinyl vocal pop	AKGOX5Y1EWDQV_129
+1	cds vinyl rock	A2ULSA0IRUE09E_1239
+1	cds vinyl rock american alternative	AZSN1TO0JI87B_13037
+0	cds vinyl rock	A1JIW8GOSSGUQR_32163
+0	cds vinyl folk rock	A18IZ5QX2PRB3C_4730
+0	cds vinyl rap hip hop east coast	A2ELS4QGNO2VJW_20907
+0	cds vinyl pop	A5R336VHUTPQR_25140
+0	cds vinyl pop	A2YW2DVVYTZV2U_543
+0	cds vinyl dance pop	A1D2AXVN20OQZD_12247
+0	cds vinyl rock progressive electronic	A4BBR5P3H1A5R_41548
+0	cds vinyl alternative lo fi indie rock	AK8B26S9ATCN7_3012
+0	cds vinyl blues rock	A40FD2S6C0K3U_36524
+0	cds vinyl pop soft rock	A20BD3Y9A6W1G_3686
+1	cds vinyl pop adult contemporary	A2I6MHMAZZDCRX_18800
+0	cds vinyl traditional jazz ragtime	A1NVEW628JUS2Y_161
+0	cds vinyl world music europe british isles britain	A1XNPOQDLLJJU3_1696
+0	cds vinyl progressive rock	A2U49LUUY4IKQQ_18987
+0	cds vinyl opera classical vocal operettas	A4SF7Z3L5YJ1Y_10222
+0	tv movies	A3BK1TF3W0867C_24008
+0	cds vinyl pop oldies	A2I5NVT7IWQ51Z_52253
+0	cds vinyl alternative rock goth industrial	A29RWLP7IALT51_27007
+0	cds vinyl world music europe british isles	AD29KEJMCAD76_3310
+1	cds vinyl hip hop pop rap	A2WKKTVYS5H61M_14929
+0	cds vinyl pop	A23RVDVXWAGF8D_23049
+0	cds vinyl metal	A3U5JCXIXTGSLN_2552
+1	cds vinyl rock	AB2AQMK9PCWWX_10848
+0	cds vinyl dance electronic	A149OQJD0ASI07_1499
+0	cds vinyl jazz bebop	A3VHV0NV7NKQPC_4468
+0	cds vinyl classical	A36LUSZJ3OFETW_12724
+0	cds vinyl classical chamber music	A3R2Y080S5376J_13133
+0	cds vinyl classic arena rock	A32CR3DY6F9SCT_6484
+0	cds vinyl rock	A37QGJ9HL0ZYT3_22182
+0	cds vinyl classical forms genres concertos	A15OGDJS69EUCP_36999
+0	cds vinyl country rock	A59XCN72AK31K_24747
+0	cds vinyl dance pop	A2LNEZD3YBO12O_8179
+0	cds vinyl opera classical vocal	A34FOBX00IG5ZC_4461
+0	cds vinyl rock	A93P0L48IUBK9_52572
+0	cds vinyl rock	A3TYGA4XDGR106_48393
+1	cds vinyl pop singer songwriters	A2TAPL67U2A5HM_17415
+0	cds vinyl alternative rock indie lo fi jangle pop	A2HR4MLTTXC23A_42914
+0	cds vinyl classic album oriented rock aor	A16CZRQL23NOIW_11390
+0	cds vinyl	A3AP6H48QHX8BR_18391
+1	cds vinyl funk	AQLKBEVHUQ0JK_28568
+0	cds vinyl rock british alternative britpop	A252HNVAZENVNE_24828
+0	cds vinyl metal	A1H8LMYXWTYYTI_34487
+0	cds vinyl special interest	AD39QGHGWAOPQ_731
+1	cds vinyl alternative rock hardcore proto punk	A3GW8RC5RE1W6S_1534
+0	digital music soul	A16H4WUENJWBME_7209
+0	cds vinyl contemporary	A1LEYLI0BCE0YR_26010
+0	cds vinyl pop adult contemporary	AC62SNVRI158P_6325
+0	cds vinyl contemporary blues	A3K7SD12TNA97Z_27574
+0	cds vinyl dance electronic	A2NAEHBPM6HWWY_17425
+0	cds vinyl pop	A2AIMXT9PLAM12_35054
+0	cds vinyl classical symphonies	ATAVCMW5JBU8V_18474
+0	cds vinyl alternative rock post punk new wave	A1MH4WA7A1QOE_13005
+1	cds vinyl pop metal	A2WQY1B8ZS7QRZ_26829
+0	cds vinyl alternative rock new wave post punk	A1YQLT2HC3NNWE_55335
+1	cds vinyl opera classical vocal operettas	AQ6J4B5WLGRJ5_9704
+0	cds vinyl classical chamber music	A25JHXYK10F0A6_2955
+0	cds vinyl pop	A2GOTY2STOMEAU_1898
+0	cds vinyl rap rock	A23OIN1LVUWWY9_20036
+0	cds vinyl classical chamber music	A1G2T0T5COZOC0_15480
+0	cds vinyl folk	A3EE0H0NWQ9QVL_11022
+0	cds vinyl blues rock	A33D1LPCYUANWE_10936
+0	cds vinyl dance electronic disco	AZNTL7D6DNDQK_11221
+1	cds vinyl classic rock	A2WQY1B8ZS7QRZ_4682
+0	cds vinyl pop	A10XJR7CWHNKWU_15386
+0	cds vinyl alternative metal	A4FAPQKQQLJY1_52698
+0	cds vinyl soul northern	A23MZ5EULW2GHH_16995
+0	cds vinyl oldies baroque pop	A3P8PHA8P0B7S7_577
+1	cds vinyl classic album oriented rock aor	A2TAPL67U2A5HM_17441
+0	cds vinyl classical	A1GPDE0SVI2EUP_57251
+0	cds vinyl classic rock glam	A2WQY1B8ZS7QRZ_27234
+1	cds vinyl hard rock	A3464G00K8ZYD1_15464
+0	cds vinyl alternative rock	A3RTG2NAHXR2OJ_31322
+0	cds vinyl rock	A1RPTVW5VEOSI_25482
+0	cds vinyl children music disney	A114260E7GNCVC_16181
+0	cds vinyl rock	A2NQUGGYM0DBM1_12414
+0	cds vinyl classical symphonies	AUDSM2CTLLW1Q_13771
+0	cds vinyl rock	ACFP0K0DNARQM_25312
+0	cds vinyl pop	AH8AYFO49MSGM_5450
+0	cds vinyl rock	A3JV7KL1ECLZB8_28505
+0	cds vinyl vocal pop	A1FML9FCUPV6TI_31366
+0	cds vinyl pop	A2NADXRZGP014J_50097
+0	cds vinyl hard rock	A3CN9CCJUNIPKT_25328
+0	cds vinyl soundtracks	A2L3WEVFOCA7OY_8072
+0	cds vinyl metal	AB2AQMK9PCWWX_19025
+0	cds vinyl alternative rock	A1UHVVGXETGO34_1356
+1	cds vinyl rock	A2H3ISQ4QB95XN_41
+0	cds vinyl metal	A3PCTD8QM1BIXI_46806
+0	cds vinyl rock power pop	A2PQWPQCYIWZNO_11180
+0	cds vinyl	A2NJO6YE954DBH_3616
+1	cds vinyl folk	A1IFHFXIHESV28_13394
+1	cds vinyl jazz fusion	A3HU0B9XUEVHIM_29159
+1	cds vinyl classical ballets dances polonaises	AQ6J4B5WLGRJ5_9619
+1	cds vinyl alternative rock post punk new wave	AXWF3P7EMY7XW_17560
+1	cds vinyl traditional jazz ragtime	A1534MBU6VJXYN_25054
+0	cds vinyl rock british alternative britpop	A279L8ADN6NPMP_54044
+0	cds vinyl rock	A1FMJJKSVQDDQ_12241
+0	cds vinyl alternative rock hardcore ska punk	AUHD1E4JHD2CS_20189
+0	cds vinyl alternative metal	ADJXL0W0RJ7VV_41095
+0	cds vinyl classical	A3RCLDBIA8CAKR_5984
+0	cds vinyl rock	A256JOUD8X0J7R_1485
+0	cds vinyl classic album oriented rock aor	AFPQVUEI3D46K_20581
+0	cds vinyl country	A21VR7M8O55EF6_11478
+0	tv movies	A5WDJI6VT51TK_6134
+1	digital music contemporary	A3HU0B9XUEVHIM_7049
+1	cds vinyl quiet storm	A9Q28YTLYREO7_8343
+0	cds vinyl folk	A343JEP7ADY2YD_43034
+0	cds vinyl alternative metal	ANJ57YH1BIM8N_11894
+0	cds vinyl broadway vocalists musicals	A2ASAU4Z0JJH2R_18032
+0	digital music funk rock	A2T5NDBNXH32R8_15838
+0	cds vinyl pop adult alternative	AN092R6OZE3U0_2766
+1	cds vinyl soundtracks movie scores	A14CC5FIPR5YVF_4401
+0	cds vinyl classical chamber music	A2WQY1B8ZS7QRZ_27225
+0	cds vinyl hard rock	AFTN9ZLB22PSZ_55330
+0	cds vinyl alternative lo fi indie rock	A3GUZMGGYL5BVE_37687
+1	cds vinyl classic rock british invasion	A1SWRPUO5LBNV1_3707
+1	cds vinyl classical chamber music	A2AIMXT9PLAM12_9726
+0	cds vinyl blues rock	A3E65QCNSR8NZB_14881
+0	cds vinyl classical	A1J5KCZC8CMW9I_3280
+0	cds vinyl classical chamber music	A348O4AWJDQO45_147
+1	cds vinyl alternative rock	AWG2O9C42XW5G_13347
+0	cds vinyl rock	A3HETHW2XD3DWH_2504
+0	cds vinyl classical chamber music	AXBXU2CUZ4I5J_21341
+1	cds vinyl alternative metal	A4Z9NHOW5LT0M_3085
+0	cds vinyl pop adult contemporary	A5KCT7QD8DT3G_39811
+0	cds vinyl pop adult contemporary	AQQLWCMRNDFGI_18291
+0	cds vinyl vocal pop	A1OP0NTJ1SOXKF_61587
+0	cds vinyl children music	A2GEQ6I6M11JR2_40233
+0	cds vinyl dance pop	A3GO4A0NY079K0_3063
+1	cds vinyl soul	AMP7TQRWAIE84_21089
+0	cds vinyl folk rock	A1BUHXHFQFF8Q7_4576
+0	cds vinyl rock	A171KLCBQB06JK_11098
+1	cds vinyl folk	A3S98L5B1SR9P1_2787
+0	cds vinyl classical chamber music	ADHFO5X59PASN_2186
+1	cds vinyl classical symphonies	A2AIMXT9PLAM12_35054
+0	cds vinyl rock	A2YT3QVPJL7R4G_31858
+1	cds vinyl classic album oriented rock aor	A36CHPMHHD1IO5_990
+0	cds vinyl pop metal	A2C3P362BXV4XM_27574
+0	cds vinyl pop	AVTFR3QNYMYE2_25450
+0	cds vinyl blues rock	A25RUVV98LRKJ1_33660
+0	cds vinyl classic album oriented rock aor	A2K150EBPF8LT7_28690
+0	cds vinyl progressive rock	A2B130NR6CZ532_6024
+0	tv movies	A25KKXUQQ0OLWB_12214
+0	cds vinyl pop adult alternative	A1GIIPXONCEEHP_23794
+0	cds vinyl folk	A14TAVG028YD6M_2791
+0	cds vinyl vocal pop	A3VZVYWCTGIEV0_16020
+0	cds vinyl classic album oriented rock aor	A2QQROI18DF0F0_53774
+0	digital music pop	A1P6NTDL1BKLDV_6389
+0	cds vinyl comedy spoken word	A19JYLHD94K94D_24145
+0	cds vinyl rock	A34WKQ6TNI5PK1_19502
+0	cds vinyl comedy spoken word	A2OWRHG01AXHRG_6571
+0	cds vinyl funk	A1JRHL29A1ABOT_44825
+1	cds vinyl philly soul	A9Q28YTLYREO7_5964
+0	cds vinyl rock progressive metal	A3MEH37R79AD2S_4476
+0	cds vinyl rock	AX94XE2KY5WK4_47212
+0	movies tv	A3TPD4PKET32RE_13200
+1	cds vinyl classical forms genres symphonies	A2KI1SGCZT2OEI_22425
+1	cds vinyl jazz fusion	ADS5APY1NKTL4_11615
+1	cds vinyl rock oldies retro rockabilly	A2PNTEDGMOLMOY_12514
+1	cds vinyl pop adult contemporary	A1OML05BTJBEKS_21381
+0	cds vinyl today country	A29I113118VD8N_18700
+0	cds vinyl pop soft rock	A2VZ11U5DXM8J5_5165
+1	cds vinyl traditional folk	A3KJ6JAZPH382D_5223
+0	cds vinyl alternative rock post punk new wave	ATCUUQYLUSL9Q_2975
+0	cds vinyl funk	A6J4ZI4G6QYWW_40866
+0	cds vinyl pop	A12KJ9T45HVC10_197
+0	movies tv	A2NWGS5ND1VK6V_10884
+0	cds vinyl classical symphonies	ACZ25DPK5TNCK_48815
+0	cds vinyl	A3CN9CCJUNIPKT_7923
+0	movies tv	A31U2QT7SAL7K_44811
+0	cds vinyl classical	A3PCTD8QM1BIXI_6993
+0	cds vinyl alternative math rock	A1QJMZMG96IP1Q_338
+0	cds vinyl classic rock	A2C5VLIJMDPWHI_17969
+0	cds vinyl christian	AIHM5YQNBE0FG_10679
+0	cds vinyl dance pop	A75ZLMB06USVP_25158
+0	cds vinyl world music europe british isles britain	AQP1VPK16SVWM_20924
+0	cds vinyl pop easy listening	A1F303LHXWZ537_576
+0	cds vinyl avant garde free jazz	A3AVJCB1ZD6ZY5_57521
+0	cds vinyl holiday wedding christmas	AMP7TQRWAIE84_10393
+0	cds vinyl rock guitarists	AVPO495UATBUM_265
+0	cds vinyl soul	AWUMLV72KTL8O_47820
+0	cds vinyl alternative rock	A3RI9UWBHQ6D51_6681
+0	cds vinyl blues rock	A308M2Y1MMC3BB_8044
+0	cds vinyl alternative rock indie lo fi dream pop	A1QGB9XTR7KCZU_39912
+0	cds vinyl opera classical vocal	A2HWD9PTM7RBXN_11358
+0	cds vinyl movie soundtracks	A2EFJI6THJC9TA_24033
+1	cds vinyl blues rock	A1MHTHU9A6OFN3_30391
+1	cds vinyl rock	A1D2C0WDCSHUWZ_4462
+0	cds vinyl broadway vocalists	A1ALOIPRR8Q06J_15461
+0	cds vinyl blues rock	A2ZQXJD7YUIEHB_10986
+0	cds vinyl blues rock	A2RTWQUGRY0UFZ_230
+1	cds vinyl regional new orleans blues	A25P2L8JN90Z72_36125
+0	cds vinyl regional new orleans blues	A3URRZ02P8KLWM_1111
+0	cds vinyl regional new orleans blues	A1ABR9XW8ZUQT0_20354
+0	cds vinyl regional new orleans blues	A1S8962OZCEV73_296
+0	cds vinyl regional new orleans blues	A2M9VGBTN75A9K_52801
+0	cds vinyl regional new orleans blues	AWSYTZ2I2MW0V_20126
+1	cds vinyl classic rock	A25P2L8JN90Z72_24631
+0	cds vinyl classic rock	A36XEF1V0RBFDL_2595
+0	cds vinyl classic rock	A2DF325SNSGH2R_17844
+0	cds vinyl classic rock	ADS5APY1NKTL4_21688
+0	cds vinyl classic rock	A19YHEBK099R7U_2455
+0	cds vinyl classic rock	A1HB9YW2T4JMNL_46725
+1	cds vinyl pop	A25P2L8JN90Z72_27872
+0	cds vinyl pop	A4F9P9ZRYHLVB_5403
+0	cds vinyl pop	A3V8LMOT3H3ZL7_8765
+0	cds vinyl pop	A2WRWK0ARXOFSZ_44934
+0	cds vinyl pop	AGEJE3WH26UBR_27575
+0	cds vinyl pop	A3FZGQPFOESL7J_5070
+1	cds vinyl contemporary blues	A25P2L8JN90Z72_23441
+0	cds vinyl contemporary blues	A2GBNMYG9P9KCM_6023
+0	cds vinyl contemporary blues	A3CSRP3P4U9HI_19767
+0	cds vinyl contemporary blues	A16XRPF40679KG_26889
+0	cds vinyl contemporary blues	ATLO3YXU2BC16_41967
+0	cds vinyl contemporary blues	AGAMDS21PJZPK_2513
+1	cds vinyl classic album oriented rock aor	A25P2L8JN90Z72_15577
+0	cds vinyl classic album oriented rock aor	A70YTUFJY5HXN_7439
+0	cds vinyl classic album oriented rock aor	AFPQVUEI3D46K_14273
+0	cds vinyl classic album oriented rock aor	A2EOGI8KB3X5PS_9839
+0	cds vinyl classic album oriented rock aor	A2KUXPRQMR2OET_11137
+0	cds vinyl classic album oriented rock aor	A2WELK8CCU9MH8_24279
+1	cds vinyl rock	A25P2L8JN90Z72_12702
+0	cds vinyl rock	AD9WTAOAFUZA4_4234
+0	cds vinyl rock	AZXHK8IO25FL6_31350
+0	cds vinyl rock	A2LJY0HWDYR1IN_31934
+0	cds vinyl rock	A1VABWDOUQLULZ_1647
+0	cds vinyl rock	A2QQKFZ9YZFLV6_1364
+1	cds vinyl rock	A25P2L8JN90Z72_25146
+0	cds vinyl rock	ATBGKFT0S7P2H_12772
+0	cds vinyl rock	A2PAD826IH1HFE_34867
+0	cds vinyl rock	A2VV0TJNJT9D3O_156
+0	cds vinyl rock	A1XNPOQDLLJJU3_17529
+0	cds vinyl rock	A595T15OO91DC_53878
+1	cds vinyl blues	A25P2L8JN90Z72_31815
+0	cds vinyl blues	A13YFUB4PGTZEI_29387
+0	cds vinyl blues	A5K5UQT9XAAZP_6816
+0	cds vinyl blues	A3CY6819GDT75H_5769
+0	cds vinyl blues	AUEHG0DB54B7K_4911
+0	cds vinyl blues	A36SSF310LBGSE_399
+1	cds vinyl alternative rock	A25P2L8JN90Z72_36860
+0	cds vinyl alternative rock	A2JXPVL3MDKA5R_37248
+0	cds vinyl alternative rock	A3E8GTKH266QIQ_39671
+0	cds vinyl alternative rock	A2LWH24ABU39YK_18419
+0	cds vinyl alternative rock	A3QURAYRXN0LO1_39855
+0	cds vinyl alternative rock	A1ZRTUB9JS6HQH_272
+1	cds vinyl hard rock	A25P2L8JN90Z72_1104
+0	cds vinyl hard rock	AYQY3RB33F4J6_29200
+0	cds vinyl hard rock	A2UXCAOXAW5CPB_36592
+0	cds vinyl hard rock	A2EQTPNBAOV8R_987
+0	cds vinyl hard rock	A2U80IPZXN5V1U_24748
+0	cds vinyl hard rock	A2TVKQHGDCKELC_7603
+1	cds vinyl blues	A25P2L8JN90Z72_23292
+0	cds vinyl blues	A10FHA5E7VEDTW_13282
+0	cds vinyl blues	A34D0GBRG7TRJG_148
+0	cds vinyl blues	AV0OBG2SS1I1R_6770
+0	cds vinyl blues	A2WR9SGAI96V97_20420
+0	cds vinyl blues	A2ZQXJD7YUIEHB_44541
+1	cds vinyl rock	A25P2L8JN90Z72_36861
+0	cds vinyl rock	A1EKTLUL24HDG8_13625
+0	cds vinyl rock	A38ZTUNQJVGP6S_19949
+0	cds vinyl rock	A2EFJI6THJC9TA_32081
+0	cds vinyl rock	A366R9HFGCHLZQ_16181
+0	cds vinyl rock	A1SC91966TBITE_4950
+1	cds vinyl rock	A25P2L8JN90Z72_13721
+0	cds vinyl rock	A3P974GJZFHS8D_25463
+0	cds vinyl rock	A3QP52KNJK8R40_17522
+0	cds vinyl rock	A32YFAGYX7FYNH_39790
+0	cds vinyl rock	A17QMW5MB6T3EW_8785
+0	cds vinyl rock	AKVONPU4PN8ID_4308
+1	cds vinyl classic southern rock	A25P2L8JN90Z72_36862
+0	cds vinyl classic southern rock	A328S9RN3U5M68_9960
+0	cds vinyl classic southern rock	AQP1VPK16SVWM_189
+0	cds vinyl classic southern rock	A8EDTKSPOMRWK_45436
+0	cds vinyl classic southern rock	A299AG3O394X32_26373
+0	cds vinyl classic southern rock	A2RNUPVSNW1ZXX_367
+1	cds vinyl pop	A25P2L8JN90Z72_36863
+0	cds vinyl pop	A2WGCHELE4HFCA_21218
+0	cds vinyl pop	A16CZRQL23NOIW_11617
+0	cds vinyl pop	A3N3VL79DVY59_12911
+0	cds vinyl pop	A2ONX20OMR79CQ_18984
+0	cds vinyl pop	A3OLZXHFGUAMWW_21336
+1	cds vinyl classic rock	A25P2L8JN90Z72_13192
+0	cds vinyl classic rock	A20ITI6SAIKPK4_5563
+0	cds vinyl classic rock	A1XHYDXT8DJ4W4_11265
+0	cds vinyl classic rock	AL80L19INIU9I_60870
+0	cds vinyl classic rock	A2ILOYARQVO4K1_823
+0	cds vinyl classic rock	A3GS5WAQVO4CFB_15756
+1	cds vinyl country rock	A25P2L8JN90Z72_36864
+0	cds vinyl country rock	A1F89OE7BAM7EL_14555
+0	cds vinyl country rock	A2J8WWG4W0OFYQ_363
+0	cds vinyl country rock	AYUERG2ZI55MO_326
+0	cds vinyl country rock	A398G8OOGZMR69_15747
+0	cds vinyl country rock	A2WETFLJM0D6R0_20770
+1	cds vinyl pop metal	A25P2L8JN90Z72_8592
+0	cds vinyl pop metal	AUF6FDVDLET0W_518
+0	cds vinyl pop metal	A8HDL1RGAIQCQ_16828
+0	cds vinyl pop metal	A1LEMO6BI9LTPF_1477
+0	cds vinyl pop metal	A3PP84HBIN7NO7_44112
+0	cds vinyl pop metal	A324A25PC1DFMF_53581
+1	cds vinyl pop	A25P2L8JN90Z72_16027
+0	cds vinyl pop	A3FWPWK8FIDZKO_13791
+0	cds vinyl pop	AYOO12C9Y2T95_4301
+0	cds vinyl pop	A1XFNWGTPMG1AE_20513
+0	cds vinyl pop	A1IQYR6WIFQFWW_43065
+0	cds vinyl pop	A1IMHDHOKF2J33_1033
+1	cds vinyl blues rock	A25P2L8JN90Z72_31981
+0	cds vinyl blues rock	A1ASQ0JYCGINCF_20554
+0	cds vinyl blues rock	AFSBKKDFLZZX5_38650
+0	cds vinyl blues rock	A14GK0E64J0WAS_30853
+0	cds vinyl blues rock	A32XSKO7TOI0BH_10619
+0	cds vinyl blues rock	A3VIOCJZ22JZXT_47699
+1	cds vinyl hard rock	A25P2L8JN90Z72_12648
+0	cds vinyl hard rock	A13KFNAMTEJ4F3_11042
+0	cds vinyl hard rock	A13CJ4DL9S2Q8T_37859
+0	cds vinyl hard rock	AKAOYM48DSUPL_5765
+0	cds vinyl hard rock	ATRMGWAYTIXDS_3686
+0	cds vinyl hard rock	AMP7TQRWAIE84_21122
+1	cds vinyl metal	A25P2L8JN90Z72_14022
+0	cds vinyl metal	AWXI4J5OA9A0W_27727
+0	cds vinyl metal	A595T15OO91DC_766
+0	cds vinyl metal	AQ984X0Y9J6RP_25470
+0	cds vinyl metal	A2W9I628I6SE1U_54269
+0	cds vinyl metal	A257KXBOBFRLCN_354
+1	cds vinyl classic rock	A25P2L8JN90Z72_2476
+0	cds vinyl classic rock	A3VDSGNIS92OVZ_40917
+0	cds vinyl classic rock	A3SA7Q3WBJFFR6_5029
+0	cds vinyl classic rock	AL5RFV0ZQ1IO9_38680
+0	cds vinyl classic rock	A33ZB5KUZUAKVK_57754
+0	cds vinyl classic rock	A1TI60NGQSD762_15662
+1	cds vinyl pop	A25P2L8JN90Z72_35825
+0	cds vinyl pop	ANCOMAI0I7LVG_5078
+0	cds vinyl pop	A1IANEBSMVGHS9_18743
+0	cds vinyl pop	A9Q28YTLYREO7_8463
+0	cds vinyl pop	A9Q28YTLYREO7_2539
+0	cds vinyl pop	A2A7NHE5HTK79N_7646
+1	cds vinyl blues	A25P2L8JN90Z72_23306
+0	cds vinyl blues	A2915GKA5CNMZD_40621
+0	cds vinyl blues	A1HY4CVW8K1QFQ_1547
+0	cds vinyl blues	A2I3G2FCCA3BE5_3708
+0	cds vinyl blues	A1W16J9R4DOBEC_54907
+0	cds vinyl blues	A2S3GVLZF1BI3L_13125
+1	cds vinyl rock	A25P2L8JN90Z72_36865
+0	cds vinyl rock	AX94XE2KY5WK4_47176
+0	cds vinyl rock	A28NBM0TC4X0OF_1657
+0	cds vinyl rock	A6TU9HCTU9MMQ_13042
+0	cds vinyl rock	A1A3HX1GQKM2KD_765
+0	cds vinyl rock	A2JA7C0WEMB1M7_11248
+1	cds vinyl pop	A25P2L8JN90Z72_28858
+0	cds vinyl pop	A1TBQR3P026XM1_24496
+0	cds vinyl pop	A2FIHHDKKEYT0Z_24233
+0	cds vinyl pop	A2PVMN4SH0MJON_40307
+0	cds vinyl pop	AK8B26S9ATCN7_16246
+0	cds vinyl pop	A8EDTKSPOMRWK_2878
+1	cds vinyl classical forms genres symphonies	A1M9WSTQ1M7IGX_34515
+0	cds vinyl classical forms genres symphonies	A2WQY1B8ZS7QRZ_12807
+0	cds vinyl classical forms genres symphonies	A2H1WNB30JNAWU_5760
+0	cds vinyl classical forms genres symphonies	A1478L1PZNI2AO_52756
+0	cds vinyl classical forms genres symphonies	AA9RGE8TOL081_8487
+0	cds vinyl classical forms genres symphonies	A25V7KAUQZ1W1W_9719
+1	cds vinyl classical symphonies	A1M9WSTQ1M7IGX_32462
+0	cds vinyl classical symphonies	A2N16PKY6CHP01_4098
+0	cds vinyl classical symphonies	APZSWNPMVSZ84_917
+0	cds vinyl classical symphonies	A1DMOOFE9R8N5U_18104
+0	cds vinyl classical symphonies	A1RW7MJO2CCR1Z_2361
+0	cds vinyl classical symphonies	A3VBVES8IYR5ZJ_43838
+1	cds vinyl rock	A1M9WSTQ1M7IGX_36866
+0	cds vinyl rock	AGA6B9FHJ6HY0_4105
+0	cds vinyl rock	A3PDYRRLMS1UAL_43803
+0	cds vinyl rock	A4I6GZB9ELXJH_8897
+0	cds vinyl rock	A3J18F79VK6TQJ_28993
+0	cds vinyl rock	A5YY9Y650BEC7_32265
+1	cds vinyl progressive rock	A1M9WSTQ1M7IGX_2329
+0	cds vinyl progressive rock	A32NG4NN7QQ50K_45191
+0	cds vinyl progressive rock	A96JD9312DHWC_50052
+0	cds vinyl progressive rock	A2Q833XFDSBN5G_23292
+0	cds vinyl progressive rock	A3LSL926C5CBVR_45966
+0	cds vinyl progressive rock	A3RI9UWBHQ6D51_5812
+1	cds vinyl alternative rock industrial goth	A1M9WSTQ1M7IGX_13052
+0	cds vinyl alternative rock industrial goth	A3KJ6JAZPH382D_27843
+0	cds vinyl alternative rock industrial goth	A27VTXX08JRVQ9_10332
+0	cds vinyl alternative rock industrial goth	A1X4JO8EJ1U5BR_10661
+0	cds vinyl alternative rock industrial goth	A1U8O6X8ZUZ62_20737
+0	cds vinyl alternative rock industrial goth	A27LB0VUIXIX8H_16823
+1	cds vinyl classical symphonies	A1M9WSTQ1M7IGX_15956
+0	cds vinyl classical symphonies	A36R534NNA3E3K_10512
+0	cds vinyl classical symphonies	A2MHCZISNWHQFR_28194
+0	cds vinyl classical symphonies	A2C2LOZI1UC2YD_3970
+0	cds vinyl classical symphonies	AUDSM2CTLLW1Q_13771
+0	cds vinyl classical symphonies	A369MWR5KSPKUV_42604
+1	cds vinyl special interest	A1M9WSTQ1M7IGX_34633
+0	cds vinyl special interest	A3RCUW441E9UZA_43704
+0	cds vinyl special interest	A16QJ649N8PRV_4306
+0	cds vinyl special interest	A2594FXIWAMRJ3_13927
+0	cds vinyl special interest	A20KOA85CTFQVT_42904
+0	cds vinyl special interest	A1ANRKHR4QWXJU_57070
+1	cds vinyl	A1M9WSTQ1M7IGX_11290
+0	cds vinyl	AZVHFS4KQBQTK_8783
+0	cds vinyl	A1QW76PSGD6OOW_20147
+0	cds vinyl	A3AJ3NHS4U31FH_55438
+0	cds vinyl	ALI37GESM0SHQ_1192
+0	cds vinyl	AAKSLZ9IDTEH0_20381
+1	cds vinyl classical symphonies	A1M9WSTQ1M7IGX_36867
+0	cds vinyl classical symphonies	A2PCNX59G2GLIM_48429
+0	cds vinyl classical symphonies	A27C3BL49GHCND_42570
+0	cds vinyl classical symphonies	A32MGJDS3UP2AC_12063
+0	cds vinyl classical symphonies	A9Q28YTLYREO7_1437
+0	cds vinyl classical symphonies	A3LWYN3V20KJJA_28082
+1	cds vinyl hard rock	A1M9WSTQ1M7IGX_12097
+0	cds vinyl hard rock	AADJXNY9HSKJF_329
+0	cds vinyl hard rock	A1QEWOSV05RYEO_21107
+0	cds vinyl hard rock	A30XZO9A3H5BYH_3407
+0	cds vinyl hard rock	AIO247KHD2O40_3826
+0	cds vinyl hard rock	A2QWMT9F3LUSHC_22673
+1	cds vinyl folk	A1M9WSTQ1M7IGX_36868
+0	cds vinyl folk	A34A7QEBMYTALW_12377
+0	cds vinyl folk	A2I18AO597DSDI_16991
+0	cds vinyl folk	ABE14SVILZLNY_7411
+0	cds vinyl folk	A3RC3AK8UN89I9_3340
+0	cds vinyl folk	ASMV9BDQ52X8E_23698
+1	cds vinyl classical symphonies	A1M9WSTQ1M7IGX_36869
+0	cds vinyl classical symphonies	A3JD07VHDLT5FF_1283
+0	cds vinyl classical symphonies	A3KENOAUKTWZJL_10276
+0	cds vinyl classical symphonies	A1D71VBP6Y9VRO_10764
+0	cds vinyl classical symphonies	A3E3EQ39FZTZEK_15911
+0	cds vinyl classical symphonies	A1BPFV0N4C12AI_36805
+1	cds vinyl classical symphonies	A1M9WSTQ1M7IGX_34937
+0	cds vinyl classical symphonies	A3KS6XNI6OXY2T_36694
+0	cds vinyl classical symphonies	A2INX8B6VXUVW6_3428
+0	cds vinyl classical symphonies	A2YTGRFQC9ZF52_31324
+0	cds vinyl classical symphonies	A1TPKBOBV0O84Z_17957
+0	cds vinyl classical symphonies	A3U3W7URZU9259_1433
+1	cds vinyl classical symphonies	A1M9WSTQ1M7IGX_36870
+0	cds vinyl classical symphonies	A1R7R0Q678QND_4372
+0	cds vinyl classical symphonies	A35AUKSYSLP8M_5769
+0	cds vinyl classical symphonies	A1GIIPXONCEEHP_5443
+0	cds vinyl classical symphonies	A10XJR7CWHNKWU_22285
+0	cds vinyl classical symphonies	AK7HA5YU06NLG_18071
+1	cds vinyl classical vocal non opera te deum	A1M9WSTQ1M7IGX_816
+0	cds vinyl classical vocal non opera te deum	A3VZVYWCTGIEV0_29506
+0	cds vinyl classical vocal non opera te deum	A2ZPZE3I9VHVA7_15708
+0	cds vinyl classical vocal non opera te deum	A3CG7SQ6DA5YOC_35286
+0	cds vinyl classical vocal non opera te deum	A19EP4HORZNCT5_36703
+0	cds vinyl classical vocal non opera te deum	A20NJ0YBT6ONQH_2329
+1	cds vinyl classical symphonies	A1M9WSTQ1M7IGX_34702
+0	cds vinyl classical symphonies	A2RWGW6TGUX7E5_28888
+0	cds vinyl classical symphonies	A3BFJE27AMFSB2_13355
+0	cds vinyl classical symphonies	A3NK6P0QFDUZL2_866
+0	cds vinyl classical symphonies	A13PBVRDI4I2LW_5098
+0	cds vinyl classical symphonies	A3W0POMI33YQXQ_7730
+1	cds vinyl alternative rock new wave post punk	A1M9WSTQ1M7IGX_36871
+0	cds vinyl alternative rock new wave post punk	A31CWVNVR0IL9A_25957
+0	cds vinyl alternative rock new wave post punk	A2VN15501IUTND_3841
+0	cds vinyl alternative rock new wave post punk	A2Q5WK5NTHSM0R_13097
+0	cds vinyl alternative rock new wave post punk	A33RDFYADJUYJQ_11151
+0	cds vinyl alternative rock new wave post punk	AMG3HKIS9V9R5_49310
+1	cds vinyl pop adult alternative	A1M9WSTQ1M7IGX_1430
+0	cds vinyl pop adult alternative	A2A6RLZZ83O4W1_24426
+0	cds vinyl pop adult alternative	A1L0L5LL943B5T_46742
+0	cds vinyl pop adult alternative	A1AF6NV1TRMSF6_10823
+0	cds vinyl pop adult alternative	A1RJJ56MBJMX87_6566
+0	cds vinyl pop adult alternative	AKOACC54YJOLE_12101
+1	cds vinyl classical symphonies	A1M9WSTQ1M7IGX_9373
+0	cds vinyl classical symphonies	AKFE1P1ZDBPXU_900
+0	cds vinyl classical symphonies	A22VNXHU6IZ5MT_10654
+0	cds vinyl classical symphonies	A7IIPRUAEZ2N6_52779
+0	cds vinyl classical symphonies	AURRFEI0X9JR2_29357
+0	cds vinyl classical symphonies	A1UQQ995IUT7VT_5679
+1	cds vinyl classical symphonies	A1M9WSTQ1M7IGX_28143
+0	cds vinyl classical symphonies	A3SV72ZAHH2IDH_11222
+0	cds vinyl classical symphonies	A3HU0B9XUEVHIM_22977
+0	cds vinyl classical symphonies	A3OLZXHFGUAMWW_6993
+0	cds vinyl classical symphonies	AJK5WHV1GW941_5679
+0	cds vinyl classical symphonies	A3Q4XAQXKKV6V_247
+1	cds vinyl dance electronic	A1M9WSTQ1M7IGX_27758
+0	cds vinyl dance electronic	A3GKMK6KQH3Y1H_41818
+0	cds vinyl dance electronic	A3UW2LF45BOPY7_31324
+0	cds vinyl dance electronic	A2NJO6YE954DBH_3405
+0	cds vinyl dance electronic	A1D71VBP6Y9VRO_12015
+0	cds vinyl dance electronic	ASSCA9IS0GWF5_31146
+1	cds vinyl classical symphonies	A1M9WSTQ1M7IGX_32500
+0	cds vinyl classical symphonies	A1SK85PNCBXTLP_24709
+0	cds vinyl classical symphonies	A2MZE8TVXF279N_39109
+0	cds vinyl classical symphonies	A200C7YQJ45LRR_49156
+0	cds vinyl classical symphonies	A38X5F9Q7RJ974_31160
+0	cds vinyl classical symphonies	A3YNK9J3NDOUH_59989
+1	cds vinyl vocal pop	A1M9WSTQ1M7IGX_34725
+0	cds vinyl vocal pop	A2G644FLIBT6F9_5194
+0	cds vinyl vocal pop	A3B4N44LA778OG_16439
+0	cds vinyl vocal pop	AUW3HCCTUOARV_17466
+0	cds vinyl vocal pop	A1DC7HGMS3MBYI_16758
+0	cds vinyl vocal pop	A18N6J11G5YD6E_31275
+1	cds vinyl classical symphonies	A1M9WSTQ1M7IGX_34659
+0	cds vinyl classical symphonies	A90OOWQZR6QIP_37171
+0	cds vinyl classical symphonies	A3OLZXHFGUAMWW_10298
+0	cds vinyl classical symphonies	A1M65AR0MGWSU1_43398
+0	cds vinyl classical symphonies	A2CGBYAWRG0200_46328
+0	cds vinyl classical symphonies	A1MEBB9BPUT68S_60101
+1	cds vinyl classic album oriented rock aor	A1M9WSTQ1M7IGX_1614
+0	cds vinyl classic album oriented rock aor	AQ6J4B5WLGRJ5_9612
+0	cds vinyl classic album oriented rock aor	A3OI841P5R6FCH_20034
+0	cds vinyl classic album oriented rock aor	A3QEYUMYBIXQ4J_1418
+0	cds vinyl classic album oriented rock aor	ADNV4SOGOMZXP_50933
+0	cds vinyl classic album oriented rock aor	A2CU4HDD117XXW_219
+1	cds vinyl alternative rock hardcore punk	A1M9WSTQ1M7IGX_3700
+0	cds vinyl alternative rock hardcore punk	A9E6BXLCOBL40_27060
+0	cds vinyl alternative rock hardcore punk	ASVNSWIXBV72Q_37261
+0	cds vinyl alternative rock hardcore punk	A4MBICSNR9ZP0_23814
+0	cds vinyl alternative rock hardcore punk	A7EJERNB7IK3Z_243
+0	cds vinyl alternative rock hardcore punk	AXBXRWHHCM00Z_18899
+1	cds vinyl dance electronic	A1M9WSTQ1M7IGX_9912
+0	cds vinyl dance electronic	A1IMHDHOKF2J33_42549
+0	cds vinyl dance electronic	A1ISW6NMR45Y71_41944
+0	cds vinyl dance electronic	A3AKRYFJI5BT4L_328
+0	cds vinyl dance electronic	A337VQW00OJ5I5_527
+0	cds vinyl dance electronic	A299AG3O394X32_23789
+1	cds vinyl classical	A1M9WSTQ1M7IGX_17644
+0	cds vinyl classical	A6TU9HCTU9MMQ_41696
+0	cds vinyl classical	A2MYZ791REPMWJ_10717
+0	cds vinyl classical	A367Q9VRWQZG7W_10936
+0	cds vinyl classical	AVCRD98TH48RN_173
+0	cds vinyl classical	A1A63EDKHNUFAO_35800
+1	cds vinyl alternative lo fi indie rock	A1M9WSTQ1M7IGX_4564
+0	cds vinyl alternative lo fi indie rock	A13E0ARAXI6KJW_9855
+0	cds vinyl alternative lo fi indie rock	A5WDJI6VT51TK_42275
+0	cds vinyl alternative lo fi indie rock	A2EGK0YRDF4ZZB_47910
+0	cds vinyl alternative lo fi indie rock	A1YD00DX6P7JGL_2779
+0	cds vinyl alternative lo fi indie rock	A8IFUOL8S9BZC_41676
+1	cds vinyl world music continental europe france	A1M9WSTQ1M7IGX_15203
+0	cds vinyl world music continental europe france	A1ALPL858XSDE_19551
+0	cds vinyl world music continental europe france	A3RSO2MXIZA9EB_13656
+0	cds vinyl world music continental europe france	A2F7KIN0SL00I6_11195
+0	cds vinyl world music continental europe france	A1BHJY46QTUS7J_40968
+0	cds vinyl world music continental europe france	A16ELVAT9ZE7PZ_61041
+1	cds vinyl classical symphonies	A1M9WSTQ1M7IGX_11579
