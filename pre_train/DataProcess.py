@@ -334,9 +334,10 @@ class ContrasDataset(Dataset):
                 else:
                     continue
 
-        elif strategy=='item_replace':
+        elif strategy == 'item_replace':
+
             if len(cur_product) > 2:
-                random_positions = random.randint(0, len(cur_product)-1)
+                random_positions = random.randint(0, len(cur_product) - 1)
             else:
                 random_positions = 0
             aug_sequence = []
@@ -344,13 +345,13 @@ class ContrasDataset(Dataset):
                 total_product = len(self.product_emb_dict)
             else:
                 total_product = len(self.product_attr)
-            before_emb = np.array(cur_product[random_positions],dtype=float)
+            before_emb = np.array(cur_product[random_positions], dtype=float)
             change_product = 0
             for i in range(total_product):
-                i_emb = np.array(self.product_emb_dict[self.product_list[i]],dtype=float)
+                i_emb = np.array(self.product_emb_dict[self.product_list[i]], dtype=float)
                 score = np.dot(i_emb, before_emb) / (norm(i_emb) * norm(before_emb))
                 if (score < 1.0) and (score > 0.5):
-                    change_product = i # the product index of the product
+                    change_product = i  # the product index of the product
                     if self.product_list[change_product] in self.product_attr.keys():
                         change_attr = self.product_attr[self.product_list[change_product]]
                         break
@@ -359,15 +360,15 @@ class ContrasDataset(Dataset):
                 else:
                     continue
 
-            if change_product ==0 :
-                while(1):
+            if change_product == 0:
+                while (1):
                     change_product = random.randint(0, total_product)
                     if self.product_list[change_product] in self.product_attr.keys():
                         change_attr = self.product_attr[self.product_list[change_product]]
                         break
                     else:
                         continue
-         
+
             for i in range(len(i_qd)):
                 if (i % 3 == 0):
                     continue
@@ -404,6 +405,22 @@ class ContrasDataset(Dataset):
             '''
             # what is the range of the items being searched?
             # Do we need to search all products for item-replacing?
+        elif strategy == 'item_replace_2':
+            random_positions = random.randint(0, len(cur_product) - 1)
+            aug_sequence = []
+            total_product = len(self.product_emb_dict)
+            replaced_item = cur_product[random_positions]
+            replaced_item_related = self.prodcut_related[replaced_item]
+            change_product = random.randint(0, len(replaced_item_related) - 1)
+            change_attr = self.product_attr[self.product_list[change_product]]
+            print(change_product)
+            for i in range(len(i_qd)):
+                if (i % 3 == 0):
+                    continue
+                elif (i == (random_positions * 3 + 2)):
+                    aug_sequence.append(change_attr)
+                else:
+                    aug_sequence.append(i_qd[i])
         else:
             print(strategy)
             # assert False
