@@ -167,7 +167,7 @@ if __name__ == '__main__':
     args.bert_model_path = 'bert-base-uncased' #'/home/shitong_dai/seqpps/fine_tune/model/BertSessionSearch.clothes'
     args.pretrain_model_path = './pre_train/model/BertContrastive.Musical_Instruments.4.10.64.sent_deletion.term_deletion.qd_reorder.query_del.item_replace'
     train_data = "./data/CDs_and_Vinyl/train_data.txt"
-    test_data = "./data/CDs_and_Vinyl/test_data.txt"
+    test_data = "./data/CDs_and_Vinyl/data.txt"
 
     predict_data = test_data
     tokenizer = BertTokenizer.from_pretrained(args.bert_model_path)
