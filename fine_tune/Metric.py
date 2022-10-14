@@ -3,7 +3,7 @@ import pytrec_eval
 
 class Metrics(object):
 
-    def __init__(self, score_file_path, segment=50):
+    def __init__(self, score_file_path, segment=5):
         super(Metrics, self).__init__()
         self.score_file_path = score_file_path
         self.segment = segment
